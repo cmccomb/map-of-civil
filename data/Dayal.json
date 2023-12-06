@@ -15,11 +15,6 @@
         "citation": "IUTAM Symposium on Multiscale Modelling of Fatigue, Damage and Fracture in …, 2011"
     },
     {
-        "title": "A Dimensionally-Reduced Nonlinear Elasticity Model for Liquid Crystal Elastomer Strips with Transverse Curvature",
-        "pub_year": "2023",
-        "citation": "Soft Matter, 2023"
-    },
-    {
         "title": "A Dynamic Multiscale Phase-field Model for Structural Transformations and Twinning: Regularized Interfaces with Transparent Prescription of Complex Kinetics and Nucleation",
         "pub_year": "2014",
         "citation": "arXiv preprint arXiv:1412.8491, 2014"
@@ -47,6 +42,11 @@
         "title": "A completely iterative method for the infinite domain electrostatic problem with nonlinear dielectric media",
         "pub_year": "2011",
         "citation": "Journal of Computational Physics 230 (21), 7821-7829, 2011"
+    },
+    {
+        "title": "A dimensionally-reduced nonlinear elasticity model for liquid crystal elastomer strips with transverse curvature",
+        "pub_year": "2023",
+        "citation": "Soft Matter 19 (45), 8764-8778, 2023"
     },
     {
         "title": "A dynamic phase-field model for structural transformations and twinning: Regularized interfaces with transparent prescription of complex kinetics and nucleation. Part I …",
@@ -300,9 +300,9 @@
         "citation": "Annual Review of Materials Research 53, 2023"
     },
     {
-        "title": "Grain boundary migration in polycrystalline -Fe",
+        "title": "Grain boundary migration in polycrystalline α-Fe",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2311.11219, 2023"
+        "citation": "Acta Materialia, 119541, 2023"
     },
     {
         "title": "HOW MECHANOBIOLOGY CAPTURES RECEPTOR CLUSTERING ON LIPID RAFTS DURING LIGAND BINDING",
