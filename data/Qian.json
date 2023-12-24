@@ -237,11 +237,6 @@
         "citation": "Transportation Research Part D: Transport and Environment 118, 103677, 2023"
     },
     {
-        "title": "Estimating Network Flow and Travel Behavior Using Day-to-Day System-Level Data: A Computational Graph Approach",
-        "pub_year": "2023",
-        "citation": "Available at SSRN 4490930, 2023"
-    },
-    {
         "title": "Estimating and Mitigating the Congestion Effect of Curbside Pick-ups and Drop-offs: A Causal Inference Approach",
         "pub_year": "2022",
         "citation": "arXiv preprint arXiv:2206.02164, 2022"
@@ -260,6 +255,11 @@
         "title": "Estimating multi-year 24/7 origin-destination demand using high-granular multi-source traffic data",
         "pub_year": "2018",
         "citation": "Transportation Research Part C: Emerging Technologies 96, 96-121, 2018"
+    },
+    {
+        "title": "Estimating network flow and travel behavior using day-to-day system-level data: A computational graph approach",
+        "pub_year": "2024",
+        "citation": "Transportation Research Part C: Emerging Technologies 158, 104409, 2024"
     },
     {
         "title": "Estimating probabilistic dynamic origin-destination demands using multi-day traffic data on computational graphs",

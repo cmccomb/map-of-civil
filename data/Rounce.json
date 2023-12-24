@@ -243,6 +243,11 @@
         "citation": "AGU Fall Meeting Abstracts 2014, GC13E-0701, 2014"
     },
     {
+        "title": "Leveraging SAR-derived Glacier Melt Extents to Improve Glacier Projections in High Mountain Asia (HMA) and Alaska",
+        "pub_year": "2023",
+        "citation": "AGU23, 2023"
+    },
+    {
         "title": "Long-term legacy of delayed climate mitigation in global glacier response",
         "pub_year": "2021",
         "citation": "EGU General Assembly Conference Abstracts, EGU21-12898, 2021"
@@ -421,7 +426,8 @@
     },
     {
         "title": "Ten New Insights in Climate Science 2023/2024",
-        "citation": "Global Sustainability, 1-58, 0"
+        "pub_year": "2023",
+        "citation": "Global Sustainability, 1-58, 2023"
     },
     {
         "title": "The Python Glacier Evolution Model (PyGEM): an overview of the latest developments, applications, and future directions",
