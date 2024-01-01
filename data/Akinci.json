@@ -930,10 +930,6 @@
         "citation": "CAD and GIS Integration, 85-122, 2009"
     },
     {
-        "title": "LOCATING BUILDING COMPONENTS WITHIN A FACILITY USING RADIO FREQUENCY IDENTIFICATION TECHNOLOGY",
-        "citation": ""
-    },
-    {
         "title": "Laser scanning for bridge inspection and management",
         "pub_year": "2007",
         "citation": "IABSE Symposium Report 93 (18), 17-24, 2007"
@@ -967,6 +963,11 @@
         "title": "Life-cycle data management of engineered-to-order components using radio frequency identification",
         "pub_year": "2007",
         "citation": "Advanced Engineering Informatics 21 (4), 356-366, 2007"
+    },
+    {
+        "title": "Locating Building Components Within A Facility Using Radio Frequency Identification Technology",
+        "pub_year": "2006",
+        "citation": "Joint International Conference on Computing and Decision Making in Civil and …, 2006"
     },
     {
         "title": "Locating transportation infrastructure components and accessing histories for bridge inspection with radio frequency technology",
@@ -1361,6 +1362,11 @@
         "title": "Towards A Formal Approach for Updating Building Information Models",
         "pub_year": "2008",
         "citation": "null, 2008"
+    },
+    {
+        "title": "Towards Automated Defect Detection: Object-oriented Modeling of Construction Specifications",
+        "pub_year": "2004",
+        "citation": ""
     },
     {
         "title": "Towards a formal approach for updating building information models",
