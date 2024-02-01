@@ -217,6 +217,10 @@
         "citation": "Advances in Informatics and Computing in Civil and Construction Engineering …, 2019"
     },
     {
+        "title": "Bridge Inspection Strategy Analysis through Human-Drone Interaction Games",
+        "citation": "Computing in Civil Engineering 2023, 597-605, 0"
+    },
+    {
         "title": "Bridge scour identification and field application based on ambient vibration measurements of superstructures",
         "pub_year": "2019",
         "citation": "Journal of Marine Science and Engineering 7 (5), 121, 2019"
@@ -447,6 +451,10 @@
         "citation": "Computing in civil engineering (2011), 486-493, 2011"
     },
     {
+        "title": "Enhancing Nuclear Power Plant Operations: An Ontology for Conditional Tasks",
+        "citation": "Computing in Civil Engineering 2023, 597-604, 0"
+    },
+    {
         "title": "Evaluating Operators’ Real-Time Mental Workload with Eye Movement Analysis in Nuclear Power Plants’ Operations",
         "pub_year": "2021",
         "citation": "Computing in Civil Engineering 2021, 1457-1464, 2021"
@@ -490,6 +498,15 @@
         "title": "Frequency analysis of bridge condition explanatory data items for customized data collection and bridge management",
         "pub_year": "2012",
         "citation": "CICTP 2012: Multimodal Transportation Systems—Convenient, Safe, Cost …, 2012"
+    },
+    {
+        "title": "Generalizable Building Energy and Carbon Emissions Benchmarking with Post-Prediction Analysis",
+        "citation": "Available at SSRN 4474268, 0"
+    },
+    {
+        "title": "Generalized building energy and carbon emissions benchmarking with post-prediction analysis",
+        "pub_year": "2024",
+        "citation": "Developments in the Built Environment, 100320, 2024"
     },
     {
         "title": "Geometry-based optimized point cloud compression methodology for construction and infrastructure management",
@@ -602,6 +619,10 @@
         "citation": "Department of Energy, Idaho National Laboratory, 2022"
     },
     {
+        "title": "Knowledge Sharing and Workforce Engagement Using Digital Twins-Based Simulations and Extended Reality for Process Operations",
+        "citation": "Computing in Civil Engineering 2023, 680-687, 0"
+    },
+    {
         "title": "Knowledge-based Registration for Reliable Correlated Change Detection on High-pier Curved Continuous Rigid Frame Bridge",
         "pub_year": "2019",
         "citation": "EG-ICE 2019 Workshop on Intelligent Computing in Engineering, 2019"
@@ -664,6 +685,10 @@
         "title": "Non-contact bridge deflection measurement: Application of laser technology",
         "pub_year": "2011",
         "citation": ""
+    },
+    {
+        "title": "Optimizing HVAC Systems for Energy Efficiency and Comfort: A Scalable and Robust Multi-Zone Control Approach with Uncertainty Considerations",
+        "citation": "Computing in Civil Engineering 2023, 987-995, 0"
     },
     {
         "title": "Physics-based model and data dual-driven approaches for predictive evacuation",

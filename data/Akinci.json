@@ -564,6 +564,11 @@
         "citation": "Computing in Civil Engineering 2015, 223-231, 2015"
     },
     {
+        "title": "Digital Twin Technologies for Autonomous Environmental Control and Life Support Systems",
+        "pub_year": "2024",
+        "citation": "Journal of Aerospace Information Systems, 1-15, 2024"
+    },
+    {
         "title": "Discussion of “Longitudinal Stresses and Strains in Design of RPM Plpes” by Jey K. Jeyapalan and B. M. Abdel-Magid (May, 1987, Vol. 113, No. 3)",
         "pub_year": "1988",
         "citation": "Journal of Transportation Engineering 114 (5), 629-631, 1988"
@@ -1364,11 +1369,6 @@
         "citation": "null, 2008"
     },
     {
-        "title": "Towards Automated Defect Detection: Object-oriented Modeling of Construction Specifications",
-        "pub_year": "2004",
-        "citation": ""
-    },
-    {
         "title": "Towards a formal approach for updating building information models",
         "pub_year": "2008",
         "citation": "5th International Conference on Innovation in Architecture, Engineering and …, 2008"
@@ -1505,6 +1505,6 @@
     {
         "title": "面向大坝信息建模: 建筑, 工程, 施工及设施管理领域的最佳实践",
         "pub_year": "2016",
-        "citation": "大坝与安全, 65, 2016"
+        "citation": "大坝与安全, 65-70, 2016"
     }
 ]
