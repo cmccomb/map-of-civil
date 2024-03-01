@@ -935,6 +935,11 @@
         "citation": "CAD and GIS Integration, 85-122, 2009"
     },
     {
+        "title": "Journal of Space Safety Engineering",
+        "pub_year": "2023",
+        "citation": ""
+    },
+    {
         "title": "Laser scanning for bridge inspection and management",
         "pub_year": "2007",
         "citation": "IABSE Symposium Report 93 (18), 17-24, 2007"
@@ -1384,9 +1389,9 @@
         "citation": ""
     },
     {
-        "title": "Towards dam information modeling: Best practices learned from the AEC/FM domain",
-        "pub_year": "2013",
-        "citation": "Proceedings of International Commission on Large Dams (ICOLD), August 12-16 …, 2013"
+        "title": "Towards dam information modeling: best practices learned from the AEC/FM domain",
+        "pub_year": "2016",
+        "citation": "Dam & Safety, 65, 2016"
     },
     {
         "title": "Towards domain oriented semi automated model matching for supporting data exchange",

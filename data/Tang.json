@@ -138,6 +138,11 @@
         "citation": "Computing in Civil Engineering 2017, 91-98, 2017"
     },
     {
+        "title": "Automated flatness assessment for large quantities of full‐scale precast beams using laser scanning",
+        "pub_year": "2024",
+        "citation": "Computer‐Aided Civil and Infrastructure Engineering, 2024"
+    },
+    {
         "title": "Automated monitoring of pilot tube microtunneling installations through pattern recognition in time-series data of hydraulic pressure",
         "pub_year": "2013",
         "citation": "Pipelines 2013: Pipelines and Trenchless Construction and Renewals—A Global …, 2013"
@@ -218,7 +223,8 @@
     },
     {
         "title": "Bridge Inspection Strategy Analysis through Human-Drone Interaction Games",
-        "citation": "Computing in Civil Engineering 2023, 597-605, 0"
+        "pub_year": "2023",
+        "citation": "Computing in Civil Engineering 2023, 597-605, 2023"
     },
     {
         "title": "Bridge scour identification and field application based on ambient vibration measurements of superstructures",
@@ -452,7 +458,8 @@
     },
     {
         "title": "Enhancing Nuclear Power Plant Operations: An Ontology for Conditional Tasks",
-        "citation": "Computing in Civil Engineering 2023, 597-604, 0"
+        "pub_year": "2023",
+        "citation": "Computing in Civil Engineering 2023, 597-604, 2023"
     },
     {
         "title": "Evaluating Operators’ Real-Time Mental Workload with Eye Movement Analysis in Nuclear Power Plants’ Operations",
@@ -506,7 +513,7 @@
     {
         "title": "Generalized building energy and carbon emissions benchmarking with post-prediction analysis",
         "pub_year": "2024",
-        "citation": "Developments in the Built Environment, 100320, 2024"
+        "citation": "Developments in the Built Environment 17, 100320, 2024"
     },
     {
         "title": "Geometry-based optimized point cloud compression methodology for construction and infrastructure management",
@@ -620,7 +627,8 @@
     },
     {
         "title": "Knowledge Sharing and Workforce Engagement Using Digital Twins-Based Simulations and Extended Reality for Process Operations",
-        "citation": "Computing in Civil Engineering 2023, 680-687, 0"
+        "pub_year": "2023",
+        "citation": "Computing in Civil Engineering 2023, 680-687, 2023"
     },
     {
         "title": "Knowledge-based Registration for Reliable Correlated Change Detection on High-pier Curved Continuous Rigid Frame Bridge",
@@ -679,7 +687,8 @@
     },
     {
         "title": "Non-Invasive 3D Imaging and Sensor Data-Based Diagnosis of Water Treatment Plant Filter Integrity",
-        "citation": "ASCE Inspire 2023, 932-940, 0"
+        "pub_year": "2023",
+        "citation": "ASCE Inspire 2023, 932-940, 2023"
     },
     {
         "title": "Non-contact bridge deflection measurement: Application of laser technology",
@@ -688,7 +697,8 @@
     },
     {
         "title": "Optimizing HVAC Systems for Energy Efficiency and Comfort: A Scalable and Robust Multi-Zone Control Approach with Uncertainty Considerations",
-        "citation": "Computing in Civil Engineering 2023, 987-995, 0"
+        "pub_year": "2023",
+        "citation": "Computing in Civil Engineering 2023, 987-995, 2023"
     },
     {
         "title": "Physics-based model and data dual-driven approaches for predictive evacuation",
@@ -738,6 +748,11 @@
         "title": "Predictive nuclear power plant outage control through computer vision and data-driven simulation",
         "pub_year": "2020",
         "citation": "Progress in Nuclear Energy 127, 103448, 2020"
+    },
+    {
+        "title": "Proactive Improvements of Standard Taxi Routes in Airports Based on Data-Driven Simulation and Reinforcement Learning",
+        "pub_year": "2023",
+        "citation": "Transportation Research Board 102nd Annual MeetingTransportation Research Board, 2023"
     },
     {
         "title": "Process-oriented guidelines for systematic improvement of supervised learning research in construction engineering",
@@ -989,6 +1004,11 @@
         "title": "Water chlorophyll estimation in an urban canal system with high-resolution remote sensing data",
         "pub_year": "2020",
         "citation": "IEEE Geoscience and Remote Sensing Letters 18 (11), 1876-1880, 2020"
+    },
+    {
+        "title": "Workers and AI in the construction and operation of civil infrastructures",
+        "pub_year": "2024",
+        "citation": "Handbook of Artificial Intelligence at Work, 142-165, 2024"
     },
     {
         "title": "Workflow stabilization with finegrained work packaging and near real-time progress monitoring",

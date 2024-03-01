@@ -1,5 +1,9 @@
 [
     {
+        "title": "A Critical Investigation of the Practical Barriers of Grid-Interactive Capabilities in Vav Systems",
+        "citation": "Available at SSRN 4330887, 0"
+    },
+    {
         "title": "A Modeling Approach to Characterize the Demand Flexibility of the Air Distribution System in Commercial Buildings",
         "pub_year": "2021",
         "citation": ""
@@ -18,6 +22,11 @@
         "title": "A comparison of non-intrusive load monitoring methods for commercial and residential buildings",
         "pub_year": "2014",
         "citation": "arXiv preprint arXiv:1408.6595, 2014"
+    },
+    {
+        "title": "A critical investigation of the readiness of VAV systems to adopt grid-interactive capabilities",
+        "pub_year": "2023",
+        "citation": "Energy and Buildings 286, 112974, 2023"
     },
     {
         "title": "A damage localization and quantification algorithm for indirect structural health monitoring of bridges using multi-task learning",
@@ -96,7 +105,8 @@
     },
     {
         "title": "An Overview of Root Cause Analysis of Faults in Heating, Ventilation, and Air Conditioning (HVAC) Systems",
-        "citation": "Computing in Civil Engineering 2021, 1441-1448, 0"
+        "pub_year": "2022",
+        "citation": "Computing in Civil Engineering 2021, 1441-1448, 2022"
     },
     {
         "title": "An effect at the source creates ringing in a thick plate",
@@ -132,6 +142,11 @@
         "title": "Anomaly Detection on Piezometer Data Collected from Embankment Dams Using Physical Model-Based Simulation",
         "pub_year": "2014",
         "citation": "International Conference on Computing in Civil and Building Engineering …, 2014"
+    },
+    {
+        "title": "Anomaly identification algorithms for indirect structural health monitoring using a laboratory-scale railroad track system",
+        "pub_year": "2023",
+        "citation": "Health Monitoring of Structural and Biological Systems XVII 12488, 329-339, 2023"
     },
     {
         "title": "Assessment of Industry Foundation Classes (IFC) in Supporting Building Energy Benchmarking",
@@ -182,6 +197,11 @@
         "title": "COHORT: Coordination of Heterogeneous Thermostatically Controlled Loads for Demand Flexibility",
         "pub_year": "2020",
         "citation": "Proceedings of the 7th ACM International Conference on Systems for Energy …, 2020"
+    },
+    {
+        "title": "Challenges in Cyber-Physical Attack Detection for Building Automation Systems",
+        "pub_year": "2023",
+        "citation": "Proceedings of the 10th ACM International Conference on Systems for Energy …, 2023"
     },
     {
         "title": "Characterizing Perceived Data Sharing Barriers and Promotion Strategies in Civil Engineering",
@@ -292,6 +312,11 @@
         "title": "Diagnosis algorithms for indirect structural health monitoring of a bridge model via dimensionality reduction",
         "pub_year": "2020",
         "citation": "Mechanical Systems and Signal Processing 136, 106454, 2020"
+    },
+    {
+        "title": "Digital Twin Technologies for Autonomous Environmental Control and Life Support Systems",
+        "pub_year": "2024",
+        "citation": "Journal of Aerospace Information Systems, 1-15, 2024"
     },
     {
         "title": "Domain-Specific Querying Formalisms for Retrieving Information about HVAC Systems",
@@ -412,6 +437,11 @@
         "citation": "Proceedings of the 5th ACM Workshop on Embedded Systems For Energy-Efficient …, 2013"
     },
     {
+        "title": "Exploring the potentials and challenges of cyber-physical-social infrastructure systems for achieving human-centered objectives",
+        "pub_year": "2023",
+        "citation": "Proceedings of the 10th ACM International Conference on Systems for Energy …, 2023"
+    },
+    {
         "title": "Extending the information delivery manual approach to identify information requirements for performance analysis of HVAC systems",
         "pub_year": "2013",
         "citation": "Advanced Engineering Informatics 27 (4), 496-505, 2013"
@@ -422,13 +452,18 @@
         "citation": "Proceedings of the 4th ACM International Conference on Systems for Energy …, 2017"
     },
     {
+        "title": "FSBrick: An information model for representing fault-symptom relationships in HVAC systems",
+        "pub_year": "2023",
+        "citation": "Proceedings of the 10th ACM International Conference on Systems for Energy …, 2023"
+    },
+    {
         "title": "FactorNet: Learning to Factorize Intractable and Multi-Modal Posterior Distributions for Energy Disaggregation",
         "pub_year": "2018",
         "citation": "4th International Workshop on Non-Intrusive Load Monitoring, 2018"
     },
     {
-        "title": "Factors contributing to measurement uncertainty of HVAC-enabled demand flexibility in grid-interactive commercial buildings",
-        "citation": ""
+        "title": "Factors contributing to measurement uncertainty of HVAC-enabled demand flexibility in gridinteractive commercial buildings",
+        "citation": "Proceedings of the 29th EG-ICE International Workshop on Intelligent …, 0"
     },
     {
         "title": "Fine-Grained Activity of Daily Living (ADL) Recognition Through Heterogeneous Sensing Systems With Complementary Spatiotemporal Characteristics",
@@ -449,6 +484,11 @@
         "title": "Formalized control logic fault definition with ontological reasoning for air handling units",
         "pub_year": "2021",
         "citation": "Automation in Construction 129, 103781, 2021"
+    },
+    {
+        "title": "Functional Requirements Enabling Levels of Predictive Maintenance Automation and Autonomy",
+        "pub_year": "2022",
+        "citation": "2022 IEEE 2nd International Conference on Digital Twins and Parallel …, 2022"
     },
     {
         "title": "Gnu-RL: A Precocial Reinforcement Learning Solution for Building HVAC Control Using a Differentiable MPC Policy",
@@ -540,6 +580,11 @@
         "citation": "International Conference on Computing in Civil and Building Engineering …, 2014"
     },
     {
+        "title": "Lessons learned on the implementation of probabilistic graphical model-based digital twins: A space habitat study",
+        "pub_year": "2023",
+        "citation": "Journal of Space Safety Engineering 10 (2), 172-181, 2023"
+    },
+    {
         "title": "Leveraging data from environmental sensors to enhance electrical load disaggregation algorithms",
         "pub_year": "2010",
         "citation": "Proceedings of the 13th International Conference on Computing in Civil and …, 2010"
@@ -548,6 +593,11 @@
         "title": "Methods and apparatuses for monitoring energy consumption and related operations",
         "pub_year": "2015",
         "citation": "US Patent 9,104,189, 2015"
+    },
+    {
+        "title": "Modeling human behavior in cyber-physical-social infrastructure systems",
+        "pub_year": "2023",
+        "citation": "Proceedings of the 10th ACM International Conference on Systems for Energy …, 2023"
     },
     {
         "title": "Modeling thermostatically controlled loads to engage households in the smart grid: Lessons learned from residential refrigeration units",
@@ -593,6 +643,11 @@
         "title": "One size does not fit all: Averaged data on household electricity is inadequate for residential energy policy and decisions",
         "pub_year": "2013",
         "citation": "Energy and Buildings 64, 132-144, 2013"
+    },
+    {
+        "title": "Open-source hardware and software for a laboratory-scale track and moving vehicle actuation system used for indirect broken rail detection",
+        "pub_year": "2023",
+        "citation": "Sensors and Smart Structures Technologies for Civil, Mechanical, and …, 2023"
     },
     {
         "title": "Optimal Sensor Placement for Urban Heat Risk Response",
@@ -710,6 +765,11 @@
         "citation": "Journal of Computing in Civil Engineering 28 (1), 1-1, 2014"
     },
     {
+        "title": "State-of-the-Art Review and Synthesis: A Requirement-based Roadmap for Standardized Predictive Maintenance Automation Using Digital Twin Technologies",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2311.06993, 2023"
+    },
+    {
         "title": "Study on the Feasibility of Automated Data Labeling and Training Using an EMF Sensor in NILM Platforms",
         "pub_year": "2012",
         "citation": "Proceedings of the 2012 International EG-ICE Workshop on Intelligent …, 2012"
@@ -743,6 +803,11 @@
         "title": "Ten questions concerning human-building interaction research for improving the quality of life",
         "pub_year": "2022",
         "citation": "Building and Environment 226, 109681, 2022"
+    },
+    {
+        "title": "Ten questions concerning reinforcement learning for building energy management",
+        "pub_year": "2023",
+        "citation": "Building and Environment, 110435, 2023"
     },
     {
         "title": "The Digital Twin Landscape at the Crossroads of Predictive Maintenance, Machine Learning and Physics Based Modeling",
@@ -815,6 +880,11 @@
         "citation": "Proceedings of the 39th Annual Review of Progress in  Quantitative …, 2013"
     },
     {
+        "title": "Unmasking the Thermal Behavior of Single-Zone Multi-Room Houses: An Empirical Study",
+        "pub_year": "2023",
+        "citation": "Proceedings of the 10th ACM International Conference on Systems for Energy …, 2023"
+    },
+    {
         "title": "Unsupervised approximate power trace decomposition algorithm",
         "pub_year": "2014",
         "citation": "2nd Non-Intrusive Load Monitoring Workshop (NILM), 2014"
@@ -830,6 +900,11 @@
         "citation": "The 1st KDD Workshop on Data Mining Applications in Sustainability (SustKDD), 2011"
     },
     {
+        "title": "Updating subsystem-level fault-symptom relationships for Temperature and Humidity Control Systems with redundant functions",
+        "pub_year": "2023",
+        "citation": "Journal of Space Safety Engineering, 2023"
+    },
+    {
         "title": "User-centered nonintrusive electricity load monitoring for residential buildings",
         "pub_year": "2011",
         "citation": "Journal of computing in civil engineering 25 (6), 471-480, 2011"
@@ -843,6 +918,11 @@
         "title": "VI-based Appliance classification using aggregated power consumption data",
         "pub_year": "2018",
         "citation": "2018 IEEE International Conference on Smart Computing (SMARTCOMP), 179-186, 2018"
+    },
+    {
+        "title": "Value of accurate urban weather prediction in the day-ahead energy market",
+        "pub_year": "2023",
+        "citation": "ICASP14-14th International Conference on Applications of Statistics and …, 2023"
     },
     {
         "title": "Variational bolt: Approximate learning in factorial hidden markov models with application to energy disaggregation",
