@@ -11,6 +11,11 @@
     },
     {
         "title": "Fundamentals of Infrastructure Management",
+        "pub_year": "2019",
+        "citation": "Donald Coffelt and Chris Hendrickson, 2019"
+    },
+    {
+        "title": "Fundamentals of Infrastructure Management",
         "pub_year": "2017",
         "citation": "Carnegie Mellon University, 2017"
     },

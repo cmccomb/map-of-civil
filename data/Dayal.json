@@ -295,14 +295,14 @@
         "citation": "Journal of applied physics 100 (11), 114115, 2006"
     },
     {
-        "title": "Grain Boundary Migration in Polycrystals",
-        "pub_year": "2023",
-        "citation": "Annual Review of Materials Research 53, 2023"
-    },
-    {
         "title": "Grain boundary migration in polycrystalline α-Fe",
         "pub_year": "2024",
         "citation": "Acta Materialia 264, 119541, 2024"
+    },
+    {
+        "title": "Grain boundary migration in polycrystals",
+        "pub_year": "2023",
+        "citation": "Annual Review of Materials Research 53, 347-369, 2023"
     },
     {
         "title": "HOW MECHANOBIOLOGY CAPTURES RECEPTOR CLUSTERING ON LIPID RAFTS DURING LIGAND BINDING",
@@ -321,7 +321,7 @@
     {
         "title": "High-dimensional nonlinear Bayesian inference of poroelastic fields from pressure data",
         "pub_year": "2023",
-        "citation": "Mathematics and Mechanics of Solids, 10812865221140840, 2023"
+        "citation": "Mathematics and Mechanics of Solids 28 (9), 2108-2131, 2023"
     },
     {
         "title": "Influence of Strain on Space Charge Distribution at Ferroelectric Thin-Film Free Surfaces",
@@ -464,12 +464,17 @@
     {
         "title": "Statistical Field Theory for Nonlinear Elasticity of Polymer Networks with Nonlocal Excluded Volume Interactions",
         "pub_year": "2023",
-        "citation": "Bulletin of the American Physical Society, 2023"
+        "citation": "APS March Meeting Abstracts 2023, UU04. 001, 2023"
     },
     {
         "title": "Statistical field theory for nonlinear elasticity of polymer networks with excluded volume interactions",
         "pub_year": "2023",
         "citation": "Physical Review E 107 (6), 064501, 2023"
+    },
+    {
+        "title": "Statistical field theory for the free energy of an electro-mechanical polymer chain: non-local dipole-dipole interactions in the fixed applied field ensemble",
+        "pub_year": "2023",
+        "citation": "APS March Meeting Abstracts 2023, Q04. 010, 2023"
     },
     {
         "title": "Statistical field theory for the free energy of an electro-mechanical polymer chain: non-local dipole-dipole interactions in the fixed applied field ensemble",

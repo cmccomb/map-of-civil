@@ -179,7 +179,7 @@
     },
     {
         "title": "Computer Supported Cooperative Work in Design (CSCWD)",
-        "citation": ""
+        "citation": "2010 14th International Conference (April 2010) 19, 172-177, 0"
     },
     {
         "title": "Computer-Supported Collaborative Design: A Case Study of Distributed Engineering Design Teams",
@@ -225,14 +225,14 @@
         "citation": "American Society of Civil Engineers, New York, NY (United States), 1995"
     },
     {
-        "title": "Design Theory'88: Proceedings, Troy, June 2-5, 1988",
+        "title": "Design Theory'88: Proceedings of the 1988 NSF Grantee Workshop on Design Theory and Methodology",
         "pub_year": "1989",
         "citation": "Springer, 1989"
     },
     {
-        "title": "Design as Building and Reusing Artifact Theories: Understanding and Supporting",
-        "pub_year": "2012",
-        "citation": "The Design Productivity Debate, 268, 2012"
+        "title": "Design Theory'88: Proceedings, Troy, June 2-5, 1988",
+        "pub_year": "1989",
+        "citation": "Springer, 1989"
     },
     {
         "title": "Design as building and reusing artifact theories: understanding and supporting growth of design knowledge",
@@ -245,14 +245,14 @@
         "citation": "Proceedings. Frontiers in Education. 36th Annual Conference, 13-18, 2006"
     },
     {
-        "title": "Design fusion: A product life-cycle view for engineering designs",
-        "pub_year": "1988",
-        "citation": "Carnegie Mellon University, 1988"
-    },
-    {
         "title": "Design fusion: An architecture for concurrent design",
         "pub_year": "1992",
         "citation": "Knowledge Aided Design, 157-195, 1992"
+    },
+    {
+        "title": "Design fusion: a product life-cycle view for engineering designs",
+        "pub_year": "1988",
+        "citation": "Carnegie Mellon University, 1988"
     },
     {
         "title": "Design reuse and design research–Keynote paper",
@@ -315,7 +315,8 @@
     },
     {
         "title": "EDD'96 Programme Committee",
-        "citation": "The Design Productivity Debate, 291, 0"
+        "pub_year": "2012",
+        "citation": "The Design Productivity Debate, 291, 2012"
     },
     {
         "title": "ELECTRA: Time dependent power generation operation model user documentation",
@@ -424,6 +425,11 @@
         "title": "Investigation of transport phenomena in microcasting shape deposition manufacturing via optimal sampling experiments",
         "pub_year": "1997",
         "citation": "ASME-PUBLICATIONS-HTD 347, 241-250, 1997"
+    },
+    {
+        "title": "JM Reddy B. Chan",
+        "pub_year": "2016",
+        "citation": "Knowledge Intensive CAD: Volume 1, 265, 2016"
     },
     {
         "title": "Knowledge Intensive CAD [electronic resource]: Proceedings of the IFIP TC5 WG5. 2 International Conference on Knowledge Intensive CAD, 16–18 September 1996, Pittsburgh, PA, USA",
@@ -724,8 +730,8 @@
         "citation": ""
     },
     {
-        "title": "مقالات علمى و مقالات علمى پژوهشى‎",
+        "title": "مقالات علمی و مقالات علمی پژوهشی‎",
         "pub_year": "2012",
-        "citation": "صفه 22 (2), 5-20, 2012‎"
+        "citation": "صفه, 2012‎"
     }
 ]

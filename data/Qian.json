@@ -144,12 +144,13 @@
         "citation": "Transportation Research Record 2263 (1), 9-18, 2011"
     },
     {
-        "title": "Contrastive Learning for Traffic Flow Forecasting Based on Multi Graph Convolution Network",
-        "citation": "Available at SSRN 4386167, 0"
-    },
-    {
         "title": "Contrastive Optimized Graph Convolution Network for Traffic Forecasting",
         "citation": "Available at SSRN 4453307, 0"
+    },
+    {
+        "title": "Contrastive learning for traffic flow forecasting based on multi graph convolution network",
+        "pub_year": "2024",
+        "citation": "IET Intelligent Transport Systems 18 (2), 290-301, 2024"
     },
     {
         "title": "Data Sharing: Proactive Management of Mobility Impact of Interdependent Subsurface Utility and Roadway Construction through Incentives [supporting dataset]",
@@ -192,6 +193,11 @@
         "citation": "Transportation Research Board 91st Annual MeetingTransportation Research Board, 2012"
     },
     {
+        "title": "Dynamic Origin-Destination Estimation (DODE) Under Incidents Using Individual Trajectories Data [supporting dataset]",
+        "pub_year": "2023",
+        "citation": ""
+    },
+    {
         "title": "Dynamic Origin-Destination Estimation (DODE) under Incidents Using Individual Trajectories Data",
         "pub_year": "2023",
         "citation": "Mobility21, Carnegie Mellon University, 2023"
@@ -202,7 +208,7 @@
         "citation": "Institute of Transportation Studies, UC Berkeley, 2007"
     },
     {
-        "title": "Dynamic graph convolution network for traffic forecasting based on latent network of laplace matrix estimation",
+        "title": "Dynamic graph convolution network for traffic forecasting based on latent network of Laplace matrix estimation",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Intelligent Transportation Systems 23 (2), 1009-1018, 2020"
     },
@@ -340,7 +346,7 @@
         "citation": "AGU Fall Meeting Abstracts 2021, NH45A-0598, 2021"
     },
     {
-        "title": "Identifying Temporal Instability in Factors Causing Work Zone Crash Occurrences Using Fast Causal Inference",
+        "title": "Identifying temporal instability in factors causing work zone crash occurrences using fast causal inference",
         "pub_year": "2022",
         "citation": "Computing in Civil Engineering 2021, 98-105, 2022"
     },
@@ -628,6 +634,10 @@
         "citation": "Transportation Research Part C: Emerging Technologies 107, 444-462, 2019"
     },
     {
+        "title": "Prevedouros, PD, Ma, DT, 2019b. Investigation of driver injury severities in rural single-vehicle crashes under rain conditions using mixed logit and latent class models",
+        "citation": "Accident Analysis & Prevention 124, 219-229, 0"
+    },
+    {
         "title": "Proactive Management of Mobility Impact of Interdependent Subsurface Utility and Roadway Construction through Incentives [supporting datasets]",
         "pub_year": "2021",
         "citation": "Mobility21, Carnegie Mellon University, 2021"
@@ -677,9 +687,9 @@
         "citation": ""
     },
     {
-        "title": "Ridesharing and Digital Resilience for Urban Anomalies: Evidence from the New York City Taxi Market",
+        "title": "Ridesharing and digital resilience for urban anomalies: Evidence from the New York City taxi market",
         "pub_year": "2023",
-        "citation": "Information Systems Research, 2023"
+        "citation": "Information Systems Research 34 (4), 1775-1790, 2023"
     },
     {
         "title": "Road traffic congestion monitoring in social media with hinge-loss Markov random fields",
@@ -702,7 +712,7 @@
         "citation": "Mobility21, Carnegie Mellon University, 2021"
     },
     {
-        "title": "Smart and Equitable Parks: Quantifying Returns on Investments Based on Probabilistic Mobility-Dependent Correlates of Park Usage Using Cyber-Physical System Technologies",
+        "title": "Smart and equitable parks: Quantifying returns on investments based on probabilistic mobility-dependent correlates of park usage using cyber-physical system technologies",
         "pub_year": "2022",
         "citation": "Mobility21, Carnegie Mellon University, 2022"
     },
@@ -712,7 +722,7 @@
         "citation": "Journal of Infrastructure Systems 27 (2), 05021003, 2021"
     },
     {
-        "title": "Socioeconomic and Usage Characteristics of Public Transit Riders in the United States",
+        "title": "Socioeconomic and usage characteristics of public transit riders in the united states",
         "pub_year": "2019",
         "citation": "Transportation Research Board 98th Annual MeetingTransportation Research Board, 2019"
     },
@@ -751,11 +761,6 @@
         "citation": "World Environmental and Water Resources Congress 2023, 390-398, 0"
     },
     {
-        "title": "The Impact of Optimized Fleets in Transportation Networks",
-        "pub_year": "2023",
-        "citation": "Transportation Science, 2023"
-    },
-    {
         "title": "The economics of parking provision for the morning commute",
         "pub_year": "2011",
         "citation": "Procedia-Social and Behavioral Sciences 17, 612-633, 2011"
@@ -764,6 +769,11 @@
         "title": "The impact of car specifications, prices and incentives for battery electric vehicles in Norway: Choices of heterogeneous consumers",
         "pub_year": "2016",
         "citation": "Transportation Research Part C: Emerging Technologies 69, 386-401, 2016"
+    },
+    {
+        "title": "The impact of optimized fleets in transportation networks",
+        "pub_year": "2023",
+        "citation": "Transportation Science 57 (4), 1047-1068, 2023"
     },
     {
         "title": "The morning commute problem with coarse toll and nonidentical commuters",
@@ -801,11 +811,7 @@
         "citation": "Transportation research record 2623 (1), 29-39, 2017"
     },
     {
-        "title": "Transportmetrica B",
-        "citation": ""
-    },
-    {
-        "title": "Travel impacts of a complete street project in a mixed urban corridor",
+        "title": "Travel Impacts of a Complete Street Project in a Mixed Urban Corridor [Supporting Dataset]",
         "pub_year": "2020",
         "citation": "Mobility21, Carnegie Mellon University, 2020"
     },
@@ -855,6 +861,11 @@
         "citation": "AGU Fall Meeting Abstracts 2022, GC44F-04, 2022"
     },
     {
+        "title": "What Do Autonomous Vehicles Mean to Traffic Congestion and Crash?: Network Traffic Flow Modeling and Simulation for Autonomous Vehicles",
+        "pub_year": "2016",
+        "citation": "University Transportation Centers Program (US), 2016"
+    },
+    {
         "title": "What Happens When a Major Freeway Is Closed for Repair?: The Case of Fix I-5 in Downtown Sacramento, California",
         "pub_year": "2012",
         "citation": "Transportation research record, 134-144, 2012"
@@ -863,11 +874,6 @@
         "title": "What Happens When a Major Freeway Is Closed for Repairs? Case of Fix-I5 in Downtown Sacramento, California",
         "pub_year": "2012",
         "citation": "Transportation Research Record, 2012"
-    },
-    {
-        "title": "What do autonomous vehicles mean to traffic congestion and crash?: Network traffic flow modeling and simulation for autonomous vehicles.",
-        "pub_year": "2016",
-        "citation": "University Transportation Centers Program (US), 2016"
     },
     {
         "title": "Where is my parking spot? Online and offline prediction of time-varying parking occupancy",
@@ -879,10 +885,6 @@
         "citation": "Transportation Research Part B: Methodological 104, 710-732, 0"
     },
     {
-        "title": "Z.(Sean) Qian, PD Prevedouros, and DT Ma. 2019. Investigation of driver injury severities in rural single-vehicle crashes under rain conditions using mixed logit and latent …",
-        "citation": "Accident Analysis & Prevention 124, 219-229, 0"
-    },
-    {
         "title": "Zhen (Sean) Qian, Frances Sprei, and Beibei Li. 2016.“The Impact of Car Specifications, Prices and Incentives for Battery Electric Vehicles in Norway: Choices of Heterogeneous …",
         "citation": "Transportation Research Part C: Emerging Technologies 69, 386-401, 0"
     },
@@ -890,10 +892,6 @@
         "title": "Zhen (Sean) Qian, and Guohui Zhang.“",
         "pub_year": "2017",
         "citation": "Traffic State Estimation for Urban Road Networks Using a Link Queue Model …, 2017"
-    },
-    {
-        "title": "Zhen (Sean) Qian, and Xiaopeng Li.(2017).“A Mixed Traffic Capacity Analysis and Lane Management Model for Connected Automated Vehicles: A Markov Chain Method.”",
-        "citation": "Transportation Research Part B: Methodological 106, 266-92, 0"
     },
     {
         "title": "Zhen and Michael Zhang, H., 2013. Managing Bottleneck Congestion with Tradable Credits",

@@ -36,7 +36,7 @@
     {
         "title": "A framework for evaluating the impact of structural health monitoring on bridge management",
         "pub_year": "2010",
-        "citation": "Bridge Maintenance, Safety, Management and Life-Cycle Optimization …, 2010"
+        "citation": "Proc. 5th Int. Conf. Bridge Maintenance, Safety Manage, 161, 2010"
     },
     {
         "title": "A sequential decision making prospective on resilience",
@@ -96,7 +96,7 @@
     {
         "title": "Assessing the value of alternative bridge health monitoring systems",
         "pub_year": "2012",
-        "citation": "6th International Conference on Bridge Maintenance, Safety and Management …, 2012"
+        "citation": "Bridge Maintenance, Safety, Management, Resilience and Sustainability, 782-789, 2012"
     },
     {
         "title": "Assessing the value of information for long-term structural health monitoring",
@@ -234,6 +234,11 @@
         "citation": "Sensors and Smart Structures Technologies for Civil, Mechanical, and …, 2012"
     },
     {
+        "title": "Evaluation of geometrical precision and surface roughness quality for the additively manufactured radio frequency quadrupole prototype",
+        "pub_year": "2023",
+        "citation": "Journal of Physics: Conference Series 2420 (1), 012089, 2023"
+    },
+    {
         "title": "Experimental evaluation of a smart prestressed element instrumented with multiplexed interferometric fiber optic sensors",
         "pub_year": "2008",
         "citation": "4th European Workshop on Structural Health Monitoring, 863-870, 2008"
@@ -290,7 +295,7 @@
     {
         "title": "High-dimensional nonlinear Bayesian inference of poroelastic fields from pressure data",
         "pub_year": "2023",
-        "citation": "Mathematics and Mechanics of Solids, 10812865221140840, 2023"
+        "citation": "Mathematics and Mechanics of Solids 28 (9), 2108-2131, 2023"
     },
     {
         "title": "Historic buildings: long term stability evaluation using wireless sensor networks",
@@ -305,7 +310,7 @@
     {
         "title": "Importance measures for inspections in binary networks",
         "pub_year": "2019",
-        "citation": "ICASP13-13th International Conference on Applications of Statistics and …, 2019"
+        "citation": ""
     },
     {
         "title": "In-field testing of a steel wind turbine tower",
@@ -323,7 +328,7 @@
         "citation": "11th International Conference on Structural Safety And Reliability (ICOSSAR2013), 2013"
     },
     {
-        "title": "Information Avoidance and Overvaluation in Sequential Decision Making under Epistemic Constraints",
+        "title": "Information avoidance and overvaluation in sequential decision making under epistemic constraints",
         "pub_year": "2021",
         "citation": "arXiv preprint arXiv:2106.04984, 2021"
     },
@@ -336,6 +341,11 @@
         "title": "Integrated Inspection Scheduling and Maintenance Planning for Infrastructure Systems",
         "pub_year": "2015",
         "citation": "Computer‐Aided Civil and Infrastructure Engineering 31 (6), 403–415, 2015"
+    },
+    {
+        "title": "Investigating the mechanisms underlying resistance to chemoterapy and to CRISPR-Cas9 in cancer cell lines",
+        "pub_year": "2024",
+        "citation": "Scientific Reports 14 (1), 5402, 2024"
     },
     {
         "title": "KV* MVMVMVMVMVMV $ ñZh*]∞ qV╒┬*╧ JàI⌠ yJ╧ J╧ JqVv* v* ZEZE+* FW* eReReR╧ JN* v* εZE┬* ZEKVeR╧ JKVeReRV* U@ d*^┬*╖ UZEûC",
@@ -496,7 +506,7 @@
         "citation": "Proceedings of the Institution of Mechanical Engineers, Part O: Journal of …, 2021"
     },
     {
-        "title": "Optimal inspection of binary systems via Value of Information analysis",
+        "title": "Optimal inspection of binary systems via value of information analysis",
         "pub_year": "2022",
         "citation": "Reliability Engineering & System Safety 217, 107944, 2022"
     },
@@ -513,7 +523,7 @@
     {
         "title": "Parametric analysis of value of information for monitoring infrastructure components",
         "pub_year": "2017",
-        "citation": "Structural Health Monitoring, 2017"
+        "citation": "The 11th International Workshop on Structural Health Monitoring 1, 1306-1313, 2017"
     },
     {
         "title": "Performance evaluation of smart prefabricated concrete elements",
@@ -540,12 +550,16 @@
         "citation": "Computing in Civil Engineering 2017, 342-349, 2017"
     },
     {
+        "title": "Predicting the Condition of Controlled Systems Modeled by Finite Markov Processes",
+        "citation": ""
+    },
+    {
         "title": "Predicting the condition evolution of controlled infrastructure components modeled by markov processes",
         "pub_year": "2019",
         "citation": "13th International Conference on Applications of Statistics and Probability …, 2019"
     },
     {
-        "title": "Predicting the evolution of controlled systems modeled by finite markov processes",
+        "title": "Predicting the evolution of controlled systems modeled by finite Markov processes",
         "pub_year": "2021",
         "citation": "IEEE Transactions on Reliability 71 (1), 28-46, 2021"
     },
@@ -613,6 +627,11 @@
         "title": "Riconoscimento del danno in strutture in cemento armato tramite sensori a fibra ottica",
         "pub_year": "2006",
         "citation": "Atti del 5° Workshop su ottiche diffrattive, microottica e microsistemi, [nd …, 2006"
+    },
+    {
+        "title": "SPIE smart structures and materials+ nondestructive evaluation and health monitoring",
+        "pub_year": "2014",
+        "citation": "Structural Health Monitoring 1, 5, 2014"
     },
     {
         "title": "Seismic Assessment using a Bayesian Network",
@@ -722,7 +741,7 @@
     {
         "title": "Value of information analysis for typical bridge network topologies",
         "pub_year": "2016",
-        "citation": "Proceedings of the 8th International Conference on Bridge Maintenance …, 2016"
+        "citation": "Maintenance, Monitoring, Safety, Risk and Resilience of Bridges and Bridge …, 2016"
     },
     {
         "title": "Value of information: A roadmap to quantifying the benefit of structural health monitoring",
@@ -761,15 +780,10 @@
     {
         "title": "Wireless sensor networks for permanent health monitoring of historic buildings",
         "pub_year": "2010",
-        "citation": "Smart Structures and Systems 6 (5_6), 595-618, 2010"
+        "citation": "Smart Structures and Systems 6 (5-6), 595-618, 2010"
     },
     {
         "title": "Wireless sensor networks for permanent health monitoring of historic buildings Oct 15, 2009",
         "citation": ""
-    },
-    {
-        "title": "Wireless sensor networks for permanent health monitoring of historic constructions",
-        "pub_year": "2010",
-        "citation": "SPIE International Journal on Smart Structures and Systems, Special Issue on …, 2010"
     }
 ]

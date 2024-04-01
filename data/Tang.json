@@ -18,7 +18,7 @@
         "citation": ""
     },
     {
-        "title": "A Robust Registration Algorithm for Automatic and Reliable Geometric Change Detection 1 of Bridges using 3D Laser Scanning Data 2",
+        "title": "A Robust Registration Algorithm for Automatic and Reliable Geometric Change Detection of Bridges using 3D Laser Scanning Data",
         "pub_year": "2017",
         "citation": ""
     },
@@ -406,6 +406,7 @@
     },
     {
         "title": "Developments in the Built Environment",
+        "pub_year": "2022",
         "citation": ""
     },
     {
@@ -427,14 +428,9 @@
         "citation": "Construction Research Congress 2018, 443-453, 2018"
     },
     {
-        "title": "Discovering Factors that Influence the Use of Augmented Reality for Communication on Active Highway Construction Sites",
-        "pub_year": "2023",
-        "citation": "Transportation Research Record 2677 (5), 376-389, 2023"
-    },
-    {
         "title": "Discovering factors that influence the use of augmented reality for communication on active highway construction sites",
         "pub_year": "2023",
-        "citation": "Transportation research record, 03611981221131311, 2023"
+        "citation": "Transportation research record 2677 (5), 376-389, 2023"
     },
     {
         "title": "Dynamic human systems risk prognosis and control of lifting operations during prefabricated building construction",
@@ -482,7 +478,7 @@
         "citation": "European Conference on Computer Vision, 228-243, 2022"
     },
     {
-        "title": "Fast and Reliable Map Matching from Large-Scale Noisy Positioning Records",
+        "title": "Fast and reliable map matching from large-scale noisy positioning records",
         "pub_year": "2023",
         "citation": "Journal of Computing in Civil Engineering 37 (1), 04022040, 2023"
     },
@@ -725,7 +721,7 @@
         "citation": "Annual Meeting of the Lunar Exploration Analysis Group 1595, 36, 2010"
     },
     {
-        "title": "Predicting Collisions between Aircraft through Spatiotemporal Data-Driven Simulation of Airport Ground Operations",
+        "title": "Predicting collisions between aircraft through spatiotemporal data-driven simulation of airport ground operations",
         "pub_year": "2019",
         "citation": "AIAA Aviation 2019 Forum, 3414, 2019"
     },
@@ -835,7 +831,7 @@
         "citation": "Construction Research Congress 2012: Construction Challenges in a Flat World …, 2012"
     },
     {
-        "title": "Sharing Construction Safety Inspection Experiences and Site-Specific Knowledge through XR-Augmented Visual Assistance",
+        "title": "Sharing construction safety inspection experiences and site-specific knowledge through XR-augmented visual assistance",
         "pub_year": "2022",
         "citation": "arXiv preprint arXiv:2205.15833, 2022"
     },
@@ -870,6 +866,10 @@
         "citation": "Construction Research Congress 2020, 982-991, 2020"
     },
     {
+        "title": "Stabilizing Manufacturing Lines of Customized Building Mechanical Components under Uncertain Machinery Deterioration",
+        "citation": "Construction Research Congress 2024, 680-690, 0"
+    },
+    {
         "title": "Statistical and Visualization Approach for Ranking Factors Affecting NBI Bridge Rating",
         "pub_year": "2011",
         "citation": ""
@@ -894,7 +894,7 @@
     {
         "title": "Surveying, geomatics, and 3D reconstruction",
         "pub_year": "2020",
-        "citation": "Infrastructure Computer Vision, 13-64, 2020"
+        "citation": "Infrastructure computer vision, 13-64, 2020"
     },
     {
         "title": "Systems and methods for automated spatial change detection and control of buildings and construction sites using three-dimensional laser scanning data",
@@ -943,8 +943,8 @@
     },
     {
         "title": "Toward integrated human-machine intelligence for civil engineering: An interdisciplinary perspective",
-        "pub_year": "2021",
-        "citation": "Computing in Civil Engineering 2021, 279-286, 2021"
+        "pub_year": "2022",
+        "citation": "Computing in Civil Engineering 2021, 279-286, 2022"
     },
     {
         "title": "Track: Data Sensing and Analysis (Room 201-A)",
@@ -981,7 +981,7 @@
         "citation": "Computing in Civil Engineering 2015, 271-279, 2015"
     },
     {
-        "title": "Visual-semantic alignments for automated interpretation of 3D imagery data of high-pier bridges",
+        "title": "Visual-semantic alignments for automated interpretation of 3D Imagery data of high-pier bridges",
         "pub_year": "2019",
         "citation": "ASCE International Conference on Computing in Civil Engineering 2019, 209-216, 2019"
     },

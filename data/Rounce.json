@@ -65,7 +65,7 @@
         "citation": "The Cryosphere 11 (1), 443-449, 2017"
     },
     {
-        "title": "Changes in Imja Tsho in the Mount Everest region of Nepal",
+        "title": "Changes in Imja Tsho in the mount everest region of Nepal",
         "pub_year": "2014",
         "citation": "The Cryosphere 8 (5), 1661-1671, 2014"
     },
@@ -85,9 +85,9 @@
         "citation": "AGU Fall Meeting 2019, 2019"
     },
     {
-        "title": "Cryospheric Changes and Their Impact on the High-Mountain Water Cycle IV Poster",
-        "pub_year": "2021",
-        "citation": "AGU Fall Meeting 2021, 2021"
+        "title": "Cryospheric Changes and Their Impact on the High-Mountain Water Cycle III Poster",
+        "pub_year": "2022",
+        "citation": "Fall Meeting 2022, 2022"
     },
     {
         "title": "Cryospheric connections-Tracking the fate of glacier and snow melt water in High Mountain Asia: Implications for regional food security",
@@ -191,7 +191,7 @@
     {
         "title": "Glacier projections sensitivity to temperature-index model and climate downscaling parameter calibration choices",
         "pub_year": "2023",
-        "citation": "EGU23, 2023"
+        "citation": "EGU General Assembly Conference Abstracts, EGU-11983, 2023"
     },
     {
         "title": "Glacier projections sensitivity to temperature-index model choices and calibration strategies",
@@ -211,7 +211,7 @@
     {
         "title": "Grand challenges of hydrologic modeling for food-energy-water nexus security in high mountain Asia",
         "pub_year": "2021",
-        "citation": "Frontiers in Water, 123, 2021"
+        "citation": "Frontiers in Water 3, 728156, 2021"
     },
     {
         "title": "HAL-INSU Archives ouvertes CNRS-INSU",
@@ -235,7 +235,7 @@
     {
         "title": "Impact of the choice of surface mass balance models and their calibration on large-scale glacier change projections",
         "pub_year": "2021",
-        "citation": "EGU General Assembly Conference Abstracts. EGU General Assembly Conference …, 2021"
+        "citation": "EGU General Assembly Conference Abstracts, EGU21-1391, 2021"
     },
     {
         "title": "Improving geomorphological process understanding of complex glacier surfaces using aerial robotics",
@@ -251,6 +251,11 @@
         "title": "Investigating the Evolution of Imja Lake and Imja-Lhotse Shar Glacier with a Debris-Covered Melt Model and Lake Expansion Model",
         "pub_year": "2014",
         "citation": "AGU Fall Meeting Abstracts 2014, GC13E-0701, 2014"
+    },
+    {
+        "title": "Irreversible glacier change and trough water for centuries after overshooting the Paris Agreement temperature goal",
+        "pub_year": "2024",
+        "citation": "EGU24, 2024"
     },
     {
         "title": "Leveraging SAR-derived Glacier Melt Extents to Improve Glacier Projections in High Mountain Asia (HMA) and Alaska",
@@ -313,7 +318,8 @@
     },
     {
         "title": "OGGM/oggm: v1. 4.0",
-        "citation": "Zenodo, 0"
+        "pub_year": "2021",
+        "citation": "Zenodo, 2021"
     },
     {
         "title": "Parameterizing Glacier Retreat and Thinning: A Case Study in High Mountain Asia",
@@ -398,7 +404,7 @@
     {
         "title": "Satellite Data Support for sea Level Adaptation Pathways",
         "pub_year": "2023",
-        "citation": "Ocean Visions Summit 2023, 2023"
+        "citation": "Ocean Visions 2023 Summit, 27081, 2023"
     },
     {
         "title": "Satellite monitoring for coastal dynamic adaptation policy pathways",
@@ -490,7 +496,7 @@
         "citation": "AGU Fall Meeting Abstracts 2013, GC21E-08, 2013"
     },
     {
-        "title": "Three Recent and Lesser-Known Glacier-Related Flood Mechanisms in High Mountain Environments",
+        "title": "Three recent and lesser-known glacier-related flood mechanisms in high mountain environments",
         "pub_year": "2022",
         "citation": "Mountain Research and Development 42 (2), A12-A22, 2022"
     },
@@ -502,7 +508,7 @@
     {
         "title": "Uncertainty assessment of modeling the impact of debris cover on global glacier mass change: challenges and solutions",
         "pub_year": "2023",
-        "citation": "EGU23, 2023"
+        "citation": "EGU General Assembly Conference Abstracts, EGU-9828, 2023"
     },
     {
         "title": "Underestimated mass loss from lake-terminating glaciers in the greater Himalaya",

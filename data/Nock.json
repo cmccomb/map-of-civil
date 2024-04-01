@@ -1,6 +1,6 @@
 [
     {
-        "title": "A Fairness-Based Approach to Network Restoration",
+        "title": "A fairness-based approach to network restoration",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2023"
     },
@@ -65,6 +65,10 @@
         "citation": "Mobility21, Carnegie Mellon University, 2022"
     },
     {
+        "title": "Cost, Resiliency and Emissions Trade-Offs for Microgrids in Varying Socioeconmic Settings",
+        "citation": "Available at SSRN 4767626, 0"
+    },
+    {
         "title": "Crafting Community and Change through Books and Pads: The Tikondwe Teachers Project in Domasi, Malawi",
         "pub_year": "2017",
         "citation": "Grassroots Leadership and the Arts for Social Change, 263-280, 2017"
@@ -75,7 +79,7 @@
         "citation": "Renewable Energy 71, 396-400, 2014"
     },
     {
-        "title": "Diversity, equity, and inclusion in civil and environmental engineering education: Social justice in a changing climate",
+        "title": "Diversity, Equity, and inclusion in civil and environmental engineering education: Social justice in a changing climate",
         "pub_year": "2021",
         "citation": "2021 ASEE Virtual Annual Conference Content Access, 2021"
     },
@@ -95,9 +99,18 @@
         "citation": "Joule 7 (3), 437-441, 2023"
     },
     {
+        "title": "Enabling and centering equity and justice in clean energy transition research",
+        "citation": ""
+    },
+    {
         "title": "Equity Effects of Rare Events on Transportation Network Company and Transit Riders",
         "pub_year": "2023",
         "citation": "Mobility21, Carnegie Mellon University, 2023"
+    },
+    {
+        "title": "Equity and modeling in sustainability science: Examples and opportunities throughout the process",
+        "pub_year": "2024",
+        "citation": "Proceedings of the National Academy of Sciences 121 (13), e2215688121, 2024"
     },
     {
         "title": "Forgone summertime comfort as a function of avoided electricity use",
@@ -125,19 +138,24 @@
         "citation": "Journal of the National Collegiate Honors Council 15 (1), 49-53, 2014"
     },
     {
+        "title": "Ignoring cost of living misses the true level of energy burden",
+        "pub_year": "2024",
+        "citation": ""
+    },
+    {
         "title": "Income-Related Inequality Aversion in Residential Energy Consumption in the United States",
         "pub_year": "2022",
         "citation": "Available at SSRN 4124980, 2022"
     },
     {
-        "title": "Incorporating Elicited Preferences for Equality into Electricity System Planning Modeling",
-        "pub_year": "2023",
-        "citation": "Sustainability 15 (23), 16351, 2023"
-    },
-    {
         "title": "Incorporating Energy Justice and Equity into Power System Models: A Review of Current Practices and Paths Forward",
         "pub_year": "2023",
         "citation": "Available at SSRN 4591242, 2023"
+    },
+    {
+        "title": "Incorporating elicited preferences for equality into electricity system planning modeling",
+        "pub_year": "2023",
+        "citation": "Sustainability 15 (23), 16351, 2023"
     },
     {
         "title": "Inequalities across cooling and heating in households: Energy equity gaps",
@@ -158,6 +176,11 @@
         "title": "Inequitable and heterogeneous impacts on electricity consumption from COVID-19 mitigation measures",
         "pub_year": "2021",
         "citation": "Iscience 24 (11), 2021"
+    },
+    {
+        "title": "Investigating How Social Justice Framing for Assessments Impacts Technical Learning",
+        "pub_year": "2024",
+        "citation": "INFORMS Transactions on Education, 2024"
     },
     {
         "title": "Latent demand for electricity in sub-Saharan Africa: a review",
@@ -210,14 +233,14 @@
         "citation": "Science 378 (6625), 1181-1181, 2022"
     },
     {
+        "title": "System, Method, and Device for Automated Energy Remediation",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/236,530, 2024"
+    },
+    {
         "title": "Tax credits for clean electricity: the distributional impacts of supply-push policies in the power sector",
         "pub_year": "2023",
         "citation": "National Bureau of Economic Research, 2023"
-    },
-    {
-        "title": "The Role of Microgrids in Advancing Energy Equity Through Access and Resilience",
-        "pub_year": "2022",
-        "citation": "Tutorials in Operations Research: Emerging and Impactful Topics in …, 2022"
     },
     {
         "title": "The need for agricultural productive uses in the national electrification plan of sub-Saharan African countries—a call to action for Ethiopia",
@@ -225,14 +248,19 @@
         "citation": "Environmental Research: Infrastructure and Sustainability 2 (2), 023001, 2022"
     },
     {
-        "title": "Three research priorities for just and sustainable urban systems",
+        "title": "The role of microgrids in advancing energy equity through access and resilience",
+        "pub_year": "2022",
+        "citation": "Tutorials in operations research: emerging and impactful topics in …, 2022"
+    },
+    {
+        "title": "Three research priorities for just and sustainable urban systems: Now is the time to refocus",
         "pub_year": "2023",
-        "citation": ""
+        "citation": "Journal of Industrial Ecology 27 (2), 382-394, 2023"
     },
     {
         "title": "To PhD or Not to PhD?",
         "pub_year": "2020",
-        "citation": "Journal‐American Water Works Association 112 (10), 69-71, 2020"
+        "citation": "Journal of the American Water Works Association 112 (10), 69-71, 2020"
     },
     {
         "title": "Transportation Research Interdisciplinary Perspectives",
@@ -252,6 +280,11 @@
         "title": "Unveiling hidden energy poverty using the energy equity gap",
         "pub_year": "2022",
         "citation": "Nature communications 13 (1), 2456, 2022"
+    },
+    {
+        "title": "Unveiling hidden energy poverty using the energy equity gap. Nat. Commun. 13, 2456",
+        "pub_year": "2022",
+        "citation": ""
     },
     {
         "title": "What stay-at-home orders reveal about dependence on transportation network companies",
