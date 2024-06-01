@@ -1,1525 +1,2131 @@
 [
     {
         "title": "12791 Graduate Project Mid-Semester Report",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:HtS1dXgVpQUC"
     },
     {
         "title": "3D imaging in construction and infrastructure management: Technological assessment and future research directions",
         "pub_year": "2018",
-        "citation": "Advanced Computing Strategies for Engineering: 25th EG-ICE International …, 2018"
+        "citation": "Advanced Computing Strategies for Engineering: 25th EG-ICE International …, 2018",
+        "num_citations": 15,
+        "author_pub_id": "5VQf2cgAAAAJ:ClCfbGk0d_YC"
     },
     {
         "title": "3D modeling and real-time monitoring in support of lean production of engineered-to-order precast concrete buildings",
         "pub_year": "2003",
-        "citation": "Proceedings of the 11th Annual Conference of the International Group for …, 2003"
+        "citation": "Proceedings of the 11th Annual Conference of the International Group for …, 2003",
+        "num_citations": 35,
+        "author_pub_id": "5VQf2cgAAAAJ:NaGl4SEjCO4C"
     },
     {
         "title": "4 Information Technology and US Infrastructure",
         "pub_year": "2019",
-        "citation": "US Infrastructure: Challenges and Directions for the 21st Century, 55, 2019"
+        "citation": "US Infrastructure: Challenges and Directions for the 21st Century, 55, 2019",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:_5tno0g5mFcC"
     },
     {
         "title": "4-D Workplanner: A prototype system for automated generation of construction spaces and analysis of time-space conflicts",
         "pub_year": "2000",
-        "citation": "Computing in Civil and Building Engineering (2000), 740-747, 2000"
+        "citation": "Computing in Civil and Building Engineering (2000), 740-747, 2000",
+        "num_citations": 25,
+        "author_pub_id": "5VQf2cgAAAAJ:4DMP91E08xMC"
     },
     {
         "title": "A Critical Investigation of the Practical Barriers of Grid-Interactive Capabilities in Vav Systems",
-        "citation": "Available at SSRN 4330887, 0"
+        "citation": "Available at SSRN 4330887, 0",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:7BrZ7Jt4UNcC"
     },
     {
         "title": "A comparative analysis of depth-discontinuity and mixed-pixel detection algorithms",
         "pub_year": "2007",
-        "citation": "Sixth International Conference on 3-D Digital Imaging and Modeling (3DIM …, 2007"
+        "citation": "Sixth International Conference on 3-D Digital Imaging and Modeling (3DIM …, 2007",
+        "num_citations": 70,
+        "author_pub_id": "5VQf2cgAAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "A comparative study on the use of laser scanners for construction quality control and progress monitoring purposes",
         "pub_year": "2009",
-        "citation": "Managing IT in Construction/Managing Construction for Tomorrow, 153, 2009"
+        "citation": "Managing IT in Construction/Managing Construction for Tomorrow, 153, 2009",
+        "num_citations": 12,
+        "author_pub_id": "5VQf2cgAAAAJ:b0M2c_1WBrUC"
     },
     {
         "title": "A critical investigation of the readiness of VAV systems to adopt grid-interactive capabilities",
         "pub_year": "2023",
-        "citation": "Energy and Buildings 286, 112974, 2023"
+        "citation": "Energy and Buildings 286, 112974, 2023",
+        "num_citations": 4,
+        "author_pub_id": "5VQf2cgAAAAJ:IaI1MmNe2tcC"
     },
     {
         "title": "A formalism for utilization of sensor systems and integrated project models for active construction quality control",
         "pub_year": "2006",
-        "citation": "Automation in construction 15 (2), 124-138, 2006"
+        "citation": "Automation in construction 15 (2), 124-138, 2006",
+        "num_citations": 421,
+        "author_pub_id": "5VQf2cgAAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "A framework to generate accurate and complete as-built bims based on progressive laser scans",
         "pub_year": "2013",
-        "citation": "30th International Symposium on Automation and Robotics in Construction and …, 2013"
+        "citation": "30th International Symposium on Automation and Robotics in Construction and …, 2013",
+        "num_citations": 4,
+        "author_pub_id": "5VQf2cgAAAAJ:vDijr-p_gm4C"
     },
     {
         "title": "A modeling approach to characterize the demand flexibility of the air distribution system in commercial buildings",
         "pub_year": "2021",
-        "citation": ""
+        "citation": "",
+        "num_citations": 5,
+        "author_pub_id": "5VQf2cgAAAAJ:sJsF-0ZLhtgC"
     },
     {
         "title": "A novel map-matching algorithm for relating work zones and crashes",
         "pub_year": "2022",
-        "citation": "Construction Research Congress 2022, 366-375, 2022"
+        "citation": "Construction Research Congress 2022, 366-375, 2022",
+        "num_citations": 3,
+        "author_pub_id": "5VQf2cgAAAAJ:lgwcVrK6X84C"
     },
     {
         "title": "A review on computer vision based defect detection and condition assessment of concrete and asphalt civil infrastructure",
         "pub_year": "2015",
-        "citation": "Advanced engineering informatics 29 (2), 196-210, 2015"
+        "citation": "Advanced engineering informatics 29 (2), 196-210, 2015",
+        "num_citations": 970,
+        "author_pub_id": "5VQf2cgAAAAJ:t6usbXjVLHcC"
     },
     {
         "title": "A semantic web-based approach for representing and reasoning with vocabulary for computer based standards processing",
         "pub_year": "2010",
-        "citation": "The Proceedings of the 2010 International Conference on Computing in Civil …, 2010"
+        "citation": "The Proceedings of the 2010 International Conference on Computing in Civil …, 2010",
+        "num_citations": 11,
+        "author_pub_id": "5VQf2cgAAAAJ:p2g8aNsByqUC"
     },
     {
         "title": "A semi-automated method for extracting vertical clearance and cross sections in tunnels using mobile LiDAR data",
         "pub_year": "2016",
-        "citation": "Tunnelling and underground space technology 59, 48-54, 2016"
+        "citation": "Tunnelling and underground space technology 59, 48-54, 2016",
+        "num_citations": 67,
+        "author_pub_id": "5VQf2cgAAAAJ:LI9QrySNdTsC"
     },
     {
         "title": "A semi-automated schema matching approach based on automated detection of version differences",
         "pub_year": "2006",
-        "citation": "Proc., Joint Int. Conf. on Computing and Decision Making in Civil and …, 2006"
+        "citation": "Proc., Joint Int. Conf. on Computing and Decision Making in Civil and …, 2006",
+        "num_citations": 2,
+        "author_pub_id": "5VQf2cgAAAAJ:SP6oXDckpogC"
     },
     {
         "title": "A taxonomy for building energy dashboards",
         "pub_year": "2014",
-        "citation": "Computing in Civil and Building Engineering (2014), 2192-2199, 2014"
+        "citation": "Computing in Civil and Building Engineering (2014), 2192-2199, 2014",
+        "num_citations": 2,
+        "author_pub_id": "5VQf2cgAAAAJ:kzcrU_BdoSEC"
     },
     {
         "title": "A taxonomy for depicting geospatial deviations of facilities extracted through comparisons between point clouds and building information models",
         "pub_year": "2012",
-        "citation": "Computing in Civil Engineering (2012), 493-500, 2012"
+        "citation": "Computing in Civil Engineering (2012), 493-500, 2012",
+        "num_citations": 3,
+        "author_pub_id": "5VQf2cgAAAAJ:XvxMoLDsR5gC"
     },
     {
         "title": "A taxonomy of reasoning mechanisms and data synchronization framework for road excavation productivity monitoring",
         "pub_year": "2012",
-        "citation": "Advanced Engineering Informatics 26 (3), 563-573, 2012"
+        "citation": "Advanced Engineering Informatics 26 (3), 563-573, 2012",
+        "num_citations": 15,
+        "author_pub_id": "5VQf2cgAAAAJ:CHSYGLWDkRkC"
     },
     {
         "title": "A vision and learning-based indoor localization and semantic mapping framework for facility operations and management",
         "pub_year": "2019",
-        "citation": "Automation in Construction 107, 102915, 2019"
+        "citation": "Automation in Construction 107, 102915, 2019",
+        "num_citations": 70,
+        "author_pub_id": "5VQf2cgAAAAJ:6ZxmRoH8BuwC"
     },
     {
         "title": "Abo-Hamad, Waleed",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:kz9GbA2Ns4gC"
     },
     {
         "title": "Algorithms for automated generation of navigation models from building information models to support indoor map-matching",
         "pub_year": "2016",
-        "citation": "Automation in Construction 61, 24-41, 2016"
+        "citation": "Automation in Construction 61, 24-41, 2016",
+        "num_citations": 86,
+        "author_pub_id": "5VQf2cgAAAAJ:t7zJ5fGR-2UC"
     },
     {
         "title": "AlphaShed: A scalable load flexibility model for shedding potential in commercial HVAC systems",
         "pub_year": "2023",
-        "citation": "Energy and Buildings 279, 112686, 2023"
+        "citation": "Energy and Buildings 279, 112686, 2023",
+        "num_citations": 5,
+        "author_pub_id": "5VQf2cgAAAAJ:cK4Rrx0J3m0C"
     },
     {
         "title": "An Approach to Capture Facility Maintenance and Repair Information to Store Change History",
         "pub_year": "2011",
-        "citation": "Proceedings of the CIB W78-W102, 2011"
+        "citation": "Proceedings of the CIB W78-W102, 2011",
+        "num_citations": 5,
+        "author_pub_id": "5VQf2cgAAAAJ:PoWvk5oyLR8C"
     },
     {
         "title": "An Approach to Capture Facility Maintenance and Repair Information to Store Change History",
         "pub_year": "2011",
-        "citation": "null, 2011"
+        "citation": "null, 2011",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:u-coK7KVo8oC"
     },
     {
         "title": "An Assessment of Industry Foundation Classes (IFC) in Representing Contextual Information Required for Production Rate Estimations",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:HeT0ZceujKMC"
     },
     {
         "title": "An International Research Journal",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:PaBasH6fAo0C"
     },
     {
         "title": "An International Research Journal",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:0N-VGjzr574C"
     },
     {
         "title": "An Overview of Root Cause Analysis of Faults in Heating, Ventilation, and Air Conditioning (HVAC) Systems",
         "pub_year": "2022",
-        "citation": "Computing in Civil Engineering 2021, 1441-1448, 2022"
+        "citation": "Computing in Civil Engineering 2021, 1441-1448, 2022",
+        "num_citations": 2,
+        "author_pub_id": "5VQf2cgAAAAJ:jgBuDB5drN8C"
     },
     {
         "title": "An analysis of usability tests on contractors' data interaction patterns with project histories",
         "pub_year": "2009",
-        "citation": "Computing in Civil Engineering (2009), 421-430, 2009"
+        "citation": "Computing in Civil Engineering (2009), 421-430, 2009",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:5ugPr518TE4C"
     },
     {
         "title": "An approach for capturing requirements of collaborative design teams to facilitate evaluation of energy efficient retrofit design options",
         "pub_year": "2013",
-        "citation": "AEI 2013: Building Solutions for Architectural Engineering, 123-132, 2013"
+        "citation": "AEI 2013: Building Solutions for Architectural Engineering, 123-132, 2013",
+        "num_citations": 7,
+        "author_pub_id": "5VQf2cgAAAAJ:B3FOqHPlNUQC"
     },
     {
         "title": "An approach for fusing data from multiple sources to support construction productivity monitoring",
         "pub_year": "2010",
-        "citation": "Proceeding of International Conference on Computing in Civil and Building …, 2010"
+        "citation": "Proceeding of International Conference on Computing in Civil and Building …, 2010",
+        "num_citations": 3,
+        "author_pub_id": "5VQf2cgAAAAJ:NhqRSupF_l8C"
     },
     {
         "title": "An approach for planning sensor-based inspection of the built environment",
         "pub_year": "2004",
-        "citation": ""
+        "citation": "",
+        "num_citations": 7,
+        "author_pub_id": "5VQf2cgAAAAJ:pqnbT2bcN3wC"
     },
     {
         "title": "An approach to combine progressively captured point clouds for BIM update",
         "pub_year": "2015",
-        "citation": "Advanced Engineering Informatics 29 (4), 1001-1012, 2015"
+        "citation": "Advanced Engineering Informatics 29 (4), 1001-1012, 2015",
+        "num_citations": 54,
+        "author_pub_id": "5VQf2cgAAAAJ:z_wVstp3MssC"
     },
     {
         "title": "An assessment of industry foundation classes (IFC) in representing contextual information required for production rate estimations",
         "pub_year": "2009",
-        "citation": "Proceedings of 5th International Conference on Construction in the 21st …, 2009"
+        "citation": "Proceedings of 5th International Conference on Construction in the 21st …, 2009",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:4MWp96NkSFoC"
     },
     {
         "title": "An automated approach for accounting for spaces required by construction activities",
         "pub_year": "2000",
-        "citation": "Construction Congress VI: Building Together for a Better Tomorrow in an …, 2000"
+        "citation": "Construction Congress VI: Building Together for a Better Tomorrow in an …, 2000",
+        "num_citations": 16,
+        "author_pub_id": "5VQf2cgAAAAJ:RGFaLdJalmkC"
     },
     {
         "title": "An automated approach for generating integrated model-based representations of construction project histories",
         "pub_year": "2008",
-        "citation": "Proceedings of 12th International Conference on Computing in Civil and …, 2008"
+        "citation": "Proceedings of 12th International Conference on Computing in Civil and …, 2008",
+        "num_citations": 3,
+        "author_pub_id": "5VQf2cgAAAAJ:p__nRnzSRKYC"
     },
     {
         "title": "An integrated performance analysis framework for HVAC systems using heterogeneous data models and building automation systems",
         "pub_year": "2012",
-        "citation": "Proceedings of the Fourth ACM Workshop on Embedded Sensing Systems for …, 2012"
+        "citation": "Proceedings of the Fourth ACM Workshop on Embedded Sensing Systems for …, 2012",
+        "num_citations": 13,
+        "author_pub_id": "5VQf2cgAAAAJ:u9iWguZQMMsC"
     },
     {
         "title": "An ontological engineering approach for integrating CAD and GIS in support of infrastructure management",
         "pub_year": "2006",
-        "citation": "Advanced Engineering Informatics 20 (1), 71-88, 2006"
+        "citation": "Advanced Engineering Informatics 20 (1), 71-88, 2006",
+        "num_citations": 112,
+        "author_pub_id": "5VQf2cgAAAAJ:ufrVoPGSRksC"
     },
     {
         "title": "An overview and an assessment of construction data sources in terms of storing contextual data",
         "pub_year": "2008",
-        "citation": "Proceedings of 5th International Conference on Innovation in Architectural …, 2008"
+        "citation": "Proceedings of 5th International Conference on Innovation in Architectural …, 2008",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:EYYDruWGBe4C"
     },
     {
         "title": "An overview of approaches for utilizing RFID in construction industry",
         "pub_year": "2007",
-        "citation": "2007 1st Annual RFID Eurasia, 1-5, 2007"
+        "citation": "2007 1st Annual RFID Eurasia, 1-5, 2007",
+        "num_citations": 68,
+        "author_pub_id": "5VQf2cgAAAAJ:M3ejUd6NZC8C"
     },
     {
         "title": "Analyses of data sources for multi-source data fusion to support project management tasks",
         "pub_year": "2008",
-        "citation": "Proceedings of 2008 NSF Engineering Research and Innovation Conference …, 2008"
+        "citation": "Proceedings of 2008 NSF Engineering Research and Innovation Conference …, 2008",
+        "num_citations": 2,
+        "author_pub_id": "5VQf2cgAAAAJ:vbGhcppDl1QC"
     },
     {
         "title": "Analysis of modeling effort and impact of different levels of detail in building information models",
         "pub_year": "2011",
-        "citation": "Automation in construction 20 (5), 601-609, 2011"
+        "citation": "Automation in construction 20 (5), 601-609, 2011",
+        "num_citations": 357,
+        "author_pub_id": "5VQf2cgAAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "Analysis of three indoor localization technologies for supporting operations and maintenance field tasks",
         "pub_year": "2012",
-        "citation": "Journal of Computing in Civil Engineering 26 (6), 708-719, 2012"
+        "citation": "Journal of Computing in Civil Engineering 26 (6), 708-719, 2012",
+        "num_citations": 71,
+        "author_pub_id": "5VQf2cgAAAAJ:maZDTaKrznsC"
     },
     {
         "title": "Analysis of three indoor localization technologies to support facility management field activities",
         "pub_year": "2010",
-        "citation": "Proceedings of the International Conference on Computing in Civil and …, 2010"
+        "citation": "Proceedings of the International Conference on Computing in Civil and …, 2010",
+        "num_citations": 32,
+        "author_pub_id": "5VQf2cgAAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "Analysis of three indoor localization technologies to support facility management field activities",
         "pub_year": "2010",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:Bg7qf7VwUHIC"
     },
     {
         "title": "Assessing the impact of 3D point neighborhood size selection on unsupervised spall classification with 3D bridge point clouds",
         "pub_year": "2022",
-        "citation": "Advanced Engineering Informatics 52, 101624, 2022"
+        "citation": "Advanced Engineering Informatics 52, 101624, 2022",
+        "num_citations": 8,
+        "author_pub_id": "5VQf2cgAAAAJ:ALROH1vI_8AC"
     },
     {
         "title": "Assessment of Industry Foundation Classes (IFC) in Supporting Building Energy Benchmarking",
         "pub_year": "2015",
-        "citation": "Proc. of the 32nd CIB W78 Conference, 2015"
+        "citation": "Proc. of the 32nd CIB W78 Conference, 2015",
+        "num_citations": 4,
+        "author_pub_id": "5VQf2cgAAAAJ:k8Z6L05lTy4C"
     },
     {
         "title": "Assessment of the capabilities of a commercial 4D CAD system to visualize equipment space requirements on construction sites",
         "pub_year": "2003",
-        "citation": "Construction Research Congress: Wind of Change: Integration and Innovation, 1-7, 2003"
+        "citation": "Construction Research Congress: Wind of Change: Integration and Innovation, 1-7, 2003",
+        "num_citations": 50,
+        "author_pub_id": "5VQf2cgAAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "Assessment of the quality of as-is building information models generated from point clouds using deviation analysis",
         "pub_year": "2011",
-        "citation": "Three-dimensional imaging, interaction, and measurement 7864, 136-148, 2011"
+        "citation": "Three-dimensional imaging, interaction, and measurement 7864, 136-148, 2011",
+        "num_citations": 52,
+        "author_pub_id": "5VQf2cgAAAAJ:JV2RwH3_ST0C"
     },
     {
         "title": "Automated approach for developing integrated model-based project histories to support estimation of activity production rates",
         "pub_year": "2012",
-        "citation": "Journal of computing in civil engineering 26 (3), 309-318, 2012"
+        "citation": "Journal of computing in civil engineering 26 (3), 309-318, 2012",
+        "num_citations": 13,
+        "author_pub_id": "5VQf2cgAAAAJ:EUQCXRtRnyEC"
     },
     {
         "title": "Automated building information models reconstruction using 2D mechanical drawings",
         "pub_year": "2018",
-        "citation": "Advances in Informatics and Computing in Civil and Construction Engineering …, 2018"
+        "citation": "Advances in Informatics and Computing in Civil and Construction Engineering …, 2018",
+        "num_citations": 9,
+        "author_pub_id": "5VQf2cgAAAAJ:_axFR9aDTf0C"
     },
     {
         "title": "Automated damage detection and structural modelling with laser scanning",
         "pub_year": "2016",
-        "citation": "Proc., Structural Stability Research Council Annual Stability Conf. Chicago …, 2016"
+        "citation": "Proc., Structural Stability Research Council Annual Stability Conf. Chicago …, 2016",
+        "num_citations": 10,
+        "author_pub_id": "5VQf2cgAAAAJ:S16KYo8Pm5AC"
     },
     {
         "title": "Automated generation of customized field data collection templates to support information needs of cost estimators",
         "pub_year": "2010",
-        "citation": "Journal of Computing in Civil Engineering 24 (2), 129-139, 2010"
+        "citation": "Journal of Computing in Civil Engineering 24 (2), 129-139, 2010",
+        "num_citations": 10,
+        "author_pub_id": "5VQf2cgAAAAJ:D03iK_w7-QYC"
     },
     {
         "title": "Automated generation of work spaces required by construction activities",
         "pub_year": "2002",
-        "citation": "Journal of construction engineering and management 128 (4), 306-315, 2002"
+        "citation": "Journal of construction engineering and management 128 (4), 306-315, 2002",
+        "num_citations": 321,
+        "author_pub_id": "5VQf2cgAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Automated generation of workspace requirements of mobile crane operations to support conflict detection",
         "pub_year": "2007",
-        "citation": "Automation in Construction 16 (3), 262-276, 2007"
+        "citation": "Automation in Construction 16 (3), 262-276, 2007",
+        "num_citations": 95,
+        "author_pub_id": "5VQf2cgAAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "Automated measurement extraction from laser scanned point clouds to support bridge inspection",
         "pub_year": "2008",
-        "citation": "IABSE Symposium Report 94 (6), 15-22, 2008"
+        "citation": "IABSE Symposium Report 94 (6), 15-22, 2008",
+        "num_citations": 5,
+        "author_pub_id": "5VQf2cgAAAAJ:WbkHhVStYXYC"
     },
     {
         "title": "Automated planning and visualization of mobile crane operation based on building and schedule information",
         "pub_year": "2006",
-        "citation": "Proceedings of the Joint International Conference on Computing and Decision …, 2006"
+        "citation": "Proceedings of the Joint International Conference on Computing and Decision …, 2006",
+        "num_citations": 2,
+        "author_pub_id": "5VQf2cgAAAAJ:UxriW0iASnsC"
     },
     {
         "title": "Automated planning support for on-site construction inspection",
         "pub_year": "2008",
-        "citation": "Automation in construction 17 (6), 705-718, 2008"
+        "citation": "Automation in construction 17 (6), 705-718, 2008",
+        "num_citations": 18,
+        "author_pub_id": "5VQf2cgAAAAJ:2P1L_qKh6hAC"
     },
     {
         "title": "Automated processing of construction specifications to support inspection and quality control",
         "pub_year": "2007",
-        "citation": "Automation in construction 17 (1), 90-106, 2007"
+        "citation": "Automation in construction 17 (1), 90-106, 2007",
+        "num_citations": 156,
+        "author_pub_id": "5VQf2cgAAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "Automated recognition of 3D CAD objects in site laser scans for project 3D status visualization and performance control",
         "pub_year": "2009",
-        "citation": "Journal of Computing in Civil Engineering 23 (6), 311-318, 2009"
+        "citation": "Journal of Computing in Civil Engineering 23 (6), 311-318, 2009",
+        "num_citations": 171,
+        "author_pub_id": "5VQf2cgAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Automatic creation of semantically rich 3D building models from laser scanner data",
         "pub_year": "2013",
-        "citation": "Automation in construction 31, 325-337, 2013"
+        "citation": "Automation in construction 31, 325-337, 2013",
+        "num_citations": 809,
+        "author_pub_id": "5VQf2cgAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Automatic execution of workflows on laser-scanned data for extracting bridge surveying goals",
         "pub_year": "2012",
-        "citation": "Advanced Engineering Informatics 26 (4), 889-903, 2012"
+        "citation": "Advanced Engineering Informatics 26 (4), 889-903, 2012",
+        "num_citations": 54,
+        "author_pub_id": "5VQf2cgAAAAJ:3s1wT3WcHBgC"
     },
     {
         "title": "Automatic generation of work spaces and analysis of time-space conflicts at construction sites",
         "pub_year": "2000",
-        "citation": "Stanford University, 2000"
+        "citation": "Stanford University, 2000",
+        "num_citations": 14,
+        "author_pub_id": "5VQf2cgAAAAJ:hMod-77fHWUC"
     },
     {
         "title": "Automatic reconstruction of as-built building information models from laser-scanned point clouds: A review of related techniques",
         "pub_year": "2010",
-        "citation": "Automation in construction 19 (7), 829-843, 2010"
+        "citation": "Automation in construction 19 (7), 829-843, 2010",
+        "num_citations": 1217,
+        "author_pub_id": "5VQf2cgAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Automating pipe spool tracking in the supply chain",
         "pub_year": "2006",
-        "citation": "Automation in Construction 15 (2), 166-177, 2006"
+        "citation": "Automation in Construction 15 (2), 166-177, 2006",
+        "num_citations": 10,
+        "author_pub_id": "5VQf2cgAAAAJ:GnPB-g6toBAC"
     },
     {
         "title": "Automating the task of tracking the delivery and receipt of fabricated pipe spools in industrial projects",
         "pub_year": "2006",
-        "citation": "Automation in construction 15 (2), 166-177, 2006"
+        "citation": "Automation in construction 15 (2), 166-177, 2006",
+        "num_citations": 360,
+        "author_pub_id": "5VQf2cgAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "BIM-BASED HYBRID INERTIAL POSITIONING FOR FACILITY OPERATIONS SUPPORT",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:W5xh706n7nkC"
     },
     {
         "title": "Back Matter",
-        "citation": "Computing in Civil Engineering (2007), 881-887, 0"
+        "citation": "Computing in Civil Engineering (2007), 881-887, 0",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:j7_hQOaDUrUC"
     },
     {
         "title": "Binalarda çeşitli tehlikelerin yarattığı acil durumlar için eş zamanlı hasar tesbit, yerel tahliye, yönlendirme ve yönetim modeli",
         "pub_year": "2012",
-        "citation": ""
+        "citation": "",
+        "num_citations": 1,
+        "author_pub_id": "5VQf2cgAAAAJ:OP4eGU-M3BUC"
     },
     {
         "title": "Blockage assessment of buildings during emergency using multiple types of sensors",
         "pub_year": "2015",
-        "citation": "Automation in Construction 49, 71-82, 2015"
+        "citation": "Automation in Construction 49, 71-82, 2015",
+        "num_citations": 8,
+        "author_pub_id": "5VQf2cgAAAAJ:eflP2zaiRacC"
     },
     {
         "title": "Bridging the gap: discovering mental models in globally collaborative contexts",
         "pub_year": "2009",
-        "citation": "Proceedings of the 2009 international workshop on Intercultural …, 2009"
+        "citation": "Proceedings of the 2009 international workshop on Intercultural …, 2009",
+        "num_citations": 21,
+        "author_pub_id": "5VQf2cgAAAAJ:NMxIlDl6LWMC"
     },
     {
         "title": "Building Information Modeling (BIM) application framework: The process of expanding from 3D to computable nD",
         "pub_year": "2014",
-        "citation": "Automation in construction 46, 82-93, 2014"
+        "citation": "Automation in construction 46, 82-93, 2014",
+        "num_citations": 452,
+        "author_pub_id": "5VQf2cgAAAAJ:zA6iFVUQeVQC"
     },
     {
         "title": "Building-information-modeling–based earthquake damage assessment for reinforced concrete walls",
         "pub_year": "2016",
-        "citation": "Journal of computing in civil engineering 30 (4), 04015076, 2016"
+        "citation": "Journal of computing in civil engineering 30 (4), 04015076, 2016",
+        "num_citations": 31,
+        "author_pub_id": "5VQf2cgAAAAJ:nrtMV_XWKgEC"
     },
     {
         "title": "CAD and GIS integration",
         "pub_year": "2009",
-        "citation": "CRC Press, 2009"
+        "citation": "CRC Press, 2009",
+        "num_citations": 81,
+        "author_pub_id": "5VQf2cgAAAAJ:bEWYMUwI8FkC"
     },
     {
         "title": "CAD and GIS interoperability through semantic web services, ITcon Vol. 13, pg. 39-55",
         "pub_year": "2008",
-        "citation": ""
+        "citation": "",
+        "num_citations": 2,
+        "author_pub_id": "5VQf2cgAAAAJ:738O_yMBCRsC"
     },
     {
         "title": "CAD and GIS interoperability through semantic web services.",
         "pub_year": "2008",
-        "citation": "J. Inf. Technol. Constr. 13, 39-55, 2008"
+        "citation": "J. Inf. Technol. Constr. 13, 39-55, 2008",
+        "num_citations": 60,
+        "author_pub_id": "5VQf2cgAAAAJ:_kc_bZDykSQC"
     },
     {
         "title": "CAD/GIS INTEGRATION THROUGH SEMANTIC WEB SERVICES",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:1qzjygNMrQYC"
     },
     {
         "title": "COBIE-based lightweight representation of a building navigation network",
         "pub_year": "2011",
-        "citation": "IAARC, 2011"
+        "citation": "IAARC, 2011",
+        "num_citations": 9,
+        "author_pub_id": "5VQf2cgAAAAJ:dshw04ExmUIC"
     },
     {
         "title": "Capturing and representing construction project histories for estimating and defect detection",
         "pub_year": "2006",
-        "citation": "Workshop of the European Group for Intelligent Computing in Engineering, 15-22, 2006"
+        "citation": "Workshop of the European Group for Intelligent Computing in Engineering, 15-22, 2006",
+        "num_citations": 9,
+        "author_pub_id": "5VQf2cgAAAAJ:bFI3QPDXJZMC"
     },
     {
         "title": "Carnegie Mellon University, Department of Civil and Environmental Engineering, Pittsburgh, PA, USA",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:dQ2og3OwTAUC"
     },
     {
         "title": "Challenges associated with generating accurate as-is building information models for existing buildings by leveraging heterogeneous data sources",
         "pub_year": "2014",
-        "citation": "Computing in Civil and Building Engineering (2014), 560-568, 2014"
+        "citation": "Computing in Civil and Building Engineering (2014), 560-568, 2014",
+        "num_citations": 5,
+        "author_pub_id": "5VQf2cgAAAAJ:N5tVd3kTz84C"
     },
     {
         "title": "Challenges in Cyber-Physical Attack Detection for Building Automation Systems",
         "pub_year": "2023",
-        "citation": "Proceedings of the 10th ACM International Conference on Systems for Energy …, 2023"
+        "citation": "Proceedings of the 10th ACM International Conference on Systems for Energy …, 2023",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:MhiOAD_qIWkC"
     },
     {
         "title": "Challenges in generation of as-is bridge information model: A case study",
         "pub_year": "2015",
-        "citation": "ISARC. Proceedings of the International Symposium on Automation and Robotics …, 2015"
+        "citation": "ISARC. Proceedings of the International Symposium on Automation and Robotics …, 2015",
+        "num_citations": 10,
+        "author_pub_id": "5VQf2cgAAAAJ:XD-gHx7UXLsC"
     },
     {
         "title": "Challenges in interpreting the design intent from HVAC sequence of operations to assess the system behavior: A case study",
         "pub_year": "2014",
-        "citation": "Computing in Civil and Building Engineering (2014), 1465-1472, 2014"
+        "citation": "Computing in Civil and Building Engineering (2014), 1465-1472, 2014",
+        "num_citations": 5,
+        "author_pub_id": "5VQf2cgAAAAJ:mvPsJ3kp5DgC"
     },
     {
         "title": "Challenges of identifying steel sections for the generation of as-is bims from laser scan data",
         "pub_year": "2012",
-        "citation": "ISARC. Proceedings of the International Symposium on Automation and Robotics …, 2012"
+        "citation": "ISARC. Proceedings of the International Symposium on Automation and Robotics …, 2012",
+        "num_citations": 13,
+        "author_pub_id": "5VQf2cgAAAAJ:tOudhMTPpwUC"
     },
     {
         "title": "Characterization and search of construction inspection plan spaces developed using a component-based planning approach",
         "pub_year": "2009",
-        "citation": "Journal of computing in civil engineering 23 (4), 211-220, 2009"
+        "citation": "Journal of computing in civil engineering 23 (4), 211-220, 2009",
+        "num_citations": 7,
+        "author_pub_id": "5VQf2cgAAAAJ:xtRiw3GOFMkC"
     },
     {
         "title": "Characterization of laser scanners and algorithms for detecting flatness defects on concrete surfaces",
         "pub_year": "2011",
-        "citation": "Journal of Computing in Civil Engineering 25 (1), 31-42, 2011"
+        "citation": "Journal of Computing in Civil Engineering 25 (1), 31-42, 2011",
+        "num_citations": 155,
+        "author_pub_id": "5VQf2cgAAAAJ:KlAtU1dfN6UC"
     },
     {
         "title": "Characterization of laser scanners for detecting cracks for post-earthquake damage inspection",
         "pub_year": "2013",
-        "citation": "ISARC. Proceedings of the International Symposium on Automation and Robotics …, 2013"
+        "citation": "ISARC. Proceedings of the International Symposium on Automation and Robotics …, 2013",
+        "num_citations": 30,
+        "author_pub_id": "5VQf2cgAAAAJ:NJ774b8OgUMC"
     },
     {
         "title": "Characterization of three algorithms for detecting surface flatness defects from dense point clouds",
         "pub_year": "2009",
-        "citation": "Three-Dimensional Imaging Metrology 7239, 197-208, 2009"
+        "citation": "Three-Dimensional Imaging Metrology 7239, 197-208, 2009",
+        "num_citations": 34,
+        "author_pub_id": "5VQf2cgAAAAJ:TFP_iSt0sucC"
     },
     {
         "title": "Code compliance checking by using derived objects",
         "pub_year": "2012",
-        "citation": "Gerontechnology 11 (2), 327, 2012"
+        "citation": "Gerontechnology 11 (2), 327, 2012",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:2KloaMYe4IUC"
     },
     {
         "title": "Combining reality capture technologies for construction defect detection: A case study",
         "pub_year": "2003",
-        "citation": "EIA9: E-Activities and Intelligent Support in Design and the Built …, 2003"
+        "citation": "EIA9: E-Activities and Intelligent Support in Design and the Built …, 2003",
+        "num_citations": 77,
+        "author_pub_id": "5VQf2cgAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "Comparative case study on the use of laser scanners for construction quality control and progress monitoring",
         "pub_year": "2009",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:gVv57TyPmFsC"
     },
     {
         "title": "Comparison of ASHRAE guidelines with building commissioning practice",
         "pub_year": "2003",
-        "citation": "National Conference on Building Commissioning, California, 2003"
+        "citation": "National Conference on Building Commissioning, California, 2003",
+        "num_citations": 13,
+        "author_pub_id": "5VQf2cgAAAAJ:iH-uZ7U-co4C"
     },
     {
         "title": "Comparison of Indoor Localization Technologies for Context Aware BIM",
         "pub_year": "2009",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:ZzlSgRqYykMC"
     },
     {
         "title": "Comparison of experienced and novice cost estimator behaviors in information pull and push methods",
         "pub_year": "2010",
-        "citation": "Canadian Journal of Civil Engineering 37 (2), 290-301, 2010"
+        "citation": "Canadian Journal of Civil Engineering 37 (2), 290-301, 2010",
+        "num_citations": 13,
+        "author_pub_id": "5VQf2cgAAAAJ:70eg2SAEIzsC"
     },
     {
         "title": "Comparison of linear correlation and a statistical dependency measure for inferring spatial relation of temperature sensors in buildings",
         "pub_year": "2014",
-        "citation": "Proceedings of the 1st ACM Conference on Embedded Systems for Energy …, 2014"
+        "citation": "Proceedings of the 1st ACM Conference on Embedded Systems for Energy …, 2014",
+        "num_citations": 29,
+        "author_pub_id": "5VQf2cgAAAAJ:V3AGJWp-ZtQC"
     },
     {
         "title": "Computing in Civil Engineering (2007)",
         "pub_year": "2007",
-        "citation": "American Society of Civil Engineers, 2007"
+        "citation": "American Society of Civil Engineers, 2007",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:uc_IGeMz5qoC"
     },
     {
         "title": "Computing in Civil Engineering—Lessons Learned from the 2007 ASCE International Workshop on Computing in Civil Engineering",
         "pub_year": "2009",
-        "citation": "Journal of Computing in Civil Engineering 23 (1), 1-1, 2009"
+        "citation": "Journal of Computing in Civil Engineering 23 (1), 1-1, 2009",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:UHK10RUVsp4C"
     },
     {
         "title": "Constructing as-is BIMs from progressive scan data",
         "pub_year": "2012",
-        "citation": "ISARC. Proceedings of the International Symposium on Automation and Robotics …, 2012"
+        "citation": "ISARC. Proceedings of the International Symposium on Automation and Robotics …, 2012",
+        "num_citations": 21,
+        "author_pub_id": "5VQf2cgAAAAJ:K3LRdlH-MEoC"
     },
     {
         "title": "Construction Research Data Management",
-        "citation": "Construction Research Congress 2012: Construction Challenges in a Flat World …, 0"
+        "citation": "Construction Research Congress 2012: Construction Challenges in a Flat World …, 0",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:7T2F9Uy0os0C"
     },
     {
         "title": "Construction Scene Parsing (CSP): structured annotations of image segmentation for construction semantic understanding",
         "pub_year": "2021",
-        "citation": "Proceedings of the 18th International Conference on Computing in Civil and …, 2021"
+        "citation": "Proceedings of the 18th International Conference on Computing in Civil and …, 2021",
+        "num_citations": 3,
+        "author_pub_id": "5VQf2cgAAAAJ:yMeIxYmEMEAC"
     },
     {
         "title": "Contextual information requirements of cost estimators from past construction projects",
         "pub_year": "2009",
-        "citation": "Journal of construction engineering and management 135 (9), 841-852, 2009"
+        "citation": "Journal of construction engineering and management 135 (9), 841-852, 2009",
+        "num_citations": 40,
+        "author_pub_id": "5VQf2cgAAAAJ:-f6ydRqryjwC"
     },
     {
         "title": "Corrigendum to “A review on computer vision based defect detection and condition assessment of concrete and asphalt civil infrastructure”[Advanced Engineering Informatics 29 (2 …",
         "pub_year": "2016",
-        "citation": "Advanced Engineering Informatics 30 (2), 208-210, 2016"
+        "citation": "Advanced Engineering Informatics 30 (2), 208-210, 2016",
+        "num_citations": 4,
+        "author_pub_id": "5VQf2cgAAAAJ:Ug5p-4gJ2f0C"
     },
     {
         "title": "Data Sharing: Proactive Management of Mobility Impact of Interdependent Subsurface Utility and Roadway Construction through Incentives [supporting dataset]",
         "pub_year": "2021",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:wMgC3FpKEyYC"
     },
     {
         "title": "Data-fusion approaches and applications for construction engineering",
         "pub_year": "2011",
-        "citation": "Journal of construction engineering and management 137 (10), 863-869, 2011"
+        "citation": "Journal of construction engineering and management 137 (10), 863-869, 2011",
+        "num_citations": 73,
+        "author_pub_id": "5VQf2cgAAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "Demand flexibility potential model for multi-zone commercial buildings using internal HVAC system states",
         "pub_year": "2021",
-        "citation": "Proceedings of the 8th ACM International Conference on Systems for Energy …, 2021"
+        "citation": "Proceedings of the 8th ACM International Conference on Systems for Energy …, 2021",
+        "num_citations": 6,
+        "author_pub_id": "5VQf2cgAAAAJ:PVgj2kMGcgYC"
     },
     {
         "title": "Developing as-built building information model using construction process history captured by a laser scanner and a camera",
         "pub_year": "2012",
-        "citation": "Construction Research Congress 2012: Construction Challenges in a Flat World …, 2012"
+        "citation": "Construction Research Congress 2012: Construction Challenges in a Flat World …, 2012",
+        "num_citations": 88,
+        "author_pub_id": "5VQf2cgAAAAJ:fEOibwPWpKIC"
     },
     {
         "title": "Developing integrated project histories by leveraging multi-sensor data fusion",
         "pub_year": "2006",
-        "citation": "Joint Int. Conf. on Computing and Decision Making in Civil and Building …, 2006"
+        "citation": "Joint Int. Conf. on Computing and Decision Making in Civil and Building …, 2006",
+        "num_citations": 9,
+        "author_pub_id": "5VQf2cgAAAAJ:ns9cj8rnVeAC"
     },
     {
         "title": "Development and testing of inertial measurement system for indoor localization",
         "pub_year": "2009",
-        "citation": "Computing in Civil Engineering (2009), 115-124, 2009"
+        "citation": "Computing in Civil Engineering (2009), 115-124, 2009",
+        "num_citations": 9,
+        "author_pub_id": "5VQf2cgAAAAJ:HoB7MX3m0LUC"
     },
     {
         "title": "Development of a framework for identifying information bottlenecks and evaluating different data capture technologies to support proactive productivity management",
         "pub_year": "2012",
-        "citation": "Construction Research Congress 2012: Construction Challenges in a Flat World …, 2012"
+        "citation": "Construction Research Congress 2012: Construction Challenges in a Flat World …, 2012",
+        "num_citations": 1,
+        "author_pub_id": "5VQf2cgAAAAJ:l7t_Zn2s7bgC"
     },
     {
         "title": "Deviation analysis method for the assessment of the quality of the as-is Building Information Models generated from point cloud data",
         "pub_year": "2013",
-        "citation": "Automation in construction 35, 507-516, 2013"
+        "citation": "Automation in construction 35, 507-516, 2013",
+        "num_citations": 196,
+        "author_pub_id": "5VQf2cgAAAAJ:e5wmG9Sq2KIC"
     },
     {
         "title": "Deviation analysis of the design intent and implemented controls of HVAC systems using sensor data: A Case Study",
         "pub_year": "2015",
-        "citation": "Computing in Civil Engineering 2015, 223-231, 2015"
+        "citation": "Computing in Civil Engineering 2015, 223-231, 2015",
+        "num_citations": 6,
+        "author_pub_id": "5VQf2cgAAAAJ:VL0QpB8kHFEC"
     },
     {
         "title": "Digital Twin Technologies for Autonomous Environmental Control and Life Support Systems",
         "pub_year": "2024",
-        "citation": "Journal of Aerospace Information Systems, 1-15, 2024"
+        "citation": "Journal of Aerospace Information Systems, 1-15, 2024",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:wKETBy42zhYC"
     },
     {
         "title": "Discussion of “Longitudinal Stresses and Strains in Design of RPM Plpes” by Jey K. Jeyapalan and B. M. Abdel-Magid (May, 1987, Vol. 113, No. 3)",
         "pub_year": "1988",
-        "citation": "Journal of Transportation Engineering 114 (5), 629-631, 1988"
+        "citation": "Journal of Transportation Engineering 114 (5), 629-631, 1988",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:Mojj43d5GZwC"
     },
     {
         "title": "Domain-specific querying formalisms for retrieving information about HVAC systems",
         "pub_year": "2014",
-        "citation": "Journal of Computing in Civil Engineering 28 (1), 40-49, 2014"
+        "citation": "Journal of Computing in Civil Engineering 28 (1), 40-49, 2014",
+        "num_citations": 13,
+        "author_pub_id": "5VQf2cgAAAAJ:cFHS6HbyZ2cC"
     },
     {
         "title": "Effects of Planning and Data Collection Approaches on the Quality of Processed Laser Scanned Data: Lessons Learned",
         "pub_year": "2012",
-        "citation": "Construction Research Congress 2012: Construction Challenges in a Flat World …, 2012"
+        "citation": "Construction Research Congress 2012: Construction Challenges in a Flat World …, 2012",
+        "num_citations": 1,
+        "author_pub_id": "5VQf2cgAAAAJ:kRWSkSYxWN8C"
     },
     {
         "title": "Effects of positioning data quality and navigation models on map-matching of indoor positioning data",
         "pub_year": "2016",
-        "citation": "Journal of Computing in Civil Engineering 30 (1), 04014113, 2016"
+        "citation": "Journal of Computing in Civil Engineering 30 (1), 04014113, 2016",
+        "num_citations": 15,
+        "author_pub_id": "5VQf2cgAAAAJ:tkaPQYYpVKoC"
     },
     {
         "title": "Efficient and effective quality assessment of as-is building information models and 3D laser-scanned data",
         "pub_year": "2011",
-        "citation": "Computing in civil engineering (2011), 486-493, 2011"
+        "citation": "Computing in civil engineering (2011), 486-493, 2011",
+        "num_citations": 82,
+        "author_pub_id": "5VQf2cgAAAAJ:IWHjjKOFINEC"
     },
     {
         "title": "Electric Load Prediction Baselines for Airport Buildings: A Case Study",
         "pub_year": "2016",
-        "citation": "Construction Research Congress 2016, 869-878, 2016"
+        "citation": "Construction Research Congress 2016, 869-878, 2016",
+        "num_citations": 3,
+        "author_pub_id": "5VQf2cgAAAAJ:KUbvn5osdkgC"
     },
     {
         "title": "Embedded Commissioning for Building Design",
         "pub_year": "2004",
-        "citation": "Department of Civil and Environmental Engineering Carnegie Mellon University …, 2004"
+        "citation": "Department of Civil and Environmental Engineering Carnegie Mellon University …, 2004",
+        "num_citations": 1,
+        "author_pub_id": "5VQf2cgAAAAJ:8AbLer7MMksC"
     },
     {
         "title": "Embedded commissioning for building design",
         "pub_year": "2004",
-        "citation": "eWork and eBusiness in Architecture, Engineering and Construction …, 2004"
+        "citation": "eWork and eBusiness in Architecture, Engineering and Construction …, 2004",
+        "num_citations": 17,
+        "author_pub_id": "5VQf2cgAAAAJ:j3f4tGmQtD8C"
     },
     {
         "title": "Enabling and Sustaining Connected Communities Rooted in Solving Societal Challenges",
-        "citation": "Carnegie Mellon University, 0"
+        "citation": "Carnegie Mellon University, 0",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:kw52XkFRtyQC"
     },
     {
         "title": "Encoding 3d point contexts for self-supervised spall classification using 3d bridge point clouds",
         "pub_year": "2023",
-        "citation": "Journal of Computing in Civil Engineering 37 (2), 04022061, 2023"
+        "citation": "Journal of Computing in Civil Engineering 37 (2), 04022061, 2023",
+        "num_citations": 2,
+        "author_pub_id": "5VQf2cgAAAAJ:MpfHP-DdYjUC"
     },
     {
         "title": "End-to-end image-based indoor localization for facility operation and management",
         "pub_year": "2018",
-        "citation": "ISARC. Proceedings of the International Symposium on Automation and Robotics …, 2018"
+        "citation": "ISARC. Proceedings of the International Symposium on Automation and Robotics …, 2018",
+        "num_citations": 3,
+        "author_pub_id": "5VQf2cgAAAAJ:kh2fBNsKQNwC"
     },
     {
         "title": "Energy sharing through shared storage in net zero energy communities",
         "pub_year": "2019",
-        "citation": "Journal of Physics: Conference Series 1343 (1), 012107, 2019"
+        "citation": "Journal of Physics: Conference Series 1343 (1), 012107, 2019",
+        "num_citations": 11,
+        "author_pub_id": "5VQf2cgAAAAJ:mlAyqtXpCwEC"
     },
     {
         "title": "Engineering the incorporation of information technologies into construction service networks",
         "pub_year": "2004",
-        "citation": "Proc., National Science Foundation Design, Service and Manufacture and …, 2004"
+        "citation": "Proc., National Science Foundation Design, Service and Manufacture and …, 2004",
+        "num_citations": 1,
+        "author_pub_id": "5VQf2cgAAAAJ:q3CdL3IzO_QC"
     },
     {
         "title": "Evaluation and comparison of different virtual reality environments towards supporting tasks done on a virtual construction site",
         "pub_year": "2016",
-        "citation": "Construction Research Congress 2016, 2371-2381, 2016"
+        "citation": "Construction Research Congress 2016, 2371-2381, 2016",
+        "num_citations": 21,
+        "author_pub_id": "5VQf2cgAAAAJ:g3aElNc5_aQC"
     },
     {
         "title": "Evaluation of different features for matching point clouds to building information models",
         "pub_year": "2016",
-        "citation": "Journal of Computing in Civil Engineering 30 (1), 04014107, 2016"
+        "citation": "Journal of Computing in Civil Engineering 30 (1), 04014107, 2016",
+        "num_citations": 29,
+        "author_pub_id": "5VQf2cgAAAAJ:JQOojiI6XY0C"
     },
     {
         "title": "Evaluation of existing sensor ontologies to support capturing of construction field data with data acquisition technologies",
         "pub_year": "2012",
-        "citation": "Computing in Civil Engineering (2012), 1-8, 2012"
+        "citation": "Computing in Civil Engineering (2012), 1-8, 2012",
+        "num_citations": 1,
+        "author_pub_id": "5VQf2cgAAAAJ:q3oQSFYPqjQC"
     },
     {
         "title": "Evaluation of localization algorithms for WLAN-based tracking to support facility management field activities",
-        "citation": "Proc., Proceedings of the CIB W78 2010: 27th International Conference, 0"
+        "citation": "Proc., Proceedings of the CIB W78 2010: 27th International Conference, 0",
+        "num_citations": 1,
+        "author_pub_id": "5VQf2cgAAAAJ:geHnlv5EZngC"
     },
     {
         "title": "Evaluation of toolkits for visualizing information about performance of earthwork activities on a construction job site",
         "pub_year": "2019",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:4X0JR2_MtJMC"
     },
     {
         "title": "Evaluation of toolkits for visualizing information about performance of earthwork activities on a construction job site",
         "pub_year": "2010",
-        "citation": "Computing in Civil and Building Engineering, Proceedings of the …, 2010"
+        "citation": "Computing in Civil and Building Engineering, Proceedings of the …, 2010",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:uLbwQdceFCQC"
     },
     {
         "title": "Experiments in using nonlinear regression for business activity normalization in the Energy Star benchmarking method",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:4vMrXwiscB8C"
     },
     {
         "title": "Exploiting motor vehicle information and communications technology for transportation engineering",
         "pub_year": "2003",
-        "citation": "Journal of Transportation Engineering 129 (5), 469-474, 2003"
+        "citation": "Journal of Transportation Engineering 129 (5), 469-474, 2003",
+        "num_citations": 17,
+        "author_pub_id": "5VQf2cgAAAAJ:M3NEmzRMIkIC"
     },
     {
         "title": "Exploration and comparison of approaches for integrating heterogeneous information sources to support performance analysis of HVAC systems",
         "pub_year": "2012",
-        "citation": "Computing in Civil Engineering (2012), 25-32, 2012"
+        "citation": "Computing in Civil Engineering (2012), 25-32, 2012",
+        "num_citations": 5,
+        "author_pub_id": "5VQf2cgAAAAJ:5Ul4iDaHHb8C"
     },
     {
         "title": "Exploratory study towards streamlining the identification of sensor locations within a facility",
         "pub_year": "2014",
-        "citation": "Computing in Civil and Building Engineering (2014), 1820-1827, 2014"
+        "citation": "Computing in Civil and Building Engineering (2014), 1820-1827, 2014",
+        "num_citations": 6,
+        "author_pub_id": "5VQf2cgAAAAJ:JoZmwDi-zQgC"
     },
     {
         "title": "Extending the information delivery manual approach to identify information requirements for performance analysis of HVAC systems",
         "pub_year": "2013",
-        "citation": "Advanced Engineering Informatics 27 (4), 496-505, 2013"
+        "citation": "Advanced Engineering Informatics 27 (4), 496-505, 2013",
+        "num_citations": 40,
+        "author_pub_id": "5VQf2cgAAAAJ:nb7KW1ujOQ8C"
     },
     {
         "title": "Extending/augmenting current building information models with scanned data",
         "pub_year": "2009",
-        "citation": "NIST, Gaithersburg, MD, 2009"
+        "citation": "NIST, Gaithersburg, MD, 2009",
+        "num_citations": 1,
+        "author_pub_id": "5VQf2cgAAAAJ:Tiz5es2fbqcC"
     },
     {
         "title": "Extracting surveying goals from point clouds to support construction and infrastructure inspection",
         "pub_year": "2009",
-        "citation": "Construction Research Congress 2009: Building a Sustainable Future, 1164-1173, 2009"
+        "citation": "Construction Research Congress 2009: Building a Sustainable Future, 1164-1173, 2009",
+        "num_citations": 13,
+        "author_pub_id": "5VQf2cgAAAAJ:BqipwSGYUEgC"
     },
     {
         "title": "FSBrick: An information model for representing fault-symptom relationships in HVAC systems",
         "pub_year": "2023",
-        "citation": "Proceedings of the 10th ACM International Conference on Systems for Energy …, 2023"
+        "citation": "Proceedings of the 10th ACM International Conference on Systems for Energy …, 2023",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:WHdLCjDvYFkC"
     },
     {
         "title": "Factors affecting contractors' risk of cost overburden",
         "pub_year": "1998",
-        "citation": "Journal of Management in Engineering 14 (1), 67-76, 1998"
+        "citation": "Journal of Management in Engineering 14 (1), 67-76, 1998",
+        "num_citations": 292,
+        "author_pub_id": "5VQf2cgAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Factors contributing to measurement uncertainty of HVAC-enabled demand flexibility in gridinteractive commercial buildings",
-        "citation": "Proceedings of the 29th EG-ICE International Workshop on Intelligent …, 0"
+        "citation": "Proceedings of the 29th EG-ICE International Workshop on Intelligent …, 0",
+        "num_citations": 3,
+        "author_pub_id": "5VQf2cgAAAAJ:kVjdVfd2voEC"
     },
     {
         "title": "Feasibility and fidelity of data exchange through IFC for building commissioning",
         "pub_year": "2005",
-        "citation": "Energy Systems Laboratory (http://esl. tamu. edu), 2005"
+        "citation": "Energy Systems Laboratory (http://esl. tamu. edu), 2005",
+        "num_citations": 1,
+        "author_pub_id": "5VQf2cgAAAAJ:SdhP9T11ey4C"
     },
     {
         "title": "Field Trials of RFID Technology for Tracking Fabricated Pipe–Phase II",
         "pub_year": "2004",
-        "citation": "FIATECH Smart Chips Report, FIATECH, Austin, TX, 2004"
+        "citation": "FIATECH Smart Chips Report, FIATECH, Austin, TX, 2004",
+        "num_citations": 19,
+        "author_pub_id": "5VQf2cgAAAAJ:HDshCWvjkbEC"
     },
     {
         "title": "Field technologies and their impact on management of supply chains",
         "pub_year": "2008",
-        "citation": "Construction Supply Chain Management Handbook, 16-1-16-28, 2008"
+        "citation": "Construction Supply Chain Management Handbook, 16-1-16-28, 2008",
+        "num_citations": 2,
+        "author_pub_id": "5VQf2cgAAAAJ:YohjEiUPhakC"
     },
     {
         "title": "Field trials of RFID technology for tracking fabricated pipe",
         "pub_year": "2004",
-        "citation": "Fiatech smart chips report, FIATECH, Austin, TX, 2004"
+        "citation": "Fiatech smart chips report, FIATECH, Austin, TX, 2004",
+        "num_citations": 17,
+        "author_pub_id": "5VQf2cgAAAAJ:k_IJM867U9cC"
     },
     {
         "title": "Field trials of RFID technology for tracking pre-fabricated pipe spools",
         "pub_year": "2004",
-        "citation": "Proceedings of the 21st International Symposium on Automation and Robotics …, 2004"
+        "citation": "Proceedings of the 21st International Symposium on Automation and Robotics …, 2004",
+        "num_citations": 20,
+        "author_pub_id": "5VQf2cgAAAAJ:mVmsd5A6BfQC"
     },
     {
         "title": "Forecasting Airport Building Electricity Demand on the Basis of Flight Schedule Information for Demand Response Applications",
         "pub_year": "2017",
-        "citation": "Transportation Research Record 2603 (1), 29-38, 2017"
+        "citation": "Transportation Research Record 2603 (1), 29-38, 2017",
+        "num_citations": 12,
+        "author_pub_id": "5VQf2cgAAAAJ:e_rmSamDkqQC"
     },
     {
         "title": "Formalism for applying domain constraints in domain-oriented schema matching",
         "pub_year": "2008",
-        "citation": "Journal of computing in civil engineering 22 (3), 170-180, 2008"
+        "citation": "Journal of computing in civil engineering 22 (3), 170-180, 2008",
+        "num_citations": 5,
+        "author_pub_id": "5VQf2cgAAAAJ:1sJd4Hv_s6UC"
     },
     {
         "title": "Formalism for construction inspection planning: Requirements and process concept",
         "pub_year": "2007",
-        "citation": "Journal of Computing in Civil Engineering 21 (1), 29-38, 2007"
+        "citation": "Journal of Computing in Civil Engineering 21 (1), 29-38, 2007",
+        "num_citations": 50,
+        "author_pub_id": "5VQf2cgAAAAJ:RHpTSmoSYBkC"
     },
     {
         "title": "Formalism for detecting version differences in data models",
         "pub_year": "2007",
-        "citation": "Journal of Computing in Civil Engineering 21 (5), 321-330, 2007"
+        "citation": "Journal of Computing in Civil Engineering 21 (5), 321-330, 2007",
+        "num_citations": 19,
+        "author_pub_id": "5VQf2cgAAAAJ:YFjsv_pBGBYC"
     },
     {
         "title": "Formalisms for query capture and data source identification to support data fusion for construction productivity monitoring",
         "pub_year": "2011",
-        "citation": "Automation in Construction 20 (4), 389-398, 2011"
+        "citation": "Automation in Construction 20 (4), 389-398, 2011",
+        "num_citations": 44,
+        "author_pub_id": "5VQf2cgAAAAJ:qUcmZB5y_30C"
     },
     {
         "title": "Formalization and automation of effective tracking and locating of precast components in a storage yard",
         "pub_year": "2003",
-        "citation": "Proceedings 9th EuropIA International Conference, 31-37, 2003"
+        "citation": "Proceedings 9th EuropIA International Conference, 31-37, 2003",
+        "num_citations": 27,
+        "author_pub_id": "5VQf2cgAAAAJ:9ZlFYXVOiuMC"
     },
     {
         "title": "Formalization and automation of time-space conflict analysis",
         "pub_year": "2002",
-        "citation": "Journal of Computing in Civil Engineering 16 (2), 124-134, 2002"
+        "citation": "Journal of Computing in Civil Engineering 16 (2), 124-134, 2002",
+        "num_citations": 299,
+        "author_pub_id": "5VQf2cgAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Formalization of the flow of component-related information in precast concrete supply chains",
         "pub_year": "2008",
-        "citation": "Journal of Construction Engineering and Management 134 (2), 112-121, 2008"
+        "citation": "Journal of Construction Engineering and Management 134 (2), 112-121, 2008",
+        "num_citations": 44,
+        "author_pub_id": "5VQf2cgAAAAJ:M05iB0D1s5AC"
     },
     {
         "title": "Formalization of workflows for extracting bridge surveying goals from laser-scanned data",
         "pub_year": "2012",
-        "citation": "Automation in Construction 22, 306-319, 2012"
+        "citation": "Automation in Construction 22, 306-319, 2012",
+        "num_citations": 66,
+        "author_pub_id": "5VQf2cgAAAAJ:QIV2ME_5wuYC"
     },
     {
         "title": "Formalized control logic fault definition with ontological reasoning for air handling units",
         "pub_year": "2021",
-        "citation": "Automation in Construction 129, 103781, 2021"
+        "citation": "Automation in Construction 129, 103781, 2021",
+        "num_citations": 12,
+        "author_pub_id": "5VQf2cgAAAAJ:BJbdYPG6LGMC"
     },
     {
         "title": "Formalized representation for supporting automated identification of critical assets in facilities during emergencies triggered by failures in building systems",
         "pub_year": "2012",
-        "citation": "Journal of Computing in Civil Engineering 26 (4), 519-529, 2012"
+        "citation": "Journal of Computing in Civil Engineering 26 (4), 519-529, 2012",
+        "num_citations": 27,
+        "author_pub_id": "5VQf2cgAAAAJ:f2IySw72cVMC"
     },
     {
         "title": "Framework for providing customized data representations for effective and efficient interaction with mobile computing solutions on construction sites",
         "pub_year": "2005",
-        "citation": "Journal of Computing in Civil Engineering 19 (2), 109-118, 2005"
+        "citation": "Journal of Computing in Civil Engineering 19 (2), 109-118, 2005",
+        "num_citations": 40,
+        "author_pub_id": "5VQf2cgAAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "Fusing data from multiple sources to support project management tasks",
         "pub_year": "2007",
-        "citation": "Computing in Civil Engineering (2007), 411-418, 2007"
+        "citation": "Computing in Civil Engineering (2007), 411-418, 2007",
+        "num_citations": 4,
+        "author_pub_id": "5VQf2cgAAAAJ:a0OBvERweLwC"
     },
     {
         "title": "GENERALIZED TWO-LAYER MODEL",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:evX43VCCuoAC"
     },
     {
         "title": "GRADUATE STUDENT HANDBOOK",
-        "citation": "Carnegie Mellon, 0"
+        "citation": "Carnegie Mellon, 0",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:LdasjJ6CEcoC"
     },
     {
         "title": "Generating as-is building information models for facility management by leveraging heterogeneous existing information sources: A case study",
         "pub_year": "2014",
-        "citation": "Construction Research Congress 2014: Construction in a Global Network, 1911-1920, 2014"
+        "citation": "Construction Research Congress 2014: Construction in a Global Network, 1911-1920, 2014",
+        "num_citations": 9,
+        "author_pub_id": "5VQf2cgAAAAJ:J-pR_7NvFogC"
     },
     {
         "title": "Hitting 400.",
         "pub_year": "1997",
-        "citation": "Sports Illustrated 87 (13), 16-16, 1997"
+        "citation": "Sports Illustrated 87 (13), 16-16, 1997",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:pyW8ca7W8N0C"
     },
     {
         "title": "How effective is reducing traffic speed for safer work zones? Methodology and a case study in Pennsylvania",
         "pub_year": "2023",
-        "citation": "Accident Analysis & Prevention 183, 106966, 2023"
+        "citation": "Accident Analysis & Prevention 183, 106966, 2023",
+        "num_citations": 1,
+        "author_pub_id": "5VQf2cgAAAAJ:nRpfm8aw39MC"
     },
     {
         "title": "ICES Technical Report",
         "pub_year": "2002",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:epqYDVWIO7EC"
     },
     {
         "title": "IDENTIFICATION OF INFORMATION REQUIREMENTS USING SIMULATION FOR SUPPORITING CONSTRUCTION PRODUCTIVITY ASSESSMENT",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:ipzZ9siozwsC"
     },
     {
         "title": "INTERACTION PATTERNS WITH PROJECT HISTORIES",
         "pub_year": "2009",
-        "citation": "Computing in Civil Engineering: Proceedings of the 2009 ASCE International …, 2009"
+        "citation": "Computing in Civil Engineering: Proceedings of the 2009 ASCE International …, 2009",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:XiVPGOgt02cC"
     },
     {
         "title": "Identification of data items needed for automatic clash detection in MEP design coordination",
         "pub_year": "2009",
-        "citation": "Construction Research Congress 2009: Building a Sustainable Future, 416-425, 2009"
+        "citation": "Construction Research Congress 2009: Building a Sustainable Future, 416-425, 2009",
+        "num_citations": 49,
+        "author_pub_id": "5VQf2cgAAAAJ:TQgYirikUcIC"
     },
     {
         "title": "Identification of information requirements using simulation for supporting construction productivity assessment",
         "pub_year": "2010",
-        "citation": "Proceedings of the 2010 Winter Simulation Conference, 3076-3087, 2010"
+        "citation": "Proceedings of the 2010 Winter Simulation Conference, 3076-3087, 2010",
+        "num_citations": 5,
+        "author_pub_id": "5VQf2cgAAAAJ:sSrBHYA8nusC"
     },
     {
         "title": "Identifying temporal instability in factors causing work zone crash occurrences using fast causal inference",
         "pub_year": "2022",
-        "citation": "Computing in Civil Engineering 2021, 98-105, 2022"
+        "citation": "Computing in Civil Engineering 2021, 98-105, 2022",
+        "num_citations": 2,
+        "author_pub_id": "5VQf2cgAAAAJ:1lhNe0rCu4AC"
     },
     {
         "title": "Importance of Site conditions and capacity allocation for construction cost and performance: A case study",
         "pub_year": "1997",
-        "citation": "Int. Conf. on Lean Construction, 77-89, 1997"
+        "citation": "Int. Conf. on Lean Construction, 77-89, 1997",
+        "num_citations": 6,
+        "author_pub_id": "5VQf2cgAAAAJ:LO7wyVUgiFcC"
     },
     {
         "title": "Industry Foundation Classes for Project Management-A Trial Implementation.",
         "pub_year": "1999",
-        "citation": "J. Inf. Technol. Constr. 4, 17-36, 1999"
+        "citation": "J. Inf. Technol. Constr. 4, 17-36, 1999",
+        "num_citations": 190,
+        "author_pub_id": "5VQf2cgAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "Inferring heterogeneous treatment effects of work zones on crashes",
         "pub_year": "2022",
-        "citation": "Accident Analysis & Prevention 177, 106811, 2022"
+        "citation": "Accident Analysis & Prevention 177, 106811, 2022",
+        "num_citations": 8,
+        "author_pub_id": "5VQf2cgAAAAJ:7Hz3ACDFbsoC"
     },
     {
         "title": "Inferring the causal effect of work zones on crashes: Methodology and a case study",
         "pub_year": "2022",
-        "citation": "Analytic methods in accident research 33, 100203, 2022"
+        "citation": "Analytic methods in accident research 33, 100203, 2022",
+        "num_citations": 16,
+        "author_pub_id": "5VQf2cgAAAAJ:QD3KBmkZPeQC"
     },
     {
         "title": "Information Exchange Requirements to Support Commissioning of HVAC and Building Envelope Components During an Energy Retrofit Project—A Comparative Case Study",
         "pub_year": "2014",
-        "citation": "Computing in Civil and Building Engineering (2014), 1481-1488, 2014"
+        "citation": "Computing in Civil and Building Engineering (2014), 1481-1488, 2014",
+        "num_citations": 1,
+        "author_pub_id": "5VQf2cgAAAAJ:1yQoGdGgb4wC"
     },
     {
         "title": "Information Technology and US Infrastructure: Perspectives for the 21st Century",
         "pub_year": "2019",
-        "citation": "US Infrastructure, 55-69, 2019"
+        "citation": "US Infrastructure, 55-69, 2019",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:gKiMpY-AVTkC"
     },
     {
         "title": "Information requirements for earthquake damage assessment of structural walls",
         "pub_year": "2016",
-        "citation": "Advanced Engineering Informatics 30 (1), 54-64, 2016"
+        "citation": "Advanced Engineering Informatics 30 (1), 54-64, 2016",
+        "num_citations": 17,
+        "author_pub_id": "5VQf2cgAAAAJ:yB1At4FlUx8C"
     },
     {
         "title": "Inspection Planning in Support of Defect Detection",
         "pub_year": "2005",
-        "citation": "IABSE Symposium Report 90 (3), 52-58, 2005"
+        "citation": "IABSE Symposium Report 90 (3), 52-58, 2005",
+        "num_citations": 1,
+        "author_pub_id": "5VQf2cgAAAAJ:HE397vMXCloC"
     },
     {
         "title": "Integrated Approach for Interpreting and Fusing Building and Mobile Sensor Streams in a Facility into High-level Information",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:tzM49s52ZIMC"
     },
     {
         "title": "Integrated Approach for Interpreting and Fusing Building and Mobile Sensor Streams in a Facility into High-level Information",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:eq2jaN3J8jMC"
+    },
+    {
+        "title": "Integrated Calibration of Simulation Models for Autonomous Space Habitat Operations",
+        "pub_year": "2024",
+        "citation": "2024 IEEE Aerospace Conference, 1-18, 2024",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:XUvXOeBm_78C"
     },
     {
         "title": "Integrated Information Repository for Risk Assessment of Embankment Dams: Requirements Identification for Evaluating the Risk of Internal Erosion",
         "pub_year": "2016",
-        "citation": "Journal of Computing in Civil Engineering 30 (3), 04015038, 2016"
+        "citation": "Journal of Computing in Civil Engineering 30 (3), 04015038, 2016",
+        "num_citations": 6,
+        "author_pub_id": "5VQf2cgAAAAJ:j8SEvjWlNXcC"
     },
     {
         "title": "Integrated information framework for automated performance analysis of heating, ventilation, and air conditioning (HVAC) systems",
         "pub_year": "2016",
-        "citation": "US Patent 9,429,960, 2016"
+        "citation": "US Patent 9,429,960, 2016",
+        "num_citations": 9,
+        "author_pub_id": "5VQf2cgAAAAJ:VOx2b1Wkg3QC"
     },
     {
         "title": "Integrating and Visualizing Maintenance and Repair Work Orders in a Building Information Model Lessons Learned from a Prototype",
         "pub_year": "2011",
-        "citation": "null, 2011"
+        "citation": "null, 2011",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:fbc8zXXH2BUC"
     },
     {
         "title": "Integrating and visualizing maintenance and repair work orders in BIM: lessons learned from a prototype",
         "pub_year": "2011",
-        "citation": "International Conference On Construction Applications of Virtual Reality, 3-4, 2011"
+        "citation": "International Conference On Construction Applications of Virtual Reality, 3-4, 2011",
+        "num_citations": 47,
+        "author_pub_id": "5VQf2cgAAAAJ:fQNAKQ3IYiAC"
     },
     {
         "title": "Integrating social sustainability in value stream mapping: Panelized post-disaster temporary housing case study",
         "pub_year": "2019",
-        "citation": "Proc. 36th Int. Symp. Autom. Robot. Construct.(ISARC), 568-577, 2019"
+        "citation": "Proc. 36th Int. Symp. Autom. Robot. Construct.(ISARC), 568-577, 2019",
+        "num_citations": 1,
+        "author_pub_id": "5VQf2cgAAAAJ:a9-T7VOCCH8C"
     },
     {
         "title": "International Collaborative Construction Management Course: A Teaching Case Study",
         "pub_year": "2008",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:nVrZBo8bIpAC"
     },
     {
         "title": "Interoperable methodologies and techniques in CAD",
         "pub_year": "2009",
-        "citation": "CAD and GIS Integration, 85-122, 2009"
+        "citation": "CAD and GIS Integration, 85-122, 2009",
+        "num_citations": 12,
+        "author_pub_id": "5VQf2cgAAAAJ:WqliGbK-hY8C"
     },
     {
         "title": "Journal of Space Safety Engineering",
         "pub_year": "2023",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:PYBJJbyH-FwC"
     },
     {
         "title": "Laser scanning for bridge inspection and management",
         "pub_year": "2007",
-        "citation": "IABSE Symposium Report 93 (18), 17-24, 2007"
+        "citation": "IABSE Symposium Report 93 (18), 17-24, 2007",
+        "num_citations": 47,
+        "author_pub_id": "5VQf2cgAAAAJ:_xSYboBqXhAC"
     },
     {
         "title": "Lessons Learned from Generation of BIM forConstruction Management Case Study",
         "pub_year": "2009",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:lvd772isFD0C"
     },
     {
         "title": "Lessons learned from developing immersive virtual mock-ups to support energy-efficient retrofit decision making",
         "pub_year": "2013",
-        "citation": "Computing in Civil Engineering (2013), 210-217, 2013"
+        "citation": "Computing in Civil Engineering (2013), 210-217, 2013",
+        "num_citations": 9,
+        "author_pub_id": "5VQf2cgAAAAJ:tKAzc9rXhukC"
     },
     {
         "title": "Lessons learned from generation of BIM for construction management: case study",
         "pub_year": "2009",
-        "citation": "Proceedings of the Fifth International Conference on Construction in the …, 2009"
+        "citation": "Proceedings of the Fifth International Conference on Construction in the …, 2009",
+        "num_citations": 5,
+        "author_pub_id": "5VQf2cgAAAAJ:48xauSegjOkC"
     },
     {
         "title": "Lessons learned from utilizing building information modeling for construction management tasks",
         "pub_year": "2010",
-        "citation": "Construction Research Congress 2010: Innovation for Reshaping Construction …, 2010"
+        "citation": "Construction Research Congress 2010: Innovation for Reshaping Construction …, 2010",
+        "num_citations": 16,
+        "author_pub_id": "5VQf2cgAAAAJ:fPk4N6BV_jEC"
     },
     {
         "title": "Lessons learned on the implementation of probabilistic graphical model-based digital twins: A space habitat study",
         "pub_year": "2023",
-        "citation": "Journal of Space Safety Engineering 10 (2), 172-181, 2023"
+        "citation": "Journal of Space Safety Engineering 10 (2), 172-181, 2023",
+        "num_citations": 3,
+        "author_pub_id": "5VQf2cgAAAAJ:FiytvqdAVhgC"
     },
     {
         "title": "Life-cycle data management of engineered-to-order components using radio frequency identification",
         "pub_year": "2007",
-        "citation": "Advanced Engineering Informatics 21 (4), 356-366, 2007"
+        "citation": "Advanced Engineering Informatics 21 (4), 356-366, 2007",
+        "num_citations": 166,
+        "author_pub_id": "5VQf2cgAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "Locating Building Components Within A Facility Using Radio Frequency Identification Technology",
         "pub_year": "2006",
-        "citation": "Joint International Conference on Computing and Decision Making in Civil and …, 2006"
+        "citation": "Joint International Conference on Computing and Decision Making in Civil and …, 2006",
+        "num_citations": 1,
+        "author_pub_id": "5VQf2cgAAAAJ:hkOj_22Ku90C"
     },
     {
         "title": "Locating transportation infrastructure components and accessing histories for bridge inspection with radio frequency technology",
         "pub_year": "2006",
-        "citation": "Research Opportunities in Radio Frequency Identification Transportation …, 2006"
+        "citation": "Research Opportunities in Radio Frequency Identification Transportation …, 2006",
+        "num_citations": 4,
+        "author_pub_id": "5VQf2cgAAAAJ:uWQEDVKXjbEC"
     },
     {
         "title": "Measuring the Social Impact of Innovation in the Fabrication and Delivery of Post-Disaster Temporary Housing—2017 Fire in Chile Case Study",
         "pub_year": "2018",
-        "citation": "Construction Research Congress 2018, 573-583, 2018"
+        "citation": "Construction Research Congress 2018, 573-583, 2018",
+        "num_citations": 3,
+        "author_pub_id": "5VQf2cgAAAAJ:HtEfBTGE9r8C"
     },
     {
         "title": "Methods and systems for linking building information models with building maintenance information",
         "pub_year": "2014",
-        "citation": "US Patent App. 14/038,598, 2014"
+        "citation": "US Patent App. 14/038,598, 2014",
+        "num_citations": 17,
+        "author_pub_id": "5VQf2cgAAAAJ:LjlpjdlvIbIC"
     },
     {
         "title": "Methods and systems for linking building information models with building maintenance information",
         "pub_year": "2013",
-        "citation": "ABD Patent Ofisi, 2013"
+        "citation": "ABD Patent Ofisi, 2013",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:P7Ujq4OLJYoC"
     },
     {
         "title": "Methods for automatically modeling and representing as-built building information models",
         "pub_year": "2011",
-        "citation": "Proceedings of the NSF CMMI Research Innovation Conference 856558, 2011"
+        "citation": "Proceedings of the NSF CMMI Research Innovation Conference 856558, 2011",
+        "num_citations": 155,
+        "author_pub_id": "5VQf2cgAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "Modeling Graywater in Residences: Using Shower Effluent in the Toilet Reservoir",
         "pub_year": "2007",
-        "citation": "Journal of Green Building 2 (2), 109-120, 2007"
+        "citation": "Journal of Green Building 2 (2), 109-120, 2007",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:ye4kPcJQO24C"
     },
     {
         "title": "Modeling and analyzing the impact of technology on data capture and transfer processes at construction sites: a case study",
         "pub_year": "2006",
-        "citation": "Journal of construction engineering and management 132 (11), 1148-1157, 2006"
+        "citation": "Journal of construction engineering and management 132 (11), 1148-1157, 2006",
+        "num_citations": 88,
+        "author_pub_id": "5VQf2cgAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "Modeling information dependencies in construction project network organizations",
         "pub_year": "2003",
-        "citation": "Towards a vision for information technology in civil engineering, 1-13, 2003"
+        "citation": "Towards a vision for information technology in civil engineering, 1-13, 2003",
+        "num_citations": 30,
+        "author_pub_id": "5VQf2cgAAAAJ:dhFuZR0502QC"
     },
     {
         "title": "Motivation for Computational Support for Updating Building Information Models BIMs",
         "pub_year": "2009",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:nZcligLrVowC"
     },
     {
         "title": "Motivation for computational support for updating building information models (BIMs)",
         "pub_year": "2009",
-        "citation": "Computing in Civil Engineering (2009), 523-532, 2009"
+        "citation": "Computing in Civil Engineering (2009), 523-532, 2009",
+        "num_citations": 39,
+        "author_pub_id": "5VQf2cgAAAAJ:_Qo2XoVZTnwC"
     },
     {
         "title": "NCEES, MSPE",
         "pub_year": "2011",
-        "citation": "JOURNAL OF CONSTRUCTION ENGINEERING AND MANAGEMENT 1211, 2011"
+        "citation": "JOURNAL OF CONSTRUCTION ENGINEERING AND MANAGEMENT 1211, 2011",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:jU7OWUQzBzMC"
     },
     {
         "title": "Navigational models for computer supported project management tasks on construction sites",
         "pub_year": "2004",
-        "citation": "Journal of Computing in Civil Engineering 18 (4), 281-290, 2004"
+        "citation": "Journal of Computing in Civil Engineering 18 (4), 281-290, 2004",
+        "num_citations": 42,
+        "author_pub_id": "5VQf2cgAAAAJ:5nxA0vEk-isC"
     },
     {
         "title": "Ontology development for low-energy building embedded commissioning",
         "pub_year": "2009",
-        "citation": "Energy Systems Laboratory (http://esl. tamu. edu), 2009"
+        "citation": "Energy Systems Laboratory (http://esl. tamu. edu), 2009",
+        "num_citations": 3,
+        "author_pub_id": "5VQf2cgAAAAJ:XiSMed-E-HIC"
     },
     {
         "title": "Panorama-to-digital twin registration using semantic features",
         "pub_year": "2021",
-        "citation": "EG-ICE 2021 Workshop on Intelligent Computing in Engineering, 486, 2021"
+        "citation": "EG-ICE 2021 Workshop on Intelligent Computing in Engineering, 486, 2021",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:0CzhzZyukY4C"
     },
     {
         "title": "Panorama-to-model registration through integration of image retrieval and semantic reprojection",
         "pub_year": "2022",
-        "citation": "Automation in Construction 140, 104356, 2022"
+        "citation": "Automation in Construction 140, 104356, 2022",
+        "num_citations": 5,
+        "author_pub_id": "5VQf2cgAAAAJ:zCSUwVk65WsC"
     },
     {
         "title": "Personal rapid transit (PRT) computer network simulation and analysis of flow capacity",
         "pub_year": "2013",
-        "citation": "Automated People Movers and Transit Systems 2013: Half a Century of …, 2013"
+        "citation": "Automated People Movers and Transit Systems 2013: Half a Century of …, 2013",
+        "num_citations": 16,
+        "author_pub_id": "5VQf2cgAAAAJ:Y5dfb0dijaUC"
     },
     {
         "title": "Planning-based approach for fusing data from multiple sources for construction productivity monitoring",
         "pub_year": "2012",
-        "citation": "Journal of computing in civil engineering 26 (4), 530-540, 2012"
+        "citation": "Journal of computing in civil engineering 26 (4), 530-540, 2012",
+        "num_citations": 16,
+        "author_pub_id": "5VQf2cgAAAAJ:SeFeTyx0c_EC"
     },
     {
         "title": "Planning-based automated fusing of data from multiple heterogeneous sources",
         "pub_year": "2014",
-        "citation": "US Patent 8,862,614, 2014"
+        "citation": "US Patent 8,862,614, 2014",
+        "num_citations": 13,
+        "author_pub_id": "5VQf2cgAAAAJ:9vf0nzSNQJEC"
     },
     {
         "title": "Potential utilization of building information models for planning maintenance activities",
         "pub_year": "2010",
-        "citation": "Proceedings of the international conference on computing in civil and …, 2010"
+        "citation": "Proceedings of the international conference on computing in civil and …, 2010",
+        "num_citations": 286,
+        "author_pub_id": "5VQf2cgAAAAJ:Zph67rFs4hoC"
     },
     {
         "title": "Predicting Leaks in Natural Gas Distribution Networks Using Generalized Linear Models",
-        "citation": "Computing in Civil Engineering 2017, 342-349, 0"
+        "citation": "Computing in Civil Engineering 2017, 342-349, 0",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:0izLItjtcgwC"
     },
     {
         "title": "Preparing civil engineers for international collaboration in construction management",
         "pub_year": "2011",
-        "citation": "Journal of Professional Issues in Engineering Education and Practice 137 (3 …, 2011"
+        "citation": "Journal of Professional Issues in Engineering Education and Practice 137 (3 …, 2011",
+        "num_citations": 43,
+        "author_pub_id": "5VQf2cgAAAAJ:ZHo1McVdvXMC"
     },
     {
         "title": "Proactive Management of Mobility Impact of Interdependent Subsurface Utility and Roadway Construction through Incentives [supporting datasets]",
         "pub_year": "2021",
-        "citation": "Mobility21, Carnegie Mellon University, 2021"
+        "citation": "Mobility21, Carnegie Mellon University, 2021",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:buQ7SEKw-1sC"
     },
     {
         "title": "Proactive approach for reducing non-value adding activities due to time-space conflicts",
         "pub_year": "1998",
-        "citation": "Sixth Annual Conf. of the Int. Group for Lean Construction (IGLC-6), 1-16, 1998"
+        "citation": "Sixth Annual Conf. of the Int. Group for Lean Construction (IGLC-6), 1-16, 1998",
+        "num_citations": 59,
+        "author_pub_id": "5VQf2cgAAAAJ:kNdYIx-mwKoC"
     },
     {
         "title": "Proactive productivity management at job sites: Understanding characteristics of assumptions made for construction processes during planning based on case studies and interviews",
         "pub_year": "2014",
-        "citation": "Journal of Construction Engineering and Management 140 (3), 04013054, 2014"
+        "citation": "Journal of Construction Engineering and Management 140 (3), 04013054, 2014",
+        "num_citations": 29,
+        "author_pub_id": "5VQf2cgAAAAJ:abG-DnoFyZgC"
     },
     {
         "title": "Product and Process Modeling for Functional Performance Testing in Low-Energy Building Embedded Commissioning Cases",
         "pub_year": "2007",
-        "citation": "Energy Systems Laboratory (http://esl. tamu. edu), 2007"
+        "citation": "Energy Systems Laboratory (http://esl. tamu. edu), 2007",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:_B80troHkn4C"
     },
     {
         "title": "Product and Process Models on Construction Sites",
         "pub_year": "2004",
-        "citation": "IABSE REPORTS 88, 416, 2004"
+        "citation": "IABSE REPORTS 88, 416, 2004",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:Fu2w8maKXqMC"
     },
     {
         "title": "Product and process modeling for functional performance testing in low-energy building embedded commissioning cases",
         "pub_year": "2007",
-        "citation": "Proceedings of the ICEBO-2007 Conference, 10-13, 2007"
+        "citation": "Proceedings of the ICEBO-2007 Conference, 10-13, 2007",
+        "num_citations": 5,
+        "author_pub_id": "5VQf2cgAAAAJ:uJ-U7cs_P_0C"
     },
     {
         "title": "Productivity and cost analysis based on a 4D model",
         "pub_year": "1997",
-        "citation": "CIB W78, 1997"
+        "citation": "CIB W78, 1997",
+        "num_citations": 21,
+        "author_pub_id": "5VQf2cgAAAAJ:R3hNpaxXUhUC"
     },
     {
         "title": "Products and Process Modeling in Cx: A Significant Challenge for Digital-Cx",
         "pub_year": "2008",
-        "citation": "Energy Systems Laboratory (http://esl. tamu. edu), 2008"
+        "citation": "Energy Systems Laboratory (http://esl. tamu. edu), 2008",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:LPZeul_q3PIC"
     },
     {
         "title": "Produktionsplanung bei Linienfertigung",
         "pub_year": "2015",
-        "citation": "Walter de Gruyter GmbH & Co KG, 2015"
+        "citation": "Walter de Gruyter GmbH & Co KG, 2015",
+        "num_citations": 48,
+        "author_pub_id": "5VQf2cgAAAAJ:AXPGKjj_ei8C"
     },
     {
         "title": "Providing systems engineering perspective in a capstone project setting to monitor performance of HVAC systems",
         "pub_year": "2013",
-        "citation": "Computing in Civil Engineering (2013), 194-201, 2013"
+        "citation": "Computing in Civil Engineering (2013), 194-201, 2013",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:BrmTIyaxlBUC"
     },
     {
         "title": "Publication Submission Form",
         "pub_year": "2006",
-        "citation": "Journal Article 15 (2), 124-138, 2006"
+        "citation": "Journal Article 15 (2), 124-138, 2006",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:Ehil0879vHcC"
     },
     {
         "title": "Publication Submission Form",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:8xutWZnSdmoC"
     },
     {
         "title": "Quantification of edge loss of laser scanned data at spatial discontinuities",
         "pub_year": "2009",
-        "citation": "Automation in Construction 18 (8), 1070-1083, 2009"
+        "citation": "Automation in Construction 18 (8), 1070-1083, 2009",
+        "num_citations": 151,
+        "author_pub_id": "5VQf2cgAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "REQUIREMENTS AND DEVELOPMENT OF A COMPUTERIZED APPROACH FOR ANALYZING FUNCTIONAL RELATIONSHIPS AMONG HVAC COMPONENTS USING BUILDING INFORMATION MODELS",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:bnK-pcrLprsC"
     },
     {
         "title": "Real-time Tracking and Monitoring of Precast Concrete Pieces in the Manufacturing Plant",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:LgRImbQfgY4C"
     },
     {
         "title": "Reality Capture Technologies and Building Information Modeling for Situation Awareness and Assessment",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:PR6Y55bgFSsC"
     },
     {
         "title": "Reasoning about building systems and content to support vulnerability assessment in building emergencies",
         "pub_year": "2013",
-        "citation": "Journal of computing in civil engineering 27 (2), 118-128, 2013"
+        "citation": "Journal of computing in civil engineering 27 (2), 118-128, 2013",
+        "num_citations": 10,
+        "author_pub_id": "5VQf2cgAAAAJ:OU6Ihb5iCvQC"
     },
     {
         "title": "Representation and integration of as-built information to IFC based product and process models for automated assessment of as-built conditions.",
         "pub_year": "2002",
-        "citation": "ISARC 2002: 19 th International Symposium on Automation and Robotics in …, 2002"
+        "citation": "ISARC 2002: 19 th International Symposium on Automation and Robotics in …, 2002",
+        "num_citations": 44,
+        "author_pub_id": "5VQf2cgAAAAJ:L8Ckcad2t8MC"
     },
     {
         "title": "Representation of damage information for post-earthquake damage assessment of reinforced concrete frames",
         "pub_year": "2013",
-        "citation": "Computing in Civil Engineering (2013), 825-832, 2013"
+        "citation": "Computing in Civil Engineering (2013), 825-832, 2013",
+        "num_citations": 11,
+        "author_pub_id": "5VQf2cgAAAAJ:dTyEYWd-f8wC"
     },
     {
         "title": "Representation of facility contents and threats for supporting identification of vulnerabilities in building emergencies",
         "pub_year": "2009",
-        "citation": "Computing in Civil Engineering (2009), 582-592, 2009"
+        "citation": "Computing in Civil Engineering (2009), 582-592, 2009",
+        "num_citations": 12,
+        "author_pub_id": "5VQf2cgAAAAJ:vV6vV6tmYwMC"
     },
     {
         "title": "Representation requirements for laser scan based probabilistic condition assessment of bridges",
         "pub_year": "2017",
-        "citation": "Computing in Civil Engineering 2017, 395-402, 2017"
+        "citation": "Computing in Civil Engineering 2017, 395-402, 2017",
+        "num_citations": 4,
+        "author_pub_id": "5VQf2cgAAAAJ:XoXfffV-tXoC"
     },
     {
         "title": "Representation requirements of as-is building information models generated from laser scanned point cloud data",
         "pub_year": "2011",
-        "citation": "Proceedings of the international symposium on automation and robotics in …, 2011"
+        "citation": "Proceedings of the international symposium on automation and robotics in …, 2011",
+        "num_citations": 38,
+        "author_pub_id": "5VQf2cgAAAAJ:g5m5HwL7SMYC"
     },
     {
         "title": "Representing work spaces generically in construction method models",
         "pub_year": "2002",
-        "citation": "Journal of construction engineering and management 128 (4), 296-305, 2002"
+        "citation": "Journal of construction engineering and management 128 (4), 296-305, 2002",
+        "num_citations": 155,
+        "author_pub_id": "5VQf2cgAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Requirements and evaluation of standards for integration of sensor data with building information models",
         "pub_year": "2009",
-        "citation": "Computing in Civil Engineering (2009), 95-104, 2009"
+        "citation": "Computing in Civil Engineering (2009), 95-104, 2009",
+        "num_citations": 78,
+        "author_pub_id": "5VQf2cgAAAAJ:mB3voiENLucC"
     },
     {
         "title": "Requirements for a computerized approach to plan sensor placement in the HVAC systems",
         "pub_year": "2010",
-        "citation": "Computing in Civil and Building Engineering, Proceedings of the …, 2010"
+        "citation": "Computing in Civil and Building Engineering, Proceedings of the …, 2010",
+        "num_citations": 9,
+        "author_pub_id": "5VQf2cgAAAAJ:PELIpwtuRlgC"
     },
     {
         "title": "Requirements for an integrated framework of self-managing HVAC systems",
         "pub_year": "2011",
-        "citation": "Computing in Civil Engineering (2011), 802-809, 2011"
+        "citation": "Computing in Civil Engineering (2011), 802-809, 2011",
+        "num_citations": 12,
+        "author_pub_id": "5VQf2cgAAAAJ:P5F9QuxV20EC"
     },
     {
         "title": "Requirements for and Approaches towards Context-aware BIM",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:_Ybze24A_UAC"
     },
     {
         "title": "Requirements identification for a BIM-GIS integrated platform to support facility management activities",
         "pub_year": "2012",
-        "citation": "Gerontechnology 11 (2), 202, 2012"
+        "citation": "Gerontechnology 11 (2), 202, 2012",
+        "num_citations": 2,
+        "author_pub_id": "5VQf2cgAAAAJ:ZuybSZzF8UAC"
     },
     {
         "title": "Running surface assessment technology review",
         "pub_year": "2002",
-        "citation": "ICES Research Project Rep, 2002"
+        "citation": "ICES Research Project Rep, 2002",
+        "num_citations": 4,
+        "author_pub_id": "5VQf2cgAAAAJ:yD5IFk8b50cC"
     },
     {
         "title": "Selected and Revised Papers from the ASCE International Workshop on Computing in Civil Engineering 2007, Special Section 1",
         "pub_year": "2009",
-        "citation": "Journal of Computing in Civil Engineering 23 (1), 2-2, 2009"
+        "citation": "Journal of Computing in Civil Engineering 23 (1), 2-2, 2009",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:olpn-zPbct0C"
     },
     {
         "title": "Selected and Revised Papers from the ASCE International Workshop on Computing in Civil Engineering 2007, Special Section 2",
         "pub_year": "2009",
-        "citation": "Journal of Computing in Civil Engineering 23 (2), 63-63, 2009"
+        "citation": "Journal of Computing in Civil Engineering 23 (2), 63-63, 2009",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:_FM0Bhl9EiAC"
     },
     {
         "title": "Selected and Revised Papers from the ASCE International Workshop on Computing in Civil Engineering 2007, Special Section 3",
         "pub_year": "2009",
-        "citation": "Journal of Computing in Civil Engineering 23 (3), 139-139, 2009"
-    },
-    {
-        "title": "Selected and Revised Papers from the ASCE International Workshop on Computing in Civil Engineering 2007, Special Section 3",
-        "pub_year": "2009",
-        "citation": "Journal of Computing in Civil Engineering 23 (3), 139-139, 2009"
+        "citation": "Journal of Computing in Civil Engineering 23 (3), 139-139, 2009",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:eJXPG6dFmWUC"
     },
     {
         "title": "Semantic interoperability in infrastructure systems",
         "pub_year": "2003",
-        "citation": "Towards a Vision for Information Technology in Civil Engineering, 1-13, 2003"
+        "citation": "Towards a Vision for Information Technology in Civil Engineering, 1-13, 2003",
+        "num_citations": 12,
+        "author_pub_id": "5VQf2cgAAAAJ:lSLTfruPkqcC"
     },
     {
         "title": "Semi-automated as-built modeling of light rail system guide beams",
         "pub_year": "2010",
-        "citation": "Construction Research Congress 2010: Innovation for Reshaping Construction …, 2010"
+        "citation": "Construction Research Congress 2010: Innovation for Reshaping Construction …, 2010",
+        "num_citations": 12,
+        "author_pub_id": "5VQf2cgAAAAJ:u_35RYKgDlwC"
     },
     {
         "title": "Semi-automated model matching using version difference",
         "pub_year": "2009",
-        "citation": "Advanced Engineering Informatics 23 (1), 1-11, 2009"
+        "citation": "Advanced Engineering Informatics 23 (1), 1-11, 2009",
+        "num_citations": 22,
+        "author_pub_id": "5VQf2cgAAAAJ:RYcK_YlVTxYC"
     },
     {
         "title": "Sensing and field data capture for construction and facility operations",
         "pub_year": "2011",
-        "citation": "Journal of construction engineering and management 137 (10), 870-881, 2011"
+        "citation": "Journal of construction engineering and management 137 (10), 870-881, 2011",
+        "num_citations": 83,
+        "author_pub_id": "5VQf2cgAAAAJ:r0BpntZqJG4C"
     },
     {
         "title": "Sensor data driven proactive management of infrastructure systems",
         "pub_year": "2006",
-        "citation": "Workshop of the European Group for Intelligent Computing in Engineering, 262-284, 2006"
+        "citation": "Workshop of the European Group for Intelligent Computing in Engineering, 262-284, 2006",
+        "num_citations": 9,
+        "author_pub_id": "5VQf2cgAAAAJ:35N4QoGY0k4C"
     },
     {
         "title": "Sensors in construction and infrastructure management",
         "pub_year": "2008",
-        "citation": "Journal of Information Technology in Construction (ITcon) 13 (5), 69-70, 2008"
+        "citation": "Journal of Information Technology in Construction (ITcon) 13 (5), 69-70, 2008",
+        "num_citations": 35,
+        "author_pub_id": "5VQf2cgAAAAJ:hFOr9nPyWt4C"
     },
     {
         "title": "SiDaCoS: Product and Process Models on Construction Sites",
         "pub_year": "2004",
-        "citation": ""
+        "citation": "",
+        "num_citations": 1,
+        "author_pub_id": "5VQf2cgAAAAJ:tS2w5q8j5-wC"
     },
     {
         "title": "SiDaCoS: Product and Process Models on Construction Sites",
         "pub_year": "2004",
-        "citation": "Proceedings of IABSE Symposium Shanghai 2004, 2004"
+        "citation": "Proceedings of IABSE Symposium Shanghai 2004, 2004",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:WA5NYHcadZ8C"
     },
     {
         "title": "Simulation-based identification of possible locations for mobile cranes on construction sites",
         "pub_year": "2008",
-        "citation": "Journal of computing in civil engineering 22 (1), 21-30, 2008"
+        "citation": "Journal of computing in civil engineering 22 (1), 21-30, 2008",
+        "num_citations": 70,
+        "author_pub_id": "5VQf2cgAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "Sincere thanks are extended to the follow-ing people who reviewed papers submit-ted for publication in the Journal of Computing in Civil Engineering during the period of August …",
         "pub_year": "2009",
-        "citation": "Journal of Computing in Civil Engineering 437, 2009"
+        "citation": "Journal of Computing in Civil Engineering 437, 2009",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:wbdj-CoPYUoC"
     },
     {
         "title": "Situational awareness in construction and facility management",
         "pub_year": "2015",
-        "citation": "Frontiers of Engineering Management 1 (3), 283-289, 2015"
+        "citation": "Frontiers of Engineering Management 1 (3), 283-289, 2015",
+        "num_citations": 28,
+        "author_pub_id": "5VQf2cgAAAAJ:5awf1xo2G04C"
     },
     {
         "title": "Supporting deconstruction waste management through 3D imaging: A case study",
         "pub_year": "2019",
-        "citation": "ISARC. Proceedings of the International Symposium on Automation and Robotics …, 2019"
+        "citation": "ISARC. Proceedings of the International Symposium on Automation and Robotics …, 2019",
+        "num_citations": 8,
+        "author_pub_id": "5VQf2cgAAAAJ:DUooU5lO8OsC"
     },
     {
         "title": "Supporting the decision-making process of first responders in building emergencies: The need for a vulnerability representation",
         "pub_year": "2008",
-        "citation": "Proc., 15th Annual European Group Intelligent Computing in Engineering Conf …, 2008"
+        "citation": "Proc., 15th Annual European Group Intelligent Computing in Engineering Conf …, 2008",
+        "num_citations": 12,
+        "author_pub_id": "5VQf2cgAAAAJ:ldfaerwXgEUC"
     },
     {
         "title": "Symbol recognition using vectorial signature matching for building mechanical drawings",
         "pub_year": "2019",
-        "citation": "Advances in computational design 4 (2), 155-177, 2019"
+        "citation": "Advances in computational design 4 (2), 155-177, 2019",
+        "num_citations": 9,
+        "author_pub_id": "5VQf2cgAAAAJ:4hFrxpcac9AC"
     },
     {
         "title": "Synthetic image data generation for semantic understanding in everchanging scenes using BIM and unreal engine",
         "pub_year": "2021",
-        "citation": "Computing in Civil Engineering 2021, 934-941, 2021"
+        "citation": "Computing in Civil Engineering 2021, 934-941, 2021",
+        "num_citations": 6,
+        "author_pub_id": "5VQf2cgAAAAJ:ubry08Y2EpUC"
     },
     {
         "title": "Teaching Globalization Issues to Civil Engineering Students–The International Collaborative Construction Management Course",
         "pub_year": "2009",
-        "citation": "INTERNATIONAL CONFERENCE ON CONSTRUCTION IN THE 21ST CENTURY (CITC-V) 5, 2009"
+        "citation": "INTERNATIONAL CONFERENCE ON CONSTRUCTION IN THE 21ST CENTURY (CITC-V) 5, 2009",
+        "num_citations": 1,
+        "author_pub_id": "5VQf2cgAAAAJ:Ri6SYOTghG4C"
     },
     {
         "title": "Technological assessment and process implications of field data capture technologies for construction and facility/infrastructure management",
         "pub_year": "2008",
-        "citation": "Journal of Information Technology in Construction (ITcon) 13 (10), 134-154, 2008"
+        "citation": "Journal of Information Technology in Construction (ITcon) 13 (10), 134-154, 2008",
+        "num_citations": 122,
+        "author_pub_id": "5VQf2cgAAAAJ:08ZZubdj9fEC"
     },
     {
         "title": "Technological assessment of radio frequency identification technology for indoor localization",
         "pub_year": "2009",
-        "citation": "Journal of Computing in Civil Engineering 23 (4), 230-238, 2009"
+        "citation": "Journal of Computing in Civil Engineering 23 (4), 230-238, 2009",
+        "num_citations": 131,
+        "author_pub_id": "5VQf2cgAAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "Technology and process assessment of using LADAR and embedded sensing for construction quality control",
         "pub_year": "2005",
-        "citation": "Construction Research Congress 2005: Broadening Perspectives, 1-10, 2005"
-    },
-    {
-        "title": "Technology and process assessment of using LADAR and embedded sensing for construction quality control",
-        "pub_year": "2005",
-        "citation": "Construction Research Congress 2005: Broadening Perspectives, 1-10, 2005"
+        "citation": "Construction Research Congress 2005: Broadening Perspectives, 1-10, 2005",
+        "num_citations": 51,
+        "author_pub_id": "5VQf2cgAAAAJ:rO6llkc54NcC"
     },
     {
         "title": "The ASDMCon project: The challenge of detecting defects on construction sites",
         "pub_year": "2006",
-        "citation": "Third International Symposium on 3D Data Processing, Visualization, and …, 2006"
+        "citation": "Third International Symposium on 3D Data Processing, Visualization, and …, 2006",
+        "num_citations": 39,
+        "author_pub_id": "5VQf2cgAAAAJ:Wp0gIr-vW9MC"
     },
     {
         "title": "The Need for Value Analysis and Planning for Effective Quality Control Technology Decision-Making",
         "pub_year": "2003",
-        "citation": "Towards a Vision for Information Technology in Civil Engineering, 1-8, 2003"
+        "citation": "Towards a Vision for Information Technology in Civil Engineering, 1-8, 2003",
+        "num_citations": 3,
+        "author_pub_id": "5VQf2cgAAAAJ:dfsIfKJdRG4C"
     },
     {
         "title": "The editor, associate editors, and the Con-struction Institute thank the following in-dividuals for reviewing papers and techni-cal notes submitted to the Journal of …",
         "pub_year": "2007",
-        "citation": "JOURNAL OF CONSTRUCTION ENGINEERING AND MANAGEMENT 1003, 2007"
+        "citation": "JOURNAL OF CONSTRUCTION ENGINEERING AND MANAGEMENT 1003, 2007",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:L1USKYWJimsC"
     },
     {
         "title": "The editor, associate editors, and the Construction Institute thank the following individuals for reviewing papers and tech-nical notes submitted to the Journal of Construction …",
         "pub_year": "2008",
-        "citation": "JOURNAL OF CONSTRUCTION ENGINEERING AND MANAGEMENT 1017, 2008"
+        "citation": "JOURNAL OF CONSTRUCTION ENGINEERING AND MANAGEMENT 1017, 2008",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:CB2v5VPnA5kC"
     },
     {
         "title": "The need for prompt schedule update by utilizing reality capture technologies: A case study",
         "pub_year": "2005",
-        "citation": "Construction Research Congress 2005: Broadening Perspectives, 1-10, 2005"
+        "citation": "Construction Research Congress 2005: Broadening Perspectives, 1-10, 2005",
+        "num_citations": 36,
+        "author_pub_id": "5VQf2cgAAAAJ:qxL8FJ1GzNcC"
     },
     {
         "title": "The need for prompt schedule update by utilizing reality capture technologies: A case study",
         "pub_year": "2005",
-        "citation": "Construction Research Congress 2005: Broadening Perspectives-Proceedings of …, 2005"
+        "citation": "Construction Research Congress 2005: Broadening Perspectives-Proceedings of …, 2005",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:owLR8QvbtFgC"
     },
     {
         "title": "Time-Space conflict analysis based on 4-D production models",
         "pub_year": "1998",
-        "citation": "Computing in Civil Engineering, 342-353, 1998"
+        "citation": "Computing in Civil Engineering, 342-353, 1998",
+        "num_citations": 43,
+        "author_pub_id": "5VQf2cgAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Toward automated modeling of floor plans",
         "pub_year": "2010",
-        "citation": "Proceedings of the symposium on 3D data processing, visualization and …, 2010"
+        "citation": "Proceedings of the symposium on 3D data processing, visualization and …, 2010",
+        "num_citations": 180,
+        "author_pub_id": "5VQf2cgAAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "Towards A Formal Approach for Updating Building Information Models",
         "pub_year": "2008",
-        "citation": "null, 2008"
+        "citation": "null, 2008",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:5icHVeHT4IsC"
     },
     {
         "title": "Towards a formal approach for updating building information models",
         "pub_year": "2008",
-        "citation": "5th International Conference on Innovation in Architecture, Engineering and …, 2008"
+        "citation": "5th International Conference on Innovation in Architecture, Engineering and …, 2008",
+        "num_citations": 11,
+        "author_pub_id": "5VQf2cgAAAAJ:4OULZ7Gr8RgC"
     },
     {
         "title": "Towards automated HVAC controls commissioning: Mechanisms to identify temperature and flow related functions of AHU components",
         "pub_year": "2019",
-        "citation": "ISARC. Proceedings of the International Symposium on Automation and Robotics …, 2019"
+        "citation": "ISARC. Proceedings of the International Symposium on Automation and Robotics …, 2019",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:sNmaIFBj_lkC"
     },
     {
         "title": "Towards automated defect detection: Object-oriented modeling of construction specifications",
         "pub_year": "2004",
-        "citation": ""
+        "citation": "",
+        "num_citations": 20,
+        "author_pub_id": "5VQf2cgAAAAJ:blknAaTinKkC"
     },
     {
-        "title": "Towards dam information modeling: Best practices learned from the AEC/FM domain",
-        "pub_year": "2013",
-        "citation": "Proceedings of International Commission on Large Dams (ICOLD), August 12-16 …, 2013"
+        "title": "Towards dam information modeling: best practices learned from the AEC/FM domain",
+        "pub_year": "2016",
+        "citation": "Dam & Safety, 65, 2016",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:D_sINldO8mEC"
     },
     {
         "title": "Towards domain oriented semi automated model matching for supporting data exchange",
         "pub_year": "2004",
-        "citation": "null, 2004"
+        "citation": "null, 2004",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:Aul-kAQHnToC"
     },
     {
         "title": "Towards domain-oriented semi-automated model matching for supporting data exchange",
         "pub_year": "2004",
-        "citation": ""
-    },
-    {
-        "title": "Towards domain-oriented semi-automated model matching for supporting data exchange",
-        "pub_year": "2004",
-        "citation": ""
+        "citation": "",
+        "num_citations": 16,
+        "author_pub_id": "5VQf2cgAAAAJ:J_g5lzvAfSwC"
     },
     {
         "title": "Towards the integration of inspection data with bridge information models to support visual condition assessment",
         "pub_year": "2015",
-        "citation": "Computing in Civil Engineering 2015, 644-651, 2015"
+        "citation": "Computing in Civil Engineering 2015, 644-651, 2015",
+        "num_citations": 13,
+        "author_pub_id": "5VQf2cgAAAAJ:_Re3VWB3Y0AC"
     },
     {
         "title": "Tracking and locating components in a precast storage yard utilizing radio frequency identification technology and GPS",
         "pub_year": "2007",
-        "citation": "Automation in construction 16 (3), 354-367, 2007"
+        "citation": "Automation in construction 16 (3), 354-367, 2007",
+        "num_citations": 348,
+        "author_pub_id": "5VQf2cgAAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "Tracking components and maintenance history within a facility utilizing radio frequency identification technology",
         "pub_year": "2007",
-        "citation": "Journal of Computing in Civil Engineering 21 (1), 11-20, 2007"
+        "citation": "Journal of Computing in Civil Engineering 21 (1), 11-20, 2007",
+        "num_citations": 197,
+        "author_pub_id": "5VQf2cgAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Transformation of a 4D product and process model to generate motion of mobile cranes",
         "pub_year": "2009",
-        "citation": "Automation in Construction 18 (4), 458-468, 2009"
+        "citation": "Automation in Construction 18 (4), 458-468, 2009",
+        "num_citations": 40,
+        "author_pub_id": "5VQf2cgAAAAJ:4JMBOYKVnBMC"
     },
     {
         "title": "Transforming IFC-based building layout information into a geometric topology network for indoor navigation assistance",
         "pub_year": "2011",
-        "citation": "Computing in Civil Engineering (2011), 315-322, 2011"
+        "citation": "Computing in Civil Engineering (2011), 315-322, 2011",
+        "num_citations": 38,
+        "author_pub_id": "5VQf2cgAAAAJ:MLfJN-KU85MC"
     },
     {
         "title": "Understanding differences in information needs of expert and novice estimators from construction project histories",
         "pub_year": "2007",
-        "citation": "Proceedings of ASCE Construction Research Congress 2007, May 6-8, 2007 …, 2007"
+        "citation": "Proceedings of ASCE Construction Research Congress 2007, May 6-8, 2007 …, 2007",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:L7CI7m0gUJcC"
     },
     {
         "title": "Unique Dashboard Needs of Construction Project Team Members",
         "pub_year": "2009",
-        "citation": "Fifth International Conference on Construction in the 21st Century (CITC-V …, 2009"
+        "citation": "Fifth International Conference on Construction in the 21st Century (CITC-V …, 2009",
+        "num_citations": 1,
+        "author_pub_id": "5VQf2cgAAAAJ:4fKUyHm3Qg0C"
     },
     {
         "title": "Updating subsystem-level fault-symptom relationships for Temperature and Humidity Control Systems with redundant functions",
         "pub_year": "2024",
-        "citation": "Journal of Space Safety Engineering 11 (1), 2-12, 2024"
+        "citation": "Journal of Space Safety Engineering 11 (1), 2-12, 2024",
+        "num_citations": 3,
+        "author_pub_id": "5VQf2cgAAAAJ:WC23djZS0W4C"
     },
     {
         "title": "Use Cases for Owners and Maintainers",
         "pub_year": "2020",
-        "citation": "Infrastructure Computer Vision, 169-201, 2020"
+        "citation": "Infrastructure Computer Vision, 169-201, 2020",
+        "num_citations": 1,
+        "author_pub_id": "5VQf2cgAAAAJ:IUKN3-7HHlwC"
     },
     {
         "title": "Using customized navigational models to deliver more efficient interaction with mobile computing devices on construction sites",
         "pub_year": "2003",
-        "citation": "NIST SPECIAL PUBLICATION SP, 323-330, 2003"
+        "citation": "NIST SPECIAL PUBLICATION SP, 323-330, 2003",
+        "num_citations": 9,
+        "author_pub_id": "5VQf2cgAAAAJ:O3NaXMp0MMsC"
     },
     {
         "title": "Using laser scanners for modeling and analysis in architecture, engineering, and construction",
         "pub_year": "2010",
-        "citation": "2010 44th Annual Conference on Information Sciences and Systems (CISS), 1-6, 2010"
+        "citation": "2010 44th Annual Conference on Information Sciences and Systems (CISS), 1-6, 2010",
+        "num_citations": 92,
+        "author_pub_id": "5VQf2cgAAAAJ:7PzlFSSx8tAC"
     },
     {
         "title": "Using sensor systems and standard project models to capture and model project history for building commissioning and facility management",
         "pub_year": "2004",
-        "citation": "Proceeding of the Facility Area Network Workshop, 26-27, 2004"
+        "citation": "Proceeding of the Facility Area Network Workshop, 26-27, 2004",
+        "num_citations": 9,
+        "author_pub_id": "5VQf2cgAAAAJ:isC4tDSrTZIC"
     },
     {
         "title": "Utilizing radio frequency identification on precast concrete components- supplier's perspective.",
         "pub_year": "2002",
-        "citation": "ISARC 2002: 19 th International Symposium on Automation and Robotics in …, 2002"
+        "citation": "ISARC 2002: 19 th International Symposium on Automation and Robotics in …, 2002",
+        "num_citations": 99,
+        "author_pub_id": "5VQf2cgAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Visualization requirements of engineers for risk assessment of embankment dams",
         "pub_year": "2015",
-        "citation": "Visualization in Engineering 3, 1-12, 2015"
+        "citation": "Visualization in Engineering 3, 1-12, 2015",
+        "num_citations": 10,
+        "author_pub_id": "5VQf2cgAAAAJ:ZfRJV9d4-WMC"
     },
     {
         "title": "Visualizing laser scanner data for bridge inspection",
         "pub_year": "2010",
-        "citation": "27th International Symposium on Automation and Robotics in Construction …, 2010"
+        "citation": "27th International Symposium on Automation and Robotics in Construction …, 2010",
+        "num_citations": 8,
+        "author_pub_id": "5VQf2cgAAAAJ:OTTXONDVkokC"
     },
     {
         "title": "Visualizing laser scanner data for bridge inspection",
         "pub_year": "2010",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:6yz0xqPARnAC"
     },
     {
         "title": "Workflow-based construction research data management and dissemination",
         "pub_year": "2014",
-        "citation": "Journal of Computing in Civil Engineering 28 (2), 244-252, 2014"
+        "citation": "Journal of Computing in Civil Engineering 28 (2), 244-252, 2014",
+        "num_citations": 7,
+        "author_pub_id": "5VQf2cgAAAAJ:vRqMK49ujn8C"
     },
     {
         "title": "Workshop 3 3D Computer Vision in the Built Environment",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:VLnqNzywnoUC"
     },
     {
         "title": "Yapı Değişikliklerinin Yönetimi ve Yapı Bilgi Modellerinin Bir Parçası Olarak Kayda Geçirilmesi",
         "pub_year": "2012",
-        "citation": "null, 2012"
+        "citation": "null, 2012",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:5MTHONV0fEkC"
     },
     {
         "title": "unique dashboard needs of construction project team members",
         "pub_year": "2009",
-        "citation": "null, 2009"
+        "citation": "null, 2009",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:2tRrZ1ZAMYUC"
     },
     {
         "title": "面向大坝信息建模: 建筑, 工程, 施工及设施管理领域的最佳实践",
         "pub_year": "2016",
-        "citation": "大坝与安全, 65, 2016"
+        "citation": "大坝与安全, 65-70, 2016",
+        "num_citations": 0,
+        "author_pub_id": "5VQf2cgAAAAJ:b1wdh0AR-JQC"
     }
 ]
