@@ -2,7 +2,7 @@
     {
         "title": "A fairness-based approach to network restoration",
         "pub_year": "2023",
-        "citation": "IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2023",
+        "citation": "IEEE Transactions on Systems, Man, and Cybernetics: Systems 53 (6), 3890-3894, 2023",
         "num_citations": 1,
         "author_pub_id": "PSZN_hMAAAAJ:-f6ydRqryjwC"
     },
@@ -10,14 +10,14 @@
         "title": "A path toward systemic equity in life cycle assessment and decision-making: Standardizing sociodemographic data practices",
         "pub_year": "2022",
         "citation": "Environmental Engineering Science 39 (9), 759-769, 2022",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "PSZN_hMAAAAJ:4DMP91E08xMC"
     },
     {
         "title": "Africa needs context-relevant evidence to shape its clean energy future",
         "pub_year": "2022",
         "citation": "Nature Energy 7 (11), 1015-1022, 2022",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "PSZN_hMAAAAJ:IWHjjKOFINEC"
     },
     {
@@ -31,7 +31,7 @@
         "title": "Air pollution disparities and equality assessments of US national decarbonization strategies",
         "pub_year": "2022",
         "citation": "Nature Communications 13 (1), 7488, 2022",
-        "num_citations": 32,
+        "num_citations": 38,
         "author_pub_id": "PSZN_hMAAAAJ:qUcmZB5y_30C"
     },
     {
@@ -40,13 +40,6 @@
         "citation": "Nature Energy, 1-1, 2024",
         "num_citations": 0,
         "author_pub_id": "PSZN_hMAAAAJ:lSLTfruPkqcC"
-    },
-    {
-        "title": "COVID-19 Public Transit Precautions: Trade-offs between Risk Reduction and Costs (preprint)",
-        "pub_year": "2021",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "PSZN_hMAAAAJ:_kc_bZDykSQC"
     },
     {
         "title": "COVID-19 public transit precautions: Trade-offs between risk reduction and costs",
@@ -59,21 +52,21 @@
         "title": "Changes in hourly electricity consumption under COVID mandates: A glance to future hourly residential power consumption pattern with remote work in Arizona",
         "pub_year": "2022",
         "citation": "Applied Energy 310, 118539, 2022",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "PSZN_hMAAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "Changing the policy paradigm: A benefit maximization approach to electricity planning in developing countries",
         "pub_year": "2020",
         "citation": "Applied Energy 264, 114583, 2020",
-        "num_citations": 89,
+        "num_citations": 93,
         "author_pub_id": "PSZN_hMAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "Climate change impacts on future residential electricity consumption and energy burden: A case study in Phoenix, Arizona",
         "pub_year": "2023",
         "citation": "Energy Policy 183, 113811, 2023",
-        "num_citations": 9,
+        "num_citations": 11,
         "author_pub_id": "PSZN_hMAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -82,6 +75,13 @@
         "citation": "Joule 5 (5), 1031-1033, 2021",
         "num_citations": 4,
         "author_pub_id": "PSZN_hMAAAAJ:hqOjcs7Dif8C"
+    },
+    {
+        "title": "Cluster Analysis of Cell Health and Characterization of Lithium and Active Material Loss in a Large Format LiFePO4 Hybrid Vehicle Battery Pack",
+        "pub_year": "2024",
+        "citation": "PRiME 2024 (October 6-11, 2024), 2024",
+        "num_citations": 0,
+        "author_pub_id": "PSZN_hMAAAAJ:2P1L_qKh6hAC"
     },
     {
         "title": "Comfort or cash? Lessons from the COVID-19 pandemic's impact on energy insecurity and energy limiting behavior in households",
@@ -94,14 +94,14 @@
         "title": "Comparison of temporal resolution selection approaches in energy systems models",
         "pub_year": "2022",
         "citation": "Energy 251, 123969, 2022",
-        "num_citations": 18,
+        "num_citations": 21,
         "author_pub_id": "PSZN_hMAAAAJ:Wp0gIr-vW9MC"
     },
     {
         "title": "Congestion and Emission Impacts of Switching from In-person to Online Grocery Delivery: A Seattle Case Study",
         "pub_year": "2022",
         "citation": "Mobility21, Carnegie Mellon University, 2022",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "PSZN_hMAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -142,7 +142,7 @@
         "title": "Enabling an equitable energy transition through inclusive research",
         "pub_year": "2023",
         "citation": "Nature Energy 8 (1), 1-4, 2023",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "PSZN_hMAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -162,15 +162,22 @@
         "title": "Equity Effects of Rare Events on Transportation Network Company and Transit Riders",
         "pub_year": "2023",
         "citation": "Mobility21, Carnegie Mellon University, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "PSZN_hMAAAAJ:j3f4tGmQtD8C"
     },
     {
         "title": "Equity and modeling in sustainability science: Examples and opportunities throughout the process",
         "pub_year": "2024",
         "citation": "Proceedings of the National Academy of Sciences 121 (13), e2215688121, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "PSZN_hMAAAAJ:ns9cj8rnVeAC"
+    },
+    {
+        "title": "Estimating the income-related inequality aversion to energy limiting behavior in the United States",
+        "pub_year": "2024",
+        "citation": "Energy Economics, 107716, 2024",
+        "num_citations": 0,
+        "author_pub_id": "PSZN_hMAAAAJ:70eg2SAEIzsC"
     },
     {
         "title": "Exploring equality and sustainability trade-offs of energy transition outcomes in the United States in 2050",
@@ -183,7 +190,7 @@
         "title": "Forgone summertime comfort as a function of avoided electricity use",
         "pub_year": "2023",
         "citation": "Energy Policy 183, 113813, 2023",
-        "num_citations": 9,
+        "num_citations": 11,
         "author_pub_id": "PSZN_hMAAAAJ:bEWYMUwI8FkC"
     },
     {
@@ -211,7 +218,7 @@
         "title": "Holistic multi-criteria decision analysis evaluation of sustainable electric generation portfolios: New England case study",
         "pub_year": "2019",
         "citation": "Applied Energy 242, 655-673, 2019",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "PSZN_hMAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -253,7 +260,7 @@
         "title": "Inequalities across cooling and heating in households: Energy equity gaps",
         "pub_year": "2023",
         "citation": "Energy Policy 182, 113748, 2023",
-        "num_citations": 9,
+        "num_citations": 11,
         "author_pub_id": "PSZN_hMAAAAJ:4JMBOYKVnBMC"
     },
     {
@@ -295,7 +302,7 @@
         "title": "Leveraging open-source tools for collaborative macro-energy system modeling efforts",
         "pub_year": "2020",
         "citation": "Joule 4 (12), 2523-2526, 2020",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "PSZN_hMAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -306,17 +313,24 @@
         "author_pub_id": "PSZN_hMAAAAJ:roLk4NBRz8UC"
     },
     {
-        "title": "Metrics for Decision-Making in Energy Justice",
+        "title": "Metrics for decision-making in energy justice",
         "pub_year": "2023",
-        "citation": "Annual Review of Environment and Resources 48, 737-760, 2023",
-        "num_citations": 10,
+        "citation": "Annual Review of Environment and Resources 48 (1), 737-760, 2023",
+        "num_citations": 12,
         "author_pub_id": "PSZN_hMAAAAJ:maZDTaKrznsC"
+    },
+    {
+        "title": "Modeling Dynamic Systems for Sustainable Development: Equity and modeling in sustainability science: Examples and opportunities throughout the process",
+        "pub_year": "2024",
+        "citation": "Proceedings of the National Academy of Sciences of the United States of …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "PSZN_hMAAAAJ:35N4QoGY0k4C"
     },
     {
         "title": "Online grocery delivery: Sustainable practice, or congestion generator and environmental burden?",
         "pub_year": "2023",
         "citation": "Transportation Research Part D: Transport and Environment 119, 103722, 2023",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "PSZN_hMAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -344,7 +358,7 @@
         "title": "Rural electrification: An overview of optimization methods",
         "pub_year": "2022",
         "citation": "Renewable and Sustainable Energy Reviews 156, 111935, 2022",
-        "num_citations": 54,
+        "num_citations": 59,
         "author_pub_id": "PSZN_hMAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -386,13 +400,13 @@
         "title": "Three research priorities for just and sustainable urban systems: Now is the time to refocus",
         "pub_year": "2023",
         "citation": "Journal of Industrial Ecology 27 (2), 382-394, 2023",
-        "num_citations": 7,
+        "num_citations": 9,
         "author_pub_id": "PSZN_hMAAAAJ:hFOr9nPyWt4C"
     },
     {
         "title": "To PhD or Not to PhD?",
         "pub_year": "2020",
-        "citation": "Journal of the American Water Works Association 112 (10), 69-71, 2020",
+        "citation": "Journal‐American Water Works Association 112 (10), 69-71, 2020",
         "num_citations": 0,
         "author_pub_id": "PSZN_hMAAAAJ:eQOLeE2rZwMC"
     },
@@ -420,14 +434,14 @@
         "title": "Unveiling hidden energy poverty using the energy equity gap",
         "pub_year": "2022",
         "citation": "Nature communications 13 (1), 2456, 2022",
-        "num_citations": 146,
+        "num_citations": 154,
         "author_pub_id": "PSZN_hMAAAAJ:mVmsd5A6BfQC"
     },
     {
         "title": "Unveiling hidden energy poverty using the energy equity gap. Nat. Commun. 13, 2456",
         "pub_year": "2022",
         "citation": "",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "PSZN_hMAAAAJ:GnPB-g6toBAC"
     },
     {
@@ -441,14 +455,14 @@
         "title": "White paper: Research Challenges at the Intersection of Energy and Equity in the Energy Transition",
         "pub_year": "2023",
         "citation": "",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "PSZN_hMAAAAJ:RHpTSmoSYBkC"
     },
     {
         "title": "Who is marginalized in energy justice? Amplifying community leader perspectives of energy transitions in Ghana",
         "pub_year": "2021",
         "citation": "Energy Research & Social Science 73, 101933, 2021",
-        "num_citations": 41,
+        "num_citations": 43,
         "author_pub_id": "PSZN_hMAAAAJ:_FxGoFyzp5QC"
     },
     {

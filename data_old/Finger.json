@@ -1,737 +1,1039 @@
 [
     {
         "title": "2011 1Sth International Conference on Computer Supported Cooperative Work in Design (CSCWD)",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:D_sINldO8mEC"
     },
     {
         "title": "A Design Collaboratory for Engineering Students",
         "pub_year": "2005",
-        "citation": "DS 35: Proceedings ICED 05, the 15th International Conference on Engineering …, 2005"
+        "citation": "DS 35: Proceedings ICED 05, the 15th International Conference on Engineering …, 2005",
+        "num_citations": 1,
+        "author_pub_id": "C-rJaTIAAAAJ:O3NaXMp0MMsC"
     },
     {
         "title": "A Design Interface for 3D Manufacturing",
         "pub_year": "1996",
-        "citation": "proposal to National Science Foundation and the US Defense Advanced Research …, 1996"
+        "citation": "proposal to National Science Foundation and the US Defense Advanced Research …, 1996",
+        "num_citations": 1,
+        "author_pub_id": "C-rJaTIAAAAJ:P5F9QuxV20EC"
     },
     {
         "title": "A Framework for Computational Design Synthesis: Model and Applications",
         "pub_year": "2005",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:35N4QoGY0k4C"
     },
     {
         "title": "A Framework~ tor Computational'",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:XiSMed-E-HIC"
     },
     {
         "title": "A METRIC SPACE FOR INTELLIGENT CAD-DISCUSSION",
         "pub_year": "1992",
-        "citation": "IFIP TRANSACTIONS B-APPLICATIONS IN TECHNOLOGY 4, 159-161, 1992"
+        "citation": "IFIP TRANSACTIONS B-APPLICATIONS IN TECHNOLOGY 4, 159-161, 1992",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:2P1L_qKh6hAC"
     },
     {
         "title": "A Manufacturing Interface for 3D Design",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:5ugPr518TE4C"
     },
     {
         "title": "A Review of Research in Mechanical Engineering Design. Part I: Descriptive, Prescriptive, and Computer-Based Models",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:vRqMK49ujn8C"
     },
     {
         "title": "A feature-based approach to structural design",
         "pub_year": "1991",
-        "citation": "Engineering with computers 7, 1-9, 1991"
+        "citation": "Engineering with computers 7, 1-9, 1991",
+        "num_citations": 39,
+        "author_pub_id": "C-rJaTIAAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "A framework for assessment of student project groups on-line and off-line",
         "pub_year": "2011",
-        "citation": "Analyzing interactions in CSCL: Methods, approaches and issues, 293-317, 2011"
+        "citation": "Analyzing interactions in CSCL: Methods, approaches and issues, 293-317, 2011",
+        "num_citations": 41,
+        "author_pub_id": "C-rJaTIAAAAJ:QIV2ME_5wuYC"
     },
     {
         "title": "A framework for computational design synthesis: model and applications",
         "pub_year": "2005",
-        "citation": ""
+        "citation": "",
+        "num_citations": 203,
+        "author_pub_id": "C-rJaTIAAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "A framework for representing design intent",
         "pub_year": "1994",
-        "citation": "Design Studies 15 (1), 59-84, 1994"
+        "citation": "Design Studies 15 (1), 59-84, 1994",
+        "num_citations": 79,
+        "author_pub_id": "C-rJaTIAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "A methodology to assess the strategic benefits of new production technologies",
         "pub_year": "1990",
-        "citation": "Carnegie Mellon University, the Robotics Institute, 1990"
+        "citation": "Carnegie Mellon University, the Robotics Institute, 1990",
+        "num_citations": 2,
+        "author_pub_id": "C-rJaTIAAAAJ:ns9cj8rnVeAC"
     },
     {
         "title": "A mini-workshop on how people learn",
         "pub_year": "2011",
-        "citation": "2011 Frontiers in Education Conference (FIE), T1A-1, 2011"
+        "citation": "2011 Frontiers in Education Conference (FIE), T1A-1, 2011",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:Y5dfb0dijaUC"
     },
     {
         "title": "A report on the NSF-EDRC study of product design processes in selected Japanese companies",
         "pub_year": "1993",
-        "citation": "Carnegie Mellon University, 1993"
+        "citation": "Carnegie Mellon University, 1993",
+        "num_citations": 4,
+        "author_pub_id": "C-rJaTIAAAAJ:HDshCWvjkbEC"
     },
     {
         "title": "A review of research in mechanical engineering design",
         "pub_year": "1989",
-        "citation": "Part I: Descriptive, prescriptive, and computer-based models of design …, 1989"
+        "citation": "Part I: Descriptive, prescriptive, and computer-based models of design …, 1989",
+        "num_citations": 7,
+        "author_pub_id": "C-rJaTIAAAAJ:olpn-zPbct0C"
     },
     {
         "title": "A review of research in mechanical engineering design. Part I: Descriptive, prescriptive, and",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:EkHepimYqZsC"
     },
     {
         "title": "A review of research in mechanical engineering design. Part I: Descriptive, prescriptive, and computer-based models of design processes",
         "pub_year": "1989",
-        "citation": "Research in engineering design 1 (1), 51-67, 1989"
+        "citation": "Research in engineering design 1 (1), 51-67, 1989",
+        "num_citations": 780,
+        "author_pub_id": "C-rJaTIAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "A review of research in mechanical engineering design. Part II: Representations, analysis, and design for the life cycle",
         "pub_year": "1989",
-        "citation": "Research in engineering design 1 (2), 121-137, 1989"
+        "citation": "Research in engineering design 1 (2), 121-137, 1989",
+        "num_citations": 413,
+        "author_pub_id": "C-rJaTIAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "A study of covariance functions for multi-response metamodeling for simulation-based design and optimization",
         "pub_year": "2008",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2008"
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2008",
+        "num_citations": 2,
+        "author_pub_id": "C-rJaTIAAAAJ:maZDTaKrznsC"
     },
     {
         "title": "A transformational approach to mechanical design synthesis",
         "pub_year": "1990",
-        "citation": "Carnegie Mellon University, 1990"
+        "citation": "Carnegie Mellon University, 1990",
+        "num_citations": 11,
+        "author_pub_id": "C-rJaTIAAAAJ:mVmsd5A6BfQC"
     },
     {
         "title": "A transformational approach to mechanical design using a bond graph grammar",
         "pub_year": "1989",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 1989"
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 1989",
+        "num_citations": 146,
+        "author_pub_id": "C-rJaTIAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "A transformational approach to mechanical design using a bond graph grammar",
         "pub_year": "1990",
-        "citation": "[Carnegie Mellon University], Engineering Design Research Center, 1990"
+        "citation": "[Carnegie Mellon University], Engineering Design Research Center, 1990",
+        "num_citations": 9,
+        "author_pub_id": "C-rJaTIAAAAJ:MLfJN-KU85MC"
     },
     {
         "title": "Acquiring manufacturing processes knowledge for design",
         "pub_year": "1995",
-        "citation": "Journal of Engeering Design 6 (4), 343-353, 1995"
+        "citation": "Journal of Engeering Design 6 (4), 343-353, 1995",
+        "num_citations": 2,
+        "author_pub_id": "C-rJaTIAAAAJ:J_g5lzvAfSwC"
     },
     {
         "title": "ArtifactWebs: Navigable product structures",
         "pub_year": "2008",
-        "citation": "2008 12th International Conference on Computer Supported Cooperative Work in …, 2008"
+        "citation": "2008 12th International Conference on Computer Supported Cooperative Work in …, 2008",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:pqnbT2bcN3wC"
     },
     {
         "title": "Assessing collaborative learning in engineering design",
         "pub_year": "2007",
-        "citation": "International Journal of Engineering Education 22 (3), 637, 2007"
+        "citation": "International Journal of Engineering Education 22 (3), 637, 2007",
+        "num_citations": 22,
+        "author_pub_id": "C-rJaTIAAAAJ:kNdYIx-mwKoC"
     },
     {
         "title": "Assessment of the economic benefits of new manufacturing technologies",
         "pub_year": "1990",
-        "citation": "IEEE International Conference on Engineering Management, Gaining the …, 1990"
+        "citation": "IEEE International Conference on Engineering Management, Gaining the …, 1990",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:YFjsv_pBGBYC"
     },
     {
         "title": "Automatic Extraction of Conceptual Maps From Design Team Documents",
         "pub_year": "2010",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2010"
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2010",
+        "num_citations": 1,
+        "author_pub_id": "C-rJaTIAAAAJ:f2IySw72cVMC"
     },
     {
         "title": "Bayesian computer-aided experimental design of heterogeneous scaffolds for tissue engineering",
         "pub_year": "2005",
-        "citation": "Computer-Aided Design 37 (11), 1127-1139, 2005"
+        "citation": "Computer-Aided Design 37 (11), 1127-1139, 2005",
+        "num_citations": 73,
+        "author_pub_id": "C-rJaTIAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Bayesian surrogates applied to conceptual stages of the engineering design process",
         "pub_year": "2003",
-        "citation": "J. Mech. Des. 125 (4), 664-672, 2003"
+        "citation": "J. Mech. Des. 125 (4), 664-672, 2003",
+        "num_citations": 84,
+        "author_pub_id": "C-rJaTIAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "Bringing virtual and physical prototyping into the classroom",
         "pub_year": "1997",
-        "citation": "Schriftenreihe WDK, 427-432, 1997"
+        "citation": "Schriftenreihe WDK, 427-432, 1997",
+        "num_citations": 4,
+        "author_pub_id": "C-rJaTIAAAAJ:e5wmG9Sq2KIC"
     },
     {
         "title": "Broadening Participation: A Report on a Series of Workshops Aimed at Building Community and Increasing the Number of Women and Minorities in Engineering Design",
         "pub_year": "2013",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:4MWp96NkSFoC"
     },
     {
         "title": "Broadening participation: A report on a series of workshops aimed at building community and increasing the number of women and minorities in engineering design",
         "pub_year": "2013",
-        "citation": "2013 ASEE Annual Conference & Exposition, 23.255. 1-23.255. 21, 2013"
+        "citation": "2013 ASEE Annual Conference & Exposition, 23.255. 1-23.255. 21, 2013",
+        "num_citations": 6,
+        "author_pub_id": "C-rJaTIAAAAJ:blknAaTinKkC"
     },
     {
         "title": "CONFERENCE THEMES AND PREDICTIONS-DISCUSSION",
         "pub_year": "1992",
-        "citation": "IFIP TRANSACTIONS B-APPLICATIONS IN TECHNOLOGY 4, 447-460, 1992"
+        "citation": "IFIP TRANSACTIONS B-APPLICATIONS IN TECHNOLOGY 4, 447-460, 1992",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:70eg2SAEIzsC"
     },
     {
         "title": "CTS 2016",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:mvPsJ3kp5DgC"
     },
     {
         "title": "Center for Integrated Manufacturing Decision Systems, Carnegie Mellon",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:LPZeul_q3PIC"
     },
     {
         "title": "Changes in soiling patterns over time on the Cathedral of Learning",
         "pub_year": "2003",
-        "citation": "The Effects of Air Pollution on the Built Environment, 335-349, 2003"
+        "citation": "The Effects of Air Pollution on the Built Environment, 335-349, 2003",
+        "num_citations": 2,
+        "author_pub_id": "C-rJaTIAAAAJ:LjlpjdlvIbIC"
     },
     {
         "title": "Computer Supported Cooperative Work in Design (CSCWD)",
-        "citation": "2010 14th International Conference (April 2010) 19, 172-177, 0"
+        "citation": "2010 14th International Conference (April 2010) 19, 172-177, 0",
+        "num_citations": 1,
+        "author_pub_id": "C-rJaTIAAAAJ:lmc2jWPfTJgC"
     },
     {
         "title": "Computer-Supported Collaborative Design: A Case Study of Distributed Engineering Design Teams",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:dfsIfKJdRG4C"
     },
     {
         "title": "Concurrent design",
         "pub_year": "1992",
-        "citation": "Applied Artificial Intelligence an International Journal 6 (3), 257-283, 1992"
+        "citation": "Applied Artificial Intelligence an International Journal 6 (3), 257-283, 1992",
+        "num_citations": 77,
+        "author_pub_id": "C-rJaTIAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Concurrent design happens at the interfaces",
         "pub_year": "1995",
-        "citation": "AI EDAM 9 (2), 89-99, 1995"
+        "citation": "AI EDAM 9 (2), 89-99, 1995",
+        "num_citations": 72,
+        "author_pub_id": "C-rJaTIAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Conversions of feature-based design representations using graph grammar parsing",
         "pub_year": "1994",
-        "citation": ""
+        "citation": "",
+        "num_citations": 26,
+        "author_pub_id": "C-rJaTIAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Conversions of feature-based representations via graph grammar parsing.",
         "pub_year": "1992",
-        "citation": "4 th International Conference on Design Theory and Methodology, 83-90, 1992"
+        "citation": "4 th International Conference on Design Theory and Methodology, 83-90, 1992",
+        "num_citations": 9,
+        "author_pub_id": "C-rJaTIAAAAJ:Wp0gIr-vW9MC"
     },
     {
         "title": "Creating an advanced collaborative open resource network",
         "pub_year": "1994",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 1994"
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 1994",
+        "num_citations": 14,
+        "author_pub_id": "C-rJaTIAAAAJ:4DMP91E08xMC"
     },
     {
         "title": "Creating virtual prototypes: Integrating design and simulation",
         "pub_year": "2001",
-        "citation": "WDK Publications, 485-492, 2001"
+        "citation": "WDK Publications, 485-492, 2001",
+        "num_citations": 4,
+        "author_pub_id": "C-rJaTIAAAAJ:TQgYirikUcIC"
     },
     {
         "title": "DETC2007-35832",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:bFI3QPDXJZMC"
     },
     {
         "title": "Deposition of atmospheric pollutants to a limestone building",
         "pub_year": "1995",
-        "citation": "American Society of Civil Engineers, New York, NY (United States), 1995"
+        "citation": "American Society of Civil Engineers, New York, NY (United States), 1995",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:WqliGbK-hY8C"
     },
     {
         "title": "Design Theory'88: Proceedings of the 1988 NSF Grantee Workshop on Design Theory and Methodology",
         "pub_year": "1989",
-        "citation": "Springer, 1989"
+        "citation": "Springer, 1989",
+        "num_citations": 3,
+        "author_pub_id": "C-rJaTIAAAAJ:k8Z6L05lTy4C"
     },
     {
         "title": "Design Theory'88: Proceedings, Troy, June 2-5, 1988",
         "pub_year": "1989",
-        "citation": "Springer, 1989"
+        "citation": "Springer, 1989",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:tKAzc9rXhukC"
     },
     {
         "title": "Design as building and reusing artifact theories: understanding and supporting growth of design knowledge",
         "pub_year": "1998",
-        "citation": "The Design Productivity Debate, 268-290, 1998"
+        "citation": "The Design Productivity Debate, 268-290, 1998",
+        "num_citations": 15,
+        "author_pub_id": "C-rJaTIAAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "Design collaboration in a distributed environment",
         "pub_year": "2006",
-        "citation": "Proceedings. Frontiers in Education. 36th Annual Conference, 13-18, 2006"
+        "citation": "Proceedings. Frontiers in Education. 36th Annual Conference, 13-18, 2006",
+        "num_citations": 6,
+        "author_pub_id": "C-rJaTIAAAAJ:R3hNpaxXUhUC"
     },
     {
         "title": "Design fusion: An architecture for concurrent design",
         "pub_year": "1992",
-        "citation": "Knowledge Aided Design, 157-195, 1992"
+        "citation": "Knowledge Aided Design, 157-195, 1992",
+        "num_citations": 18,
+        "author_pub_id": "C-rJaTIAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "Design fusion: a product life-cycle view for engineering designs",
         "pub_year": "1988",
-        "citation": "Carnegie Mellon University, 1988"
+        "citation": "Carnegie Mellon University, 1988",
+        "num_citations": 48,
+        "author_pub_id": "C-rJaTIAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "Design reuse and design research–Keynote paper",
         "pub_year": "1998",
-        "citation": "proceedings of the Engineering Design Conference, 3-10, 1998"
+        "citation": "proceedings of the Engineering Design Conference, 3-10, 1998",
+        "num_citations": 55,
+        "author_pub_id": "C-rJaTIAAAAJ:j8SEvjWlNXcC"
     },
     {
         "title": "Design support systems for concurrent engineering: A case study in large power transformer design",
         "pub_year": "1993",
-        "citation": "Proceedings of the International Conference on Engineering Design, 1433-1440, 1993"
+        "citation": "Proceedings of the International Conference on Engineering Design, 1433-1440, 1993",
+        "num_citations": 26,
+        "author_pub_id": "C-rJaTIAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Design theory’88: proceedings of the 1988 NSF Grantee Workshop on Design Theory and Methodology",
         "pub_year": "2013",
-        "citation": "Springer Science & Business Media, 2013"
+        "citation": "Springer Science & Business Media, 2013",
+        "num_citations": 42,
+        "author_pub_id": "C-rJaTIAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "DesignWebs: An Interactive Organizational Memory Assimilation and Navigation Tool",
         "pub_year": "2009",
-        "citation": "17th International Conference on Engineering Design, Stanford, CA, 2009"
+        "citation": "17th International Conference on Engineering Design, Stanford, CA, 2009",
+        "num_citations": 1,
+        "author_pub_id": "C-rJaTIAAAAJ:RGFaLdJalmkC"
     },
     {
         "title": "DesignWebs: Interactive Organizational Memory",
         "pub_year": "2009",
-        "citation": "DS 58-8: Proceedings of ICED 09, the 17th International Conference on …, 2009"
+        "citation": "DS 58-8: Proceedings of ICED 09, the 17th International Conference on …, 2009",
+        "num_citations": 1,
+        "author_pub_id": "C-rJaTIAAAAJ:GnPB-g6toBAC"
     },
     {
         "title": "DesignWebs: a tool for automatic construction of interactive conceptual maps from document collections",
         "pub_year": "2010",
-        "citation": "Intelligent Tutoring Systems: 10th International Conference, ITS 2010 …, 2010"
+        "citation": "Intelligent Tutoring Systems: 10th International Conference, ITS 2010 …, 2010",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:OU6Ihb5iCvQC"
     },
     {
         "title": "Designing and Prototyping Interactive Fluid Dynamics Exhibits",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:ML0RJ9NH7IQC"
     },
     {
         "title": "Designing and prototyping interactive fluid dynamics exhibits for the Carnegie Science Center: an undergraduate team project experience",
         "pub_year": "1997",
-        "citation": "Proceedings Frontiers in Education 1997 27th Annual Conference. Teaching and …, 1997"
+        "citation": "Proceedings Frontiers in Education 1997 27th Annual Conference. Teaching and …, 1997",
+        "num_citations": 5,
+        "author_pub_id": "C-rJaTIAAAAJ:4JMBOYKVnBMC"
     },
     {
         "title": "Designwebs: Toward the Creation of an Interactive Navigational Tool to Assist and Support Engineering Design Learning",
         "pub_year": "2009",
-        "citation": "2009 Annual Conference & Exposition, 14.433. 1-14.433. 14, 2009"
+        "citation": "2009 Annual Conference & Exposition, 14.433. 1-14.433. 14, 2009",
+        "num_citations": 3,
+        "author_pub_id": "C-rJaTIAAAAJ:_Qo2XoVZTnwC"
     },
     {
         "title": "Developing Bayesian surrogates for use in preliminary design",
         "pub_year": "2001",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2001"
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2001",
+        "num_citations": 22,
+        "author_pub_id": "C-rJaTIAAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "E-Learning in Engineering through Videoconferencing: The Case of the Addis Ababa Institute of Technology",
         "pub_year": "2013",
-        "citation": "International Association of Online Engineering 3 (2), 9-13, 2013"
+        "citation": "International Association of Online Engineering 3 (2), 9-13, 2013",
+        "num_citations": 3,
+        "author_pub_id": "C-rJaTIAAAAJ:K3LRdlH-MEoC"
     },
     {
         "title": "ED2030: strategic plan for engineering design",
         "pub_year": "2004",
-        "citation": "Design Automation Lab—Arizona State University, Gold Canyon, Ariz., Report …, 2004"
+        "citation": "Design Automation Lab—Arizona State University, Gold Canyon, Ariz., Report …, 2004",
+        "num_citations": 13,
+        "author_pub_id": "C-rJaTIAAAAJ:pyW8ca7W8N0C"
     },
     {
         "title": "EDD'96 Programme Committee",
         "pub_year": "2012",
-        "citation": "The Design Productivity Debate, 291, 2012"
+        "citation": "The Design Productivity Debate, 291, 2012",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:8AbLer7MMksC"
     },
     {
         "title": "ELECTRA: Time dependent power generation operation model user documentation",
         "pub_year": "1979",
-        "citation": "MIT Energy Laboratory, 1979"
+        "citation": "MIT Energy Laboratory, 1979",
+        "num_citations": 1,
+        "author_pub_id": "C-rJaTIAAAAJ:lSLTfruPkqcC"
     },
     {
         "title": "Electric power system production costing and reliability analysis including hydroelectric, storage, and time dependent power plants",
         "pub_year": "1979",
-        "citation": "MIT Energy Laboratory, 1979"
+        "citation": "MIT Energy Laboratory, 1979",
+        "num_citations": 52,
+        "author_pub_id": "C-rJaTIAAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "Environmental Exposure Effects on Historic Stone Building",
         "pub_year": "1999",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:eq2jaN3J8jMC"
     },
     {
         "title": "Eocnomic Operation of Distributed Power Systems Within an Electric Utility",
         "pub_year": "1981",
-        "citation": "IEEE Transactions on Power Apparatus and Systems, 4186-4195, 1981"
+        "citation": "IEEE Transactions on Power Apparatus and Systems, 4186-4195, 1981",
+        "num_citations": 12,
+        "author_pub_id": "C-rJaTIAAAAJ:IWHjjKOFINEC"
     },
     {
         "title": "Erosion of limestone building surfaces caused by wind-driven rain: 1. Field measurements",
         "pub_year": "2004",
-        "citation": "Atmospheric Environment 38 (33), 5589-5599, 2004"
+        "citation": "Atmospheric Environment 38 (33), 5589-5599, 2004",
+        "num_citations": 98,
+        "author_pub_id": "C-rJaTIAAAAJ:SdhP9T11ey4C"
     },
     {
         "title": "Extended economic models for information systems balance theory",
         "pub_year": "2014",
-        "citation": "Proceedings of the 2014 IEEE 18th International Conference on Computer …, 2014"
+        "citation": "Proceedings of the 2014 IEEE 18th International Conference on Computer …, 2014",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:dshw04ExmUIC"
     },
     {
         "title": "Flexible multistage Bayesian models for use in conceptual design",
         "pub_year": "2002",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2002"
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2002",
+        "num_citations": 8,
+        "author_pub_id": "C-rJaTIAAAAJ:dhFuZR0502QC"
     },
     {
         "title": "Form-Function Synthesis in Engineering Design",
         "pub_year": "1992",
-        "citation": "AAAI Fall Symposium Series, Design from Physical Principles, Cambridge, MA, 1992"
+        "citation": "AAAI Fall Symposium Series, Design from Physical Principles, Cambridge, MA, 1992",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:zA6iFVUQeVQC"
     },
     {
         "title": "GENERALIZED TWO-LAYER MODEL",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:WbkHhVStYXYC"
     },
     {
         "title": "Global Design Teams and Professional Development and Issues in Engineering Education",
         "pub_year": "2005",
-        "citation": "DS 35: Proceedings ICED 05, the 15th International Conference on Engineering …, 2005"
+        "citation": "DS 35: Proceedings ICED 05, the 15th International Conference on Engineering …, 2005",
+        "num_citations": 1,
+        "author_pub_id": "C-rJaTIAAAAJ:vV6vV6tmYwMC"
     },
     {
         "title": "Impingement of rain drops on a tall building",
         "pub_year": "2000",
-        "citation": "Atmospheric Environment 34 (15), 2399-2412, 2000"
+        "citation": "Atmospheric Environment 34 (15), 2399-2412, 2000",
+        "num_citations": 71,
+        "author_pub_id": "C-rJaTIAAAAJ:VL0QpB8kHFEC"
     },
     {
         "title": "Improving Engineering Design",
         "pub_year": "1991",
-        "citation": "Research in Engineering Design 2, 183-183, 1991"
+        "citation": "Research in Engineering Design 2, 183-183, 1991",
+        "num_citations": 1,
+        "author_pub_id": "C-rJaTIAAAAJ:b0M2c_1WBrUC"
     },
     {
         "title": "Improving Multi-Response Metamodels With Upper/Lower Bound Information Using Multi-Stage, Non-Stationary Covariance Functions",
         "pub_year": "2010",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2010"
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2010",
+        "num_citations": 3,
+        "author_pub_id": "C-rJaTIAAAAJ:hMod-77fHWUC"
     },
     {
         "title": "Incorporating information from replications into Bayesian surrogate models",
         "pub_year": "2003",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2003"
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2003",
+        "num_citations": 3,
+        "author_pub_id": "C-rJaTIAAAAJ:mB3voiENLucC"
     },
     {
         "title": "Integrating Design Education, Research and Practice at Carnegie Mellon: A Multi‐disciplinary Course in Wearable Computers",
         "pub_year": "1996",
-        "citation": "Journal of Engineering Education 85 (4), 279-285, 1996"
+        "citation": "Journal of Engineering Education 85 (4), 279-285, 1996",
+        "num_citations": 33,
+        "author_pub_id": "C-rJaTIAAAAJ:5nxA0vEk-isC"
     },
     {
         "title": "Integration of decentralized generators with the electric power grid",
         "pub_year": "1981",
-        "citation": "[Cambridge, Mass.]: Massachusetts Institute of Technology, Energy Laboratory …, 1981"
+        "citation": "[Cambridge, Mass.]: Massachusetts Institute of Technology, Energy Laboratory …, 1981",
+        "num_citations": 3,
+        "author_pub_id": "C-rJaTIAAAAJ:r0BpntZqJG4C"
     },
     {
         "title": "Integration of design education, research and practice at Carnegie Mellon University: A multi-disciplinary course in wearable computer design",
         "pub_year": "1995",
-        "citation": "Proceedings Frontiers in Education 1995 25th Annual Conference. Engineering …, 1995"
+        "citation": "Proceedings Frontiers in Education 1995 25th Annual Conference. Engineering …, 1995",
+        "num_citations": 18,
+        "author_pub_id": "C-rJaTIAAAAJ:Zph67rFs4hoC"
     },
     {
         "title": "Integration of economic information with design and manufacturing systems",
         "pub_year": "1991",
-        "citation": "Carnegie Mellon University, The Robotics Institute, 1991"
+        "citation": "Carnegie Mellon University, The Robotics Institute, 1991",
+        "num_citations": 2,
+        "author_pub_id": "C-rJaTIAAAAJ:iH-uZ7U-co4C"
     },
     {
         "title": "Interactive Design Navigational Tools",
         "pub_year": "2009",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2009"
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2009",
+        "num_citations": 1,
+        "author_pub_id": "C-rJaTIAAAAJ:JV2RwH3_ST0C"
     },
     {
         "title": "International Steering Committee",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:PELIpwtuRlgC"
     },
     {
         "title": "Introduction to mechanisms",
         "pub_year": "2003",
-        "citation": "Carnegie Mellon University, 2003"
+        "citation": "Carnegie Mellon University, 2003",
+        "num_citations": 40,
+        "author_pub_id": "C-rJaTIAAAAJ:M3ejUd6NZC8C"
     },
     {
         "title": "Investigation of transport phenomena in microcasting shape deposition manufacturing via optimal sampling experiments",
         "pub_year": "1997",
-        "citation": "ASME-PUBLICATIONS-HTD 347, 241-250, 1997"
+        "citation": "ASME-PUBLICATIONS-HTD 347, 241-250, 1997",
+        "num_citations": 5,
+        "author_pub_id": "C-rJaTIAAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "JM Reddy B. Chan",
         "pub_year": "2016",
-        "citation": "Knowledge Intensive CAD: Volume 1, 265, 2016"
+        "citation": "Knowledge Intensive CAD: Volume 1, 265, 2016",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:VaXvl8Fpj5cC"
     },
     {
         "title": "Knowledge Intensive CAD [electronic resource]: Proceedings of the IFIP TC5 WG5. 2 International Conference on Knowledge Intensive CAD, 16–18 September 1996, Pittsburgh, PA, USA",
-        "citation": "Boston, MA: Springer US: Imprint: Springer,, 0"
+        "citation": "Boston, MA: Springer US: Imprint: Springer,, 0",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:gsN89kCJA0AC"
     },
     {
         "title": "Knowledge Intensive CAD [electronic resource]: Volume 1",
-        "citation": "Boston, MA: Springer US: Imprint: Springer,, 0"
+        "citation": "Boston, MA: Springer US: Imprint: Springer,, 0",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:kuK5TVdYjLIC"
     },
     {
         "title": "Knowledge Intensive CAD, Volume 2. Proceedings of the Second IFIP WG 5.2 Workshop on Knowledge-Intensive CAD, IFIP Proceedings",
         "pub_year": "1997",
-        "citation": "Chapman & Hall, 1997"
+        "citation": "Chapman & Hall, 1997",
+        "num_citations": 5,
+        "author_pub_id": "C-rJaTIAAAAJ:_B80troHkn4C"
     },
     {
         "title": "Knowledge Intensive CAD-2, Reprints of the Second IFIP WG 5.2 Workshop",
         "pub_year": "1996",
-        "citation": "Carnegie Mellon University, 1996"
+        "citation": "Carnegie Mellon University, 1996",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:epqYDVWIO7EC"
     },
     {
         "title": "Knowledge Intensive Computer Aided Design [electronic resource]: IFIP TC5 WG5. 2 Third Workshop on Knowledge Intensive CAD December 1–4, 1998, Tokyo, Japan",
-        "citation": "Boston, MA: Springer US: Imprint: Springer,, 0"
+        "citation": "Boston, MA: Springer US: Imprint: Springer,, 0",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:b1wdh0AR-JQC"
     },
     {
         "title": "Knowledge Intensive Computer Aided Design: IFIP TC5 WG5. 2 Third Workshop on Knowledge Intensive CAD December 1–4, 1998, Tokyo, Japan",
         "pub_year": "2013",
-        "citation": "Springer, 2013"
+        "citation": "Springer, 2013",
+        "num_citations": 9,
+        "author_pub_id": "C-rJaTIAAAAJ:L8Ckcad2t8MC"
     },
     {
         "title": "Knowledge intensive CAD",
         "pub_year": "1996",
-        "citation": "Springer Science & Business Media, 1996"
+        "citation": "Springer Science & Business Media, 1996",
+        "num_citations": 9,
+        "author_pub_id": "C-rJaTIAAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "Levels of social network analysis and small team problem-solving in the classroom",
         "pub_year": "2015",
-        "citation": "2015 ASEE Annual Conference & Exposition, 26.1090. 1-26.1090. 17, 2015"
+        "citation": "2015 ASEE Annual Conference & Exposition, 26.1090. 1-26.1090. 17, 2015",
+        "num_citations": 6,
+        "author_pub_id": "C-rJaTIAAAAJ:tOudhMTPpwUC"
     },
     {
         "title": "M. Murray and SC. Sharma (USA) 97 Calcitonin gene—related peptide (CGRP) in the regenerating rat sciatic nerve",
         "pub_year": "1992",
-        "citation": "Restorative Neurology and Neuroscience 4, 439-442, 1992"
+        "citation": "Restorative Neurology and Neuroscience 4, 439-442, 1992",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:08ZZubdj9fEC"
     },
     {
         "title": "Modeling conventional and pumped hydro-electric energy using Booth-Baleriaux probabilistic simulation",
         "pub_year": "1975",
-        "citation": "MIT Energy Lab, 1975"
+        "citation": "MIT Energy Lab, 1975",
+        "num_citations": 20,
+        "author_pub_id": "C-rJaTIAAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "Modeling novel manufacturing processes",
         "pub_year": "1994",
-        "citation": "ASME-PUBLICATIONS-PED 68, 535-535, 1994"
+        "citation": "ASME-PUBLICATIONS-PED 68, 535-535, 1994",
+        "num_citations": 9,
+        "author_pub_id": "C-rJaTIAAAAJ:9ZlFYXVOiuMC"
     },
     {
         "title": "Modeling time-dependent systems using multi-stage Bayesian surrogates",
         "pub_year": "2003",
-        "citation": "ASME International Mechanical Engineering Congress and Exposition 37114, 47-57, 2003"
+        "citation": "ASME International Mechanical Engineering Congress and Exposition 37114, 47-57, 2003",
+        "num_citations": 14,
+        "author_pub_id": "C-rJaTIAAAAJ:7PzlFSSx8tAC"
     },
     {
         "title": "Models and abstractions in design",
         "pub_year": "1991",
-        "citation": "Design Studies 12 (4), 237-245, 1991"
+        "citation": "Design Studies 12 (4), 237-245, 1991",
+        "num_citations": 86,
+        "author_pub_id": "C-rJaTIAAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "Multi-Stage Bayesian surrogates for the Design of Time-Dependent Systems",
         "pub_year": "2004",
-        "citation": "Proceedings of DETC/CIE 2004 ASME International Design Engineering Technical …, 2004"
+        "citation": "Proceedings of DETC/CIE 2004 ASME International Design Engineering Technical …, 2004",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:TIZ-Mc8IlK0C"
     },
     {
         "title": "Multi-stage Bayesian surrogates for the design of time-dependent systems",
         "pub_year": "2004",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2004"
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2004",
+        "num_citations": 25,
+        "author_pub_id": "C-rJaTIAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "Multiresponse Metamodeling in Simulation-Based Design Applications",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:yB1At4FlUx8C"
     },
     {
         "title": "Multiresponse metamodeling in simulation-based design applications",
         "pub_year": "2012",
-        "citation": ""
+        "citation": "",
+        "num_citations": 23,
+        "author_pub_id": "C-rJaTIAAAAJ:RHpTSmoSYBkC"
     },
     {
         "title": "New National Science Foundation opportunities for improving undergraduate engineering education",
         "pub_year": "2013",
-        "citation": "2013 IEEE Frontiers in Education Conference (FIE), 210-211, 2013"
+        "citation": "2013 IEEE Frontiers in Education Conference (FIE), 210-211, 2013",
+        "num_citations": 2,
+        "author_pub_id": "C-rJaTIAAAAJ:abG-DnoFyZgC"
     },
     {
         "title": "On adaptive sampling for single and multi-response bayesian surrogate models",
         "pub_year": "2006",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2006"
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2006",
+        "num_citations": 26,
+        "author_pub_id": "C-rJaTIAAAAJ:qxL8FJ1GzNcC"
     },
     {
         "title": "Online implementation of the Delta Design game for analyzing collaborative team practices",
         "pub_year": "2013",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2013"
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2013",
+        "num_citations": 7,
+        "author_pub_id": "C-rJaTIAAAAJ:RYcK_YlVTxYC"
     },
     {
         "title": "PADRÕES DE COMUNICAÇÃO NO PROJETO COLABORATIVO DE ENGENHARIA AUXILIADO PELO COMPUTADOR",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:u9iWguZQMMsC"
     },
     {
         "title": "Parsing features in solid geometric models",
         "pub_year": "1990",
-        "citation": "Proceedings of the 9th European Conference on Artificial Intelligence, 566-572, 1990"
+        "citation": "Proceedings of the 9th European Conference on Artificial Intelligence, 566-572, 1990",
+        "num_citations": 38,
+        "author_pub_id": "C-rJaTIAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Patterns in design discourse: a case study",
         "pub_year": "1996",
-        "citation": "Knowledge Intensive CAD: Volume 1 1, 265-283, 1996"
+        "citation": "Knowledge Intensive CAD: Volume 1 1, 265-283, 1996",
+        "num_citations": 12,
+        "author_pub_id": "C-rJaTIAAAAJ:_kc_bZDykSQC"
     },
     {
         "title": "Preprints of The Third IFIP WG 5.2 Workshop on Knowledge-Intensive CAD",
         "pub_year": "1998",
-        "citation": "University of Tokyo, 1998"
+        "citation": "University of Tokyo, 1998",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:zLWjf1WUPmwC"
     },
     {
         "title": "Proceedings of the First WG 5.2 Workshop on Knowledge-Intensive CAD",
         "pub_year": "1996",
-        "citation": "Chapman & Hall, 1996"
+        "citation": "Chapman & Hall, 1996",
+        "num_citations": 22,
+        "author_pub_id": "C-rJaTIAAAAJ:dTyEYWd-f8wC"
     },
     {
         "title": "Proceedings of the IFIP TC5 WG5. 2 Third Workshop on Knowledge Intensive CAD",
         "pub_year": "1998",
-        "citation": "Kluwer, BV, 1998"
+        "citation": "Kluwer, BV, 1998",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:LI9QrySNdTsC"
     },
     {
         "title": "RESEARCH TRENDS-DISCUSSION",
         "pub_year": "1992",
-        "citation": "IFIP TRANSACTIONS B-APPLICATIONS IN TECHNOLOGY 4, 227-236, 1992"
+        "citation": "IFIP TRANSACTIONS B-APPLICATIONS IN TECHNOLOGY 4, 227-236, 1992",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:1sJd4Hv_s6UC"
     },
     {
         "title": "Rapid Design Through Virtual and Physical Prototyping",
         "pub_year": "1995",
-        "citation": "Research Proposal, p. Al, 1995"
+        "citation": "Research Proposal, p. Al, 1995",
+        "num_citations": 2,
+        "author_pub_id": "C-rJaTIAAAAJ:BqipwSGYUEgC"
     },
     {
         "title": "Rapid design and manufacture of wearable computers",
         "pub_year": "1996",
-        "citation": "Communications of the ACM 39 (2), 63-70, 1996"
+        "citation": "Communications of the ACM 39 (2), 63-70, 1996",
+        "num_citations": 52,
+        "author_pub_id": "C-rJaTIAAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "Rapid design through virtual and physical prototyping",
         "pub_year": "2006",
-        "citation": "2006-03-01)[2006-06-05] http://www. cs. cmu. edu/People/raoidproto …, 2006"
+        "citation": "2006-03-01)[2006-06-05] http://www. cs. cmu. edu/People/raoidproto …, 2006",
+        "num_citations": 12,
+        "author_pub_id": "C-rJaTIAAAAJ:hFOr9nPyWt4C"
     },
     {
         "title": "Reflections on a concurrent design methodology: a case study in wearable computer design",
         "pub_year": "1996",
-        "citation": "Computer-Aided Design 28 (5), 393-404, 1996"
+        "citation": "Computer-Aided Design 28 (5), 393-404, 1996",
+        "num_citations": 20,
+        "author_pub_id": "C-rJaTIAAAAJ:KlAtU1dfN6UC"
     },
     {
         "title": "Representation of Mechanical Designs",
         "pub_year": "1990",
-        "citation": "[Carnegie Mellon University], Engineering Design Research Center, 1990"
+        "citation": "[Carnegie Mellon University], Engineering Design Research Center, 1990",
+        "num_citations": 5,
+        "author_pub_id": "C-rJaTIAAAAJ:JoZmwDi-zQgC"
     },
     {
         "title": "Representing and reasoning with design intent",
         "pub_year": "1991",
-        "citation": "Artificial Intelligence in Design'91, 737-755, 1991"
+        "citation": "Artificial Intelligence in Design'91, 737-755, 1991",
+        "num_citations": 40,
+        "author_pub_id": "C-rJaTIAAAAJ:ufrVoPGSRksC"
     },
     {
         "title": "Representing and recognizing features in mechanical designs",
         "pub_year": "1990",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 1990"
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 1990",
+        "num_citations": 71,
+        "author_pub_id": "C-rJaTIAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Representing and recording design intent: a progress report",
         "pub_year": "1992",
-        "citation": "Carnegie Mellon University, 1992"
+        "citation": "Carnegie Mellon University, 1992",
+        "num_citations": 3,
+        "author_pub_id": "C-rJaTIAAAAJ:TFP_iSt0sucC"
     },
     {
         "title": "Research in Engineering Design",
         "pub_year": "1992",
-        "citation": "Research in Engineering Design 3 (4), 193-193, 1992"
+        "citation": "Research in Engineering Design 3 (4), 193-193, 1992",
+        "num_citations": 1,
+        "author_pub_id": "C-rJaTIAAAAJ:p2g8aNsByqUC"
     },
     {
         "title": "STEM in a Shoebox",
         "pub_year": "2017",
-        "citation": "2017 ASEE Annual Conference & Exposition, 2017"
+        "citation": "2017 ASEE Annual Conference & Exposition, 2017",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:V3AGJWp-ZtQC"
     },
     {
         "title": "SYSGEN: production costing and reliability model user documentation",
         "pub_year": "1979",
-        "citation": "MIT Energy Laboratory, 1979"
+        "citation": "MIT Energy Laboratory, 1979",
+        "num_citations": 6,
+        "author_pub_id": "C-rJaTIAAAAJ:bEWYMUwI8FkC"
     },
     {
         "title": "Shape deposition manufacturing for embedding electronics and building injection molding tools. Department of Mechanical Engineering, ICES",
         "pub_year": "1998",
-        "citation": "Carnegie Mellon University, Pittsburgh, Pennsylvania, 1998"
+        "citation": "Carnegie Mellon University, Pittsburgh, Pennsylvania, 1998",
+        "num_citations": 4,
+        "author_pub_id": "C-rJaTIAAAAJ:k_IJM867U9cC"
     },
     {
         "title": "Shape deposition manufacturing with microcasting; Microcasting ni yoru shape deposition seizo SDM",
         "pub_year": "1997",
-        "citation": "Yosetsu Gakkai-Shi (Journal of the Japan Welding Society) 66, 1997"
+        "citation": "Yosetsu Gakkai-Shi (Journal of the Japan Welding Society) 66, 1997",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:N5tVd3kTz84C"
     },
     {
         "title": "Shape feature description using an augmented topology graph grammar",
         "pub_year": "1989",
-        "citation": "Proceedings NSF Engineering Design Research Conference, 285-300, 1989"
+        "citation": "Proceedings NSF Engineering Design Research Conference, 285-300, 1989",
+        "num_citations": 143,
+        "author_pub_id": "C-rJaTIAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Soiling patterns on a tall limestone building: changes over 60 years",
         "pub_year": "2000",
-        "citation": "Environmental science & technology 34 (4), 560-565, 2000"
+        "citation": "Environmental science & technology 34 (4), 560-565, 2000",
+        "num_citations": 73,
+        "author_pub_id": "C-rJaTIAAAAJ:9vf0nzSNQJEC"
     },
     {
         "title": "Strategies for Research About Design: a multidisciplinary graduate workshop",
         "pub_year": "2007",
-        "citation": "Proceedings of the 2007 Symposium on Science of Design, 4-6, 2007"
+        "citation": "Proceedings of the 2007 Symposium on Science of Design, 4-6, 2007",
+        "num_citations": 1,
+        "author_pub_id": "C-rJaTIAAAAJ:NaGl4SEjCO4C"
     },
     {
         "title": "Strategies for Research about Design: a multidisciplinary graduate curriculum",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:xtRiw3GOFMkC"
     },
     {
         "title": "Supporting collaborative learning in engineering design",
         "pub_year": "2005",
-        "citation": "Proceedings of the Ninth International Conference on Computer Supported …, 2005"
+        "citation": "Proceedings of the Ninth International Conference on Computer Supported …, 2005",
+        "num_citations": 57,
+        "author_pub_id": "C-rJaTIAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Supporting conceptual design: a model for reflective-interactive design",
         "pub_year": "2000",
-        "citation": "Knowledge Intensive Computer Aided Design: IFIP TC5 WG5. 2 Third Workshop on …, 2000"
+        "citation": "Knowledge Intensive Computer Aided Design: IFIP TC5 WG5. 2 Third Workshop on …, 2000",
+        "num_citations": 4,
+        "author_pub_id": "C-rJaTIAAAAJ:-f6ydRqryjwC"
     },
     {
         "title": "THE ROLE OF EPISODAL ASSOCIATIVE MEMORY IN FEATURE-BASED DESIGN-DISCUSSION",
         "pub_year": "1992",
-        "citation": "IFIP TRANSACTIONS B-APPLICATIONS IN TECHNOLOGY 4, 327-330, 1992"
+        "citation": "IFIP TRANSACTIONS B-APPLICATIONS IN TECHNOLOGY 4, 327-330, 1992",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:rO6llkc54NcC"
     },
     {
         "title": "Team-based design: Collaborative learning across time and space",
         "pub_year": "2002",
-        "citation": "The 7th International Conference on Computer Supported Cooperative Work in …, 2002"
+        "citation": "The 7th International Conference on Computer Supported Cooperative Work in …, 2002",
+        "num_citations": 2,
+        "author_pub_id": "C-rJaTIAAAAJ:j3f4tGmQtD8C"
     },
     {
         "title": "The effect of individual and group characteristics on remote collaboration",
         "pub_year": "2006",
-        "citation": "Proceedings. Frontiers in Education. 36th Annual Conference, 23-28, 2006"
+        "citation": "Proceedings. Frontiers in Education. 36th Annual Conference, 23-28, 2006",
+        "num_citations": 6,
+        "author_pub_id": "C-rJaTIAAAAJ:UxriW0iASnsC"
     },
     {
         "title": "Towards an interactive assessment framework for engineering design learning",
         "pub_year": "2007",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2007"
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2007",
+        "num_citations": 14,
+        "author_pub_id": "C-rJaTIAAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "Towards effective group work assessment: even what you don’t see can bias you",
         "pub_year": "2017",
-        "citation": "International Journal of Technology and Design Education 27, 165-180, 2017"
+        "citation": "International Journal of Technology and Design Education 27, 165-180, 2017",
+        "num_citations": 27,
+        "author_pub_id": "C-rJaTIAAAAJ:tS2w5q8j5-wC"
     },
     {
         "title": "Tracking Design Knowledge in Engineering Student Projects around Course Milestones",
         "pub_year": "2012",
-        "citation": "2012 ASEE Annual Conference & Exposition, 25.1369. 1-25.1369. 15, 2012"
+        "citation": "2012 ASEE Annual Conference & Exposition, 25.1369. 1-25.1369. 15, 2012",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:M05iB0D1s5AC"
     },
     {
         "title": "Transforming behavioural and physical representations of mechanical designs",
         "pub_year": "2002",
-        "citation": "Engineering Design Synthesis: Understanding, Approaches and Tools, 303-317, 2002"
+        "citation": "Engineering Design Synthesis: Understanding, Approaches and Tools, 303-317, 2002",
+        "num_citations": 38,
+        "author_pub_id": "C-rJaTIAAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "UNIFICATION OF FORM FEATURE DEFINITION METHODS-DISCUSSION",
         "pub_year": "1992",
-        "citation": "IFIP TRANSACTIONS B-APPLICATIONS IN TECHNOLOGY 4, 101-106, 1992"
+        "citation": "IFIP TRANSACTIONS B-APPLICATIONS IN TECHNOLOGY 4, 101-106, 1992",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:fPk4N6BV_jEC"
     },
     {
         "title": "Using Bayesian Models in Preliminary Design",
         "pub_year": "2002",
-        "citation": "DS 30: Proceedings of DESIGN 2002, the 7th International Design Conference …, 2002"
+        "citation": "DS 30: Proceedings of DESIGN 2002, the 7th International Design Conference …, 2002",
+        "num_citations": 1,
+        "author_pub_id": "C-rJaTIAAAAJ:uWQEDVKXjbEC"
     },
     {
         "title": "Vertical gradients of airborne concentration and deposition of pollutants on buildings",
         "pub_year": "1998",
-        "citation": "Journal of Aerosol Science 29, 117-118, 1998"
+        "citation": "Journal of Aerosol Science 29, 117-118, 1998",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:ye4kPcJQO24C"
     },
     {
         "title": "Vertical gradients of pollutant concentrations and deposition fluxes on a tall limestone building",
         "pub_year": "1998",
-        "citation": "Journal of the American Institute for Conservation 37 (2), 187-210, 1998"
+        "citation": "Journal of the American Institute for Conservation 37 (2), 187-210, 1998",
+        "num_citations": 19,
+        "author_pub_id": "C-rJaTIAAAAJ:5awf1xo2G04C"
     },
     {
         "title": "What is the role of MOOCs in engineering education?",
         "pub_year": "2013",
-        "citation": "2013 IEEE Frontiers in Education Conference (FIE), 925-925, 2013"
+        "citation": "2013 IEEE Frontiers in Education Conference (FIE), 925-925, 2013",
+        "num_citations": 2,
+        "author_pub_id": "C-rJaTIAAAAJ:BrmTIyaxlBUC"
     },
     {
         "title": "Workshop: Evaluation of educational research and development projects: Pre-conference workshop",
         "pub_year": "2012",
-        "citation": "2012 Frontiers in Education Conference Proceedings, 1-2, 2012"
+        "citation": "2012 Frontiers in Education Conference Proceedings, 1-2, 2012",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:_xSYboBqXhAC"
     },
     {
         "title": "Workshop—Evaluation of education development projects",
         "pub_year": "2011",
-        "citation": "2011 Frontiers in Education Conference (FIE), W1C-1, 2011"
+        "citation": "2011 Frontiers in Education Conference (FIE), W1C-1, 2011",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:3s1wT3WcHBgC"
     },
     {
         "title": "Writing Research Proposals to the National Science Foundation",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:VOx2b1Wkg3QC"
     },
     {
         "title": "مقالات علمی و مقالات علمی پژوهشی‎",
         "pub_year": "2012",
-        "citation": "صفه, 2012‎"
+        "citation": "صفه, 2012‎",
+        "num_citations": 0,
+        "author_pub_id": "C-rJaTIAAAAJ:tYavs44e6CUC"
     }
 ]

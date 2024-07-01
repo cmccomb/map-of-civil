@@ -108,7 +108,7 @@
         "title": "Excess Entropy Scaling in Active-Matter Systems",
         "pub_year": "2022",
         "citation": "The Journal of Physical Chemistry Letters 13 (22), 4949-4954, 2022",
-        "num_citations": 5,
+        "num_citations": 7,
         "author_pub_id": "VH21b7cAAAAJ:-f6ydRqryjwC"
     },
     {
@@ -157,7 +157,7 @@
         "title": "Hsp90 inhibition increases p53 expression and destabilizes MYCN and MYC in neuroblastoma",
         "pub_year": "2011",
         "citation": "International Journal of Oncology 38 (1), 105-112, 2011",
-        "num_citations": 50,
+        "num_citations": 49,
         "author_pub_id": "VH21b7cAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -171,7 +171,7 @@
         "title": "Layered Fluid Structure and Anomalous Diffusion under Nanoconfinement",
         "pub_year": "2018",
         "citation": "Langmuir 34 (23), 6976-6982, 2018",
-        "num_citations": 31,
+        "num_citations": 33,
         "author_pub_id": "VH21b7cAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -185,7 +185,7 @@
         "title": "Measurement of τ polarization in W→τν decays with the ATLAS detector in pp collisions at ",
         "pub_year": "2012",
         "citation": "The European Physical Journal C 72 (7), 2062, 2012",
-        "num_citations": 16,
+        "num_citations": 91,
         "author_pub_id": "VH21b7cAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -392,6 +392,13 @@
         "author_pub_id": "VH21b7cAAAAJ:HDshCWvjkbEC"
     },
     {
+        "title": "Towards realizing nano-enabled precision delivery in plants",
+        "pub_year": "2024",
+        "citation": "Nature Nanotechnology, 1-15, 2024",
+        "num_citations": 1,
+        "author_pub_id": "VH21b7cAAAAJ:GnPB-g6toBAC"
+    },
+    {
         "title": "Universal molecular-kinetic scaling relation for slip of a simple fluid at a solid boundary",
         "pub_year": "2019",
         "citation": "Physical Review Fluids 4 (6), 064201, 2019",
@@ -402,7 +409,7 @@
         "title": "Why are fluid densities so low in carbon nanotubes?",
         "pub_year": "2015",
         "citation": "Physics of Fluids 27 (5), 052006, 2015",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "VH21b7cAAAAJ:u5HHmVD_uO8C"
     }
 ]
