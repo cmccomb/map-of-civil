@@ -7,11 +7,11 @@
         "author_pub_id": "79Ml-9YAAAAJ:_FxGoFyzp5QC"
     },
     {
-        "title": "COVID-19 Public Transit Precautions: Trade-offs between Risk Reduction and Costs (preprint)",
-        "pub_year": "2021",
-        "citation": "",
+        "title": "Bringing home the bacon: Estimating willingness to pay for autonomous grocery delivery across US households",
+        "pub_year": "2024",
+        "citation": "Transportation Research Interdisciplinary Perspectives 26, 101118, 2024",
         "num_citations": 0,
-        "author_pub_id": "79Ml-9YAAAAJ:3fE2CSJIrl8C"
+        "author_pub_id": "79Ml-9YAAAAJ:mVmsd5A6BfQC"
     },
     {
         "title": "COVID-19 public transit precautions: Trade-offs between risk reduction and costs",
@@ -28,13 +28,6 @@
         "author_pub_id": "79Ml-9YAAAAJ:YOwf2qJgpHMC"
     },
     {
-        "title": "Congestion and Emission Impacts of Switching from In-person to Online Grocery Delivery: A Seattle Case Study",
-        "pub_year": "2022",
-        "citation": "Mobility21, Carnegie Mellon University, 2022",
-        "num_citations": 0,
-        "author_pub_id": "79Ml-9YAAAAJ:KlAtU1dfN6UC"
-    },
-    {
         "title": "Congestion and environmental impacts of short car trip replacement with micromobility modes",
         "pub_year": "2022",
         "citation": "Transportation Research Part D: Transport and Environment 103, 103173, 2022",
@@ -42,7 +35,7 @@
         "author_pub_id": "79Ml-9YAAAAJ:kNdYIx-mwKoC"
     },
     {
-        "title": "Connecting Pedestrians With Disabilities to Adaptive Signal Control for Safe Intersection Crossing and Enhanced Mobility: 2019 Field Test and Evaluation",
+        "title": "Connecting Pedestrians with Disabilities to Adaptive Signal Control for Safe Intersection Crossing and Enhanced Mobility: Final Report [2019]",
         "pub_year": "2019",
         "citation": "United States. Department of Transportation. Intelligent Transportation …, 2019",
         "num_citations": 4,
@@ -52,7 +45,7 @@
         "title": "Cost and benefit estimates of partially-automated vehicle collision avoidance technologies",
         "pub_year": "2016",
         "citation": "Accident Analysis & Prevention 95, 104-115, 2016",
-        "num_citations": 110,
+        "num_citations": 113,
         "author_pub_id": "79Ml-9YAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -73,7 +66,7 @@
         "title": "Equity Effects of Rare Events on Transportation Network Company and Transit Riders",
         "pub_year": "2023",
         "citation": "Mobility21, Carnegie Mellon University, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "79Ml-9YAAAAJ:4DMP91E08xMC"
     },
     {
@@ -87,7 +80,7 @@
         "title": "Estimating potential increases in travel with autonomous vehicles for the non-driving, elderly and people with travel-restrictive medical conditions",
         "pub_year": "2016",
         "citation": "Transportation research part C: emerging technologies 72, 1-9, 2016",
-        "num_citations": 564,
+        "num_citations": 560,
         "author_pub_id": "79Ml-9YAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -119,7 +112,7 @@
         "author_pub_id": "79Ml-9YAAAAJ:Se3iqnhoufwC"
     },
     {
-        "title": "Incentives to Encourage the Adoption of Connected and Automated Vehicles: Lessons Learned from Hybrid-Electric Vehicle Incentive Programs",
+        "title": "Incentives to encourage the adoption of connected and automated vehicles: Lessons learned from hybrid-electric vehicle incentive programs",
         "pub_year": "2023",
         "citation": "Future Transportation 3 (3), 986-995, 2023",
         "num_citations": 2,
@@ -150,7 +143,7 @@
         "title": "Online grocery delivery: Sustainable practice, or congestion generator and environmental burden?",
         "pub_year": "2023",
         "citation": "Transportation Research Part D: Transport and Environment 119, 103722, 2023",
-        "num_citations": 11,
+        "num_citations": 13,
         "author_pub_id": "79Ml-9YAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -171,14 +164,14 @@
         "title": "Societal Impacts of a Complete Street Project in a Mixed Urban Corridor: Case Study in Pittsburgh",
         "pub_year": "2021",
         "citation": "Journal of Infrastructure Systems 27 (2), 05021003, 2021",
-        "num_citations": 1,
+        "num_citations": 3,
         "author_pub_id": "79Ml-9YAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Socioeconomic and usage characteristics of transportation network company (TNC) riders",
         "pub_year": "2020",
         "citation": "Transportation 47, 3047-3067, 2020",
-        "num_citations": 113,
+        "num_citations": 114,
         "author_pub_id": "79Ml-9YAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -214,13 +207,6 @@
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "79Ml-9YAAAAJ:M3ejUd6NZC8C"
-    },
-    {
-        "title": "Travel Impacts of a Complete Street Project in a Mixed Urban Corridor [Supporting Dataset]",
-        "pub_year": "2020",
-        "citation": "Mobility21, Carnegie Mellon University, 2020",
-        "num_citations": 2,
-        "author_pub_id": "79Ml-9YAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "What stay-at-home orders reveal about dependence on transportation network companies",

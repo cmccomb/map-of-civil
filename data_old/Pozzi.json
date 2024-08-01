@@ -51,7 +51,7 @@
         "title": "A framework for evaluating the impact of structural health monitoring on bridge management",
         "pub_year": "2010",
         "citation": "Proc. 5th Int. Conf. Bridge Maintenance, Safety Manage, 161, 2010",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "NldhiuYAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -142,7 +142,7 @@
         "title": "Assessing the value of information for long-term structural health monitoring",
         "pub_year": "2011",
         "citation": "Health monitoring of structural and biological systems 2011 7984, 812-825, 2011",
-        "num_citations": 175,
+        "num_citations": 176,
         "author_pub_id": "NldhiuYAAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -170,7 +170,7 @@
         "title": "Bayesian calibration of building energy models with large datasets",
         "pub_year": "2017",
         "citation": "Energy and Buildings 154, 343-355, 2017",
-        "num_citations": 123,
+        "num_citations": 124,
         "author_pub_id": "NldhiuYAAAAJ:uJ-U7cs_P_0C"
     },
     {
@@ -198,7 +198,7 @@
         "title": "Climate change impacts on bromide, trihalomethane formation, and health risks at coastal groundwater utilities",
         "pub_year": "2017",
         "citation": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A …, 2017",
-        "num_citations": 28,
+        "num_citations": 30,
         "author_pub_id": "NldhiuYAAAAJ:7T2F9Uy0os0C"
     },
     {
@@ -218,7 +218,7 @@
     {
         "title": "Computation of lifetime value of information for monitoring systems",
         "pub_year": "2011",
-        "citation": "Structural Health Monitoring 2011, 2011",
+        "citation": "Structural Health Monitoring 2011: Condition Based Maintenance and …, 2011",
         "num_citations": 12,
         "author_pub_id": "NldhiuYAAAAJ:-_dYPAW6P2MC"
     },
@@ -338,7 +338,7 @@
         "title": "Experimental evaluation of a smart prestressed element instrumented with multiplexed interferometric fiber optic sensors",
         "pub_year": "2008",
         "citation": "4th European Workshop on Structural Health Monitoring, 863-870, 2008",
-        "num_citations": 3,
+        "num_citations": 2,
         "author_pub_id": "NldhiuYAAAAJ:zA6iFVUQeVQC"
     },
     {
@@ -456,7 +456,7 @@
         "title": "Inference on maximum structural response based on measured accelerations using dynamic Bayesian network",
         "pub_year": "2013",
         "citation": "11th International Conference on Structural Safety And Reliability (ICOSSAR2013), 2013",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "NldhiuYAAAAJ:hMod-77fHWUC"
     },
     {
@@ -477,7 +477,7 @@
         "title": "Integrated Inspection Scheduling and Maintenance Planning for Infrastructure Systems",
         "pub_year": "2015",
         "citation": "Computer‐Aided Civil and Infrastructure Engineering 31 (6), 403–415, 2015",
-        "num_citations": 95,
+        "num_citations": 96,
         "author_pub_id": "NldhiuYAAAAJ:eMMeJKvmdy0C"
     },
     {
@@ -574,7 +574,7 @@
         "title": "Monitoring heritage buildings with wireless sensor networks: The Torre Aquila deployment",
         "pub_year": "2009",
         "citation": "2009 International Conference on Information Processing in Sensor Networks …, 2009",
-        "num_citations": 512,
+        "num_citations": 501,
         "author_pub_id": "NldhiuYAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -654,6 +654,13 @@
         "author_pub_id": "NldhiuYAAAAJ:NMxIlDl6LWMC"
     },
     {
+        "title": "On the impact of prior engineering perception on structural health diagnosis",
+        "pub_year": "2013",
+        "citation": "Structural Health Monitoring 2013, 2013",
+        "num_citations": 0,
+        "author_pub_id": "NldhiuYAAAAJ:kw52XkFRtyQC"
+    },
+    {
         "title": "On the impact of prior engineering perception on structural health diagnosis: analysis of a case study",
         "pub_year": "2013",
         "citation": "9th International Workshop on Structural Health Monitoring: A Roadmap to …, 2013",
@@ -679,7 +686,7 @@
         "pub_year": "2017",
         "citation": "Structural Health Monitoring 2017, 2017",
         "num_citations": 0,
-        "author_pub_id": "NldhiuYAAAAJ:OR75R8vi5nAC"
+        "author_pub_id": "NldhiuYAAAAJ:MhiOAD_qIWkC"
     },
     {
         "title": "Optimal Sensor Placement for Urban Heat Risk Response",
@@ -792,6 +799,13 @@
         "author_pub_id": "NldhiuYAAAAJ:2VqYfGB8ITEC"
     },
     {
+        "title": "Probabilistic Framework for Assessing Maximum Structural Response",
+        "pub_year": "1989",
+        "citation": "Computational Intelligence 5 (3), 142-50, 1989",
+        "num_citations": 0,
+        "author_pub_id": "NldhiuYAAAAJ:7BrZ7Jt4UNcC"
+    },
+    {
         "title": "Probabilistic condition monitoring of smart structural elements",
         "pub_year": "2008",
         "citation": "World Forum on Smart Materials and Smart Structures Technology, 215-215, 2008",
@@ -808,7 +822,7 @@
     {
         "title": "Probabilistic learning and planning for optimal management of wind farms",
         "pub_year": "2013",
-        "citation": "Structural Health Monitoring 2013, 2013",
+        "citation": "Proc. 9th Int. Workshop on Structural Health Monitoring, 2720-2728, 2013",
         "num_citations": 4,
         "author_pub_id": "NldhiuYAAAAJ:iH-uZ7U-co4C"
     },
@@ -843,7 +857,7 @@
     {
         "title": "Resilience to Extreme Events: A Bayesian Nonparametric Approach",
         "pub_year": "2017",
-        "citation": "Structural Health Monitoring 2017, 2017",
+        "citation": "Proc. of IWSHM, 2121-2128, 2017",
         "num_citations": 1,
         "author_pub_id": "NldhiuYAAAAJ:0KyAp5RtaNEC"
     },
@@ -865,7 +879,7 @@
         "title": "Response spectrum analysis for floor acceleration",
         "pub_year": "2015",
         "citation": "Earthquake Engineering & Structural Dynamics 44 (12), 2111–2127, 2015",
-        "num_citations": 65,
+        "num_citations": 66,
         "author_pub_id": "NldhiuYAAAAJ:fPk4N6BV_jEC"
     },
     {
@@ -877,9 +891,9 @@
     },
     {
         "title": "SPIE smart structures and materials+ nondestructive evaluation and health monitoring",
-        "pub_year": "2014",
-        "citation": "Structural Health Monitoring 1, 5, 2014",
-        "num_citations": 31,
+        "pub_year": "2015",
+        "citation": "Ferroelectrics 1, 2, 2015",
+        "num_citations": 39,
         "author_pub_id": "NldhiuYAAAAJ:lgwcVrK6X84C"
     },
     {
@@ -918,10 +932,17 @@
         "author_pub_id": "NldhiuYAAAAJ:HE397vMXCloC"
     },
     {
+        "title": "Sequential learning of climate change via a physical-parameter-based state-space model and Bayesian inference",
+        "pub_year": "2024",
+        "citation": "Climatic Change 177 (6), 99, 2024",
+        "num_citations": 0,
+        "author_pub_id": "NldhiuYAAAAJ:FiytvqdAVhgC"
+    },
+    {
         "title": "Short-term probabilistic forecasting of meso-scale near-surface urban temperature fields",
         "pub_year": "2021",
         "citation": "Environmental Modelling & Software 145, 105189, 2021",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "NldhiuYAAAAJ:bKqednn6t2AC"
     },
     {
@@ -956,7 +977,7 @@
         "title": "Submodularity issues in value-of-information-based sensor placement",
         "pub_year": "2019",
         "citation": "Reliability Engineering & System Safety 183, 93-103, 2019",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "NldhiuYAAAAJ:k8Z6L05lTy4C"
     },
     {
@@ -970,7 +991,7 @@
         "title": "Surface heat assessment for developed environments: Probabilistic urban temperature modeling",
         "pub_year": "2017",
         "citation": "Computers, Environment and Urban Systems 66, 53-64, 2017",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "NldhiuYAAAAJ:evX43VCCuoAC"
     },
     {
@@ -990,7 +1011,7 @@
     {
         "title": "System-level Inspection Scheduling: An Approach Based on Stochastic Future Allocation",
         "pub_year": "2015",
-        "citation": "Structural Health Monitoring 2015, 2015",
+        "citation": "10th IWSHM, Stanford, CA, 2015",
         "num_citations": 1,
         "author_pub_id": "NldhiuYAAAAJ:WA5NYHcadZ8C"
     },
@@ -1019,7 +1040,7 @@
         "title": "Value of Information in Sequential Decision Making: component inspection, permanent monitoring and system-level scheduling",
         "pub_year": "2016",
         "citation": "Reliability Engineering & System Safety, 2016",
-        "num_citations": 97,
+        "num_citations": 100,
         "author_pub_id": "NldhiuYAAAAJ:ZuybSZzF8UAC"
     },
     {
@@ -1040,7 +1061,7 @@
         "title": "Value of information: A roadmap to quantifying the benefit of structural health monitoring",
         "pub_year": "2017",
         "citation": "ICOSSAR-12th international conference on structural safety & reliability, 2017",
-        "num_citations": 92,
+        "num_citations": 93,
         "author_pub_id": "NldhiuYAAAAJ:35r97b3x0nAC"
     },
     {
@@ -1067,7 +1088,7 @@
         "title": "What makes long-term monitoring convenient? A parametric analysis of value of information in infrastructure maintenance",
         "pub_year": "2019",
         "citation": "Structural Control and Health Monitoring 26 (5), e2329, 2019",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "NldhiuYAAAAJ:PoWvk5oyLR8C"
     },
     {
@@ -1088,7 +1109,7 @@
         "title": "Wireless sensor networks for permanent health monitoring of historic buildings",
         "pub_year": "2010",
         "citation": "Smart Structures and Systems 6 (5-6), 595-618, 2010",
-        "num_citations": 65,
+        "num_citations": 66,
         "author_pub_id": "NldhiuYAAAAJ:MXK_kJrjxJIC"
     },
     {

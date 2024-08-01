@@ -146,6 +146,13 @@
         "author_pub_id": "NldhiuYAAAAJ:ULOm3_A8WrAC"
     },
     {
+        "title": "Automatically detecting Crohn’s disease and Ulcerative Colitis from endoscopic imaging",
+        "pub_year": "2022",
+        "citation": "BMC Medical Informatics and Decision Making 22 (Suppl 6), 300, 2022",
+        "num_citations": 15,
+        "author_pub_id": "NldhiuYAAAAJ:WC23djZS0W4C"
+    },
+    {
         "title": "Bayesian Logic-based Damage Assessment in a Smart Precast Concrete Beam",
         "pub_year": "2022",
         "citation": "ADVANCES IN STRUCTURAL ENGINEERING, .-., 2022",
@@ -170,7 +177,7 @@
         "title": "Bayesian calibration of building energy models with large datasets",
         "pub_year": "2017",
         "citation": "Energy and Buildings 154, 343-355, 2017",
-        "num_citations": 124,
+        "num_citations": 127,
         "author_pub_id": "NldhiuYAAAAJ:uJ-U7cs_P_0C"
     },
     {
@@ -253,9 +260,16 @@
     {
         "title": "Constraining Colorado River Basin Long-term Water Supply Projections for Engineering Decision-making using a Physical-parameter-based State-space Model",
         "pub_year": "2023",
-        "citation": "AGU23, 2023",
+        "citation": "AGU Fall Meeting Abstracts 2023 (209), H43C-209, 2023",
         "num_citations": 0,
         "author_pub_id": "NldhiuYAAAAJ:U4n9YNQMCAIC"
+    },
+    {
+        "title": "Cutting-edge technology and automation in the pathology laboratory",
+        "pub_year": "2024",
+        "citation": "Virchows Archiv 484 (4), 555-566, 2024",
+        "num_citations": 8,
+        "author_pub_id": "NldhiuYAAAAJ:WHdLCjDvYFkC"
     },
     {
         "title": "Decision-making in SHM systems for asset management",
@@ -305,6 +319,13 @@
         "citation": "Science and Technology for the Built Environment 25 (3), 247-260, 2019",
         "num_citations": 5,
         "author_pub_id": "NldhiuYAAAAJ:WZBGuue-350C"
+    },
+    {
+        "title": "Endoscopy-based IBD identification by a quantized deep learning pipeline",
+        "pub_year": "2023",
+        "citation": "BioData Mining 16 (1), 33, 2023",
+        "num_citations": 0,
+        "author_pub_id": "NldhiuYAAAAJ:7wO8s98CvbsC"
     },
     {
         "title": "Energetic formulation of large‐deformation poroelasticity",
@@ -366,8 +387,15 @@
         "title": "Gaussian process regression and classification for probabilistic damage assessment of spatially distributed systems",
         "pub_year": "2018",
         "citation": "KSCE Journal of Civil Engineering 22, 1016-1026, 2018",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "NldhiuYAAAAJ:KUbvn5osdkgC"
+    },
+    {
+        "title": "Generating synthetic data in digital pathology through diffusion models: a multifaceted approach to evaluation",
+        "pub_year": "2023",
+        "citation": "medRxiv, 2023.11. 21.23298808, 2023",
+        "num_citations": 0,
+        "author_pub_id": "NldhiuYAAAAJ:7H_MAutzIkAC"
     },
     {
         "title": "Gibbs sampling for inference and reliability assessment in dynamic systems",
@@ -477,7 +505,7 @@
         "title": "Integrated Inspection Scheduling and Maintenance Planning for Infrastructure Systems",
         "pub_year": "2015",
         "citation": "Computer‐Aided Civil and Infrastructure Engineering 31 (6), 403–415, 2015",
-        "num_citations": 96,
+        "num_citations": 97,
         "author_pub_id": "NldhiuYAAAAJ:eMMeJKvmdy0C"
     },
     {
@@ -567,14 +595,14 @@
         "title": "Model-free reinforcement learning with model-based safe exploration: Optimizing adaptive recovery process of infrastructure systems",
         "pub_year": "2019",
         "citation": "Structural Safety 80, 46-55, 2019",
-        "num_citations": 35,
+        "num_citations": 37,
         "author_pub_id": "NldhiuYAAAAJ:xtoqd-5pKcoC"
     },
     {
         "title": "Monitoring heritage buildings with wireless sensor networks: The Torre Aquila deployment",
         "pub_year": "2009",
         "citation": "2009 International Conference on Information Processing in Sensor Networks …, 2009",
-        "num_citations": 501,
+        "num_citations": 502,
         "author_pub_id": "NldhiuYAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -594,7 +622,7 @@
     {
         "title": "Multi-Temporal Urban Form Characterization from High-Resolution Satellite Imagery to Advance Climate Risk Assessment in Data-Sparse Cities in Sub-Saharan Africa",
         "pub_year": "2023",
-        "citation": "AGU23, 2023",
+        "citation": "AGU Fall Meeting Abstracts 2023 (1229), GC33G-1229, 2023",
         "num_citations": 0,
         "author_pub_id": "NldhiuYAAAAJ:4xDN1ZYqzskC"
     },
@@ -897,6 +925,12 @@
         "author_pub_id": "NldhiuYAAAAJ:lgwcVrK6X84C"
     },
     {
+        "title": "Scoring Tumor-Infiltrating Lymphocytes in breast DCIS: A guideline-driven artificial intelligence approach",
+        "citation": "MICCAI Workshop on Computational Pathology with Multimodal Data (COMPAYL), 0",
+        "num_citations": 0,
+        "author_pub_id": "NldhiuYAAAAJ:wKETBy42zhYC"
+    },
+    {
         "title": "Seismic Assessment using a Bayesian Network",
         "pub_year": "2010",
         "citation": "Proc, 2010",
@@ -977,21 +1011,21 @@
         "title": "Submodularity issues in value-of-information-based sensor placement",
         "pub_year": "2019",
         "citation": "Reliability Engineering & System Safety 183, 93-103, 2019",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "NldhiuYAAAAJ:k8Z6L05lTy4C"
     },
     {
         "title": "Surface heat assessment for developed environments: Optimizing urban temperature monitoring",
         "pub_year": "2018",
         "citation": "Building and Environment 141, 143–154, 2018",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "NldhiuYAAAAJ:tYavs44e6CUC"
     },
     {
         "title": "Surface heat assessment for developed environments: Probabilistic urban temperature modeling",
         "pub_year": "2017",
         "citation": "Computers, Environment and Urban Systems 66, 53-64, 2017",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "NldhiuYAAAAJ:evX43VCCuoAC"
     },
     {

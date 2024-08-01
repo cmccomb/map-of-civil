@@ -79,7 +79,7 @@
         "title": "A frequency-based hypothesis for mechanically targeting and selectively attacking cancer cells",
         "pub_year": "2015",
         "citation": "J. Roy. Soc. Interface 12, 20150656, 2015",
-        "num_citations": 60,
+        "num_citations": 61,
         "author_pub_id": "DquTIDQAAAAJ:lK9BDNCuzFgC"
     },
     {
@@ -155,7 +155,7 @@
         "title": "Atomistic-to-Continuum Multiscale Modeling with Long-Range Electrostatic Interactions in Ionic Solids",
         "pub_year": "2014",
         "citation": "Journal of the Mechanics and Physics of Solids 62, 137-162, 2014",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "DquTIDQAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -183,7 +183,7 @@
         "title": "Bond-level deformation gradients and energy averaging in peridynamics",
         "pub_year": "2018",
         "citation": "Journal of the Mechanics and Physics of Solids 110, 192-204, 2018",
-        "num_citations": 62,
+        "num_citations": 64,
         "author_pub_id": "DquTIDQAAAAJ:CMvovTBb2okC"
     },
     {
@@ -217,7 +217,7 @@
         "title": "Comparison of simulated and measured grain volume changes during grain growth",
         "pub_year": "2022",
         "citation": "Physical Review Materials 6 (3), 033402, 2022",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "DquTIDQAAAAJ:B2rIPIGFPLEC"
     },
     {
@@ -245,7 +245,7 @@
         "title": "Crack nucleation from non-metallic inclusions in aluminum alloys described by peridynamics simulations",
         "pub_year": "2021",
         "citation": "International Journal of Fatigue 153, 106475, 2021",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "DquTIDQAAAAJ:vxA22ZmNLkoC"
     },
     {
@@ -287,7 +287,7 @@
         "title": "Discrete-to-continuum limits of long-range electrical interactions in nanostructures",
         "pub_year": "2023",
         "citation": "Archive for Rational Mechanics and Analysis 247 (2), 29, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "DquTIDQAAAAJ:It0W0vAlS5QC"
     },
     {
@@ -363,7 +363,7 @@
         "title": "Ferroelectric nanophotonic materials and devices",
         "pub_year": "2008",
         "citation": "US Patent 7,346,248, 2008",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "DquTIDQAAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -390,14 +390,14 @@
         "title": "Fractional hereditariness of lipid membranes: Instabilities and linearized evolution",
         "pub_year": "2016",
         "citation": "Journal of the mechanical behavior of biomedical materials 58, 11-27, 2016",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "DquTIDQAAAAJ:PVqtIyvKoSUC"
     },
     {
         "title": "Fractional-order nonlinear hereditariness of tendons and ligaments of the human knee",
         "pub_year": "2020",
         "citation": "Philosophical Transactions of the Royal Society A 378 (2172), 20190294, 2020",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "DquTIDQAAAAJ:NtGNdKbuCngC"
     },
     {
@@ -418,14 +418,14 @@
         "title": "Grain boundary migration in polycrystalline α-Fe",
         "pub_year": "2024",
         "citation": "Acta Materialia 264, 119541, 2024",
-        "num_citations": 4,
+        "num_citations": 7,
         "author_pub_id": "DquTIDQAAAAJ:XtJa11BXPS4C"
     },
     {
         "title": "Grain boundary migration in polycrystals",
         "pub_year": "2023",
         "citation": "Annual Review of Materials Research 53 (1), 347-369, 2023",
-        "num_citations": 14,
+        "num_citations": 16,
         "author_pub_id": "DquTIDQAAAAJ:yZoBfgUKqwcC"
     },
     {
@@ -445,7 +445,7 @@
         "title": "Hierarchically structured bioinspired nanocomposites",
         "pub_year": "2023",
         "citation": "Nature materials 22 (1), 18-35, 2023",
-        "num_citations": 179,
+        "num_citations": 191,
         "author_pub_id": "DquTIDQAAAAJ:ujxm2eEBZHIC"
     },
     {
@@ -535,7 +535,7 @@
         "title": "Network topologies dictate electromechanical coupling in liquid metal–elastomer composites",
         "pub_year": "2020",
         "citation": "Soft Matter 16 (38), 8818-8825, 2020",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "DquTIDQAAAAJ:WIXB4To3Tx4C"
     },
     {
@@ -556,7 +556,7 @@
         "title": "Nonlinear statistical mechanics drives intrinsic electrostriction and volumetric torque in polymer networks",
         "pub_year": "2021",
         "citation": "Physical Review E 103 (4), 042504, 2021",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "DquTIDQAAAAJ:3BvdIg-l-ZAC"
     },
     {
@@ -567,10 +567,17 @@
         "author_pub_id": "DquTIDQAAAAJ:3vbIHxFL9FgC"
     },
     {
+        "title": "Nonuniqueness in defining the polarization: Nonlocal surface charges and the electrostatic, energetic, and transport perspectives",
+        "pub_year": "2024",
+        "citation": "Journal of the Mechanics and Physics of Solids, 105743, 2024",
+        "num_citations": 0,
+        "author_pub_id": "DquTIDQAAAAJ:_9Xh93LWpsYC"
+    },
+    {
         "title": "ON THE REGULARIZATION OF EQUATIONS OF THE MECHANICS OF MIXTURES OF VISCOUS COMPRESSIBLE FLUIDS",
         "pub_year": "2016",
         "citation": "Blood, 2016",
-        "num_citations": 984,
+        "num_citations": 985,
         "author_pub_id": "DquTIDQAAAAJ:oldoQiaHq2UC"
     },
     {
@@ -584,7 +591,7 @@
         "title": "Phase-field finite deformation fracture with an effective energy for regularized crack face contact",
         "pub_year": "2022",
         "citation": "Journal of the Mechanics and Physics of Solids 167, 104994, 2022",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "DquTIDQAAAAJ:zdX0sdgBH_kC"
     },
     {
@@ -605,7 +612,7 @@
         "title": "Piezoelectricity above the Curie temperature? Combining flexoelectricity and functional grading to enable high-temperature electromechanical coupling",
         "pub_year": "2014",
         "citation": "Appl. Phys. Lett. 104, 122904, 2014",
-        "num_citations": 59,
+        "num_citations": 61,
         "author_pub_id": "DquTIDQAAAAJ:V_vSwabWVtYC"
     },
     {
@@ -666,7 +673,7 @@
         "title": "Statistical field theory for nonlinear elasticity of polymer networks with excluded volume interactions",
         "pub_year": "2023",
         "citation": "Physical Review E 107 (6), 064501, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "DquTIDQAAAAJ:v_xunPV0uK0C"
     },
     {
@@ -687,7 +694,7 @@
         "title": "Statistical field theory of polarizable polymer chains with nonlocal dipolar interactions",
         "pub_year": "2024",
         "citation": "Physical Review E 109 (4), 044501, 2024",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "DquTIDQAAAAJ:NXYAu82O0W8C"
     },
     {
@@ -701,7 +708,7 @@
         "title": "Statistical mechanics of a dielectric polymer chain in the force ensemble",
         "pub_year": "2022",
         "citation": "Journal of the Mechanics and Physics of Solids 158, 104658, 2022",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "DquTIDQAAAAJ:CRzUtm-VnGAC"
     },
     {
@@ -722,7 +729,7 @@
         "title": "Surface growth in deformable solids using an Eulerian formulation",
         "pub_year": "2021",
         "citation": "Journal of the Mechanics and Physics of Solids 154, 104499, 2021",
-        "num_citations": 8,
+        "num_citations": 10,
         "author_pub_id": "DquTIDQAAAAJ:adHtZc2wMuEC"
     },
     {
@@ -771,7 +778,7 @@
         "title": "The Influence of Bubbles on Foamed Cement Viscosity Using an Extended Stokesian Dynamics Approach",
         "pub_year": "2019",
         "citation": "Fluids 4 (3), 166, 2019",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "DquTIDQAAAAJ:oYLFIHfuHKwC"
     },
     {
@@ -785,7 +792,7 @@
         "title": "Torque-dense photomechanical actuation",
         "pub_year": "2021",
         "citation": "Soft Matter 17 (5), 1258-1266, 2021",
-        "num_citations": 9,
+        "num_citations": 8,
         "author_pub_id": "DquTIDQAAAAJ:M0j1y4EgrScC"
     }
 ]

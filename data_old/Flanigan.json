@@ -217,6 +217,13 @@
         "author_pub_id": "sdeRYSMAAAAJ:4TOpqqG69KYC"
     },
     {
+        "title": "State-of-the-Art Review: The Use of Digital Twins to Support Artificial Intelligence-Guided Predictive Maintenance",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2406.13117, 2024",
+        "num_citations": 0,
+        "author_pub_id": "sdeRYSMAAAAJ:Wp0gIr-vW9MC"
+    },
+    {
         "title": "Street-Level Urban Gravity: A Quantum System Approach to Human-Centered Urban Space Design",
         "pub_year": "2023",
         "citation": "Proceedings of the 10th ACM International Conference on Systems for Energy …, 2023",
@@ -234,7 +241,7 @@
         "title": "Utilization of wireless structural health monitoring as decision making tools for a condition and reliability-based assessment of railroad bridges",
         "pub_year": "2017",
         "citation": "Sensors and Smart Structures Technologies for Civil, Mechanical, and …, 2017",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "sdeRYSMAAAAJ:Tyk-4Ss8FVUC"
     }
 ]
