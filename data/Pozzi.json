@@ -51,7 +51,7 @@
         "title": "A framework for evaluating the impact of structural health monitoring on bridge management",
         "pub_year": "2010",
         "citation": "Proc. 5th Int. Conf. Bridge Maintenance, Safety Manage, 161, 2010",
-        "num_citations": 53,
+        "num_citations": 55,
         "author_pub_id": "NldhiuYAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -72,7 +72,7 @@
         "title": "ARX residuals in damage detection",
         "pub_year": "2012",
         "citation": "Structural Control and Health Monitoring 19 (4), 535-547, 2012",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "NldhiuYAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -86,7 +86,7 @@
         "title": "An examination of the ARX as a residual generator for damage detection",
         "pub_year": "2009",
         "citation": "Health Monitoring of Structural and Biological Systems 2009 7295, 637-648, 2009",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "NldhiuYAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -142,14 +142,14 @@
         "title": "Assessing the value of information for long-term structural health monitoring",
         "pub_year": "2011",
         "citation": "Health monitoring of structural and biological systems 2011 7984, 812-825, 2011",
-        "num_citations": 176,
+        "num_citations": 179,
         "author_pub_id": "NldhiuYAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "Automatically detecting Crohn’s disease and Ulcerative Colitis from endoscopic imaging",
         "pub_year": "2022",
         "citation": "BMC Medical Informatics and Decision Making 22 (Suppl 6), 300, 2022",
-        "num_citations": 15,
+        "num_citations": 17,
         "author_pub_id": "NldhiuYAAAAJ:WC23djZS0W4C"
     },
     {
@@ -163,7 +163,7 @@
         "title": "Bayesian analysis of monitoring data from cable-stayed bridge",
         "pub_year": "2013",
         "citation": "11th International Conference on Structural Safety and Reliability, ICOSSAR …, 2013",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "NldhiuYAAAAJ:UHK10RUVsp4C"
     },
     {
@@ -177,7 +177,7 @@
         "title": "Bayesian calibration of building energy models with large datasets",
         "pub_year": "2017",
         "citation": "Energy and Buildings 154, 343-355, 2017",
-        "num_citations": 127,
+        "num_citations": 131,
         "author_pub_id": "NldhiuYAAAAJ:uJ-U7cs_P_0C"
     },
     {
@@ -205,7 +205,7 @@
         "title": "Climate change impacts on bromide, trihalomethane formation, and health risks at coastal groundwater utilities",
         "pub_year": "2017",
         "citation": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A …, 2017",
-        "num_citations": 30,
+        "num_citations": 29,
         "author_pub_id": "NldhiuYAAAAJ:7T2F9Uy0os0C"
     },
     {
@@ -331,7 +331,7 @@
         "title": "Energetic formulation of large‐deformation poroelasticity",
         "pub_year": "2022",
         "citation": "International Journal for Numerical and Analytical Methods in Geomechanics …, 2022",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "NldhiuYAAAAJ:ODE9OILHJdcC"
     },
     {
@@ -442,7 +442,7 @@
         "title": "High-dimensional nonlinear Bayesian inference of poroelastic fields from pressure data",
         "pub_year": "2023",
         "citation": "Mathematics and Mechanics of Solids 28 (9), 2108-2131, 2023",
-        "num_citations": 4,
+        "num_citations": 6,
         "author_pub_id": "NldhiuYAAAAJ:ZzlSgRqYykMC"
     },
     {
@@ -456,7 +456,7 @@
         "title": "Impact of prior perception on bridge health diagnosis",
         "pub_year": "2015",
         "citation": "Journal of Civil Structural Health Monitoring 5, 509-525, 2015",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "NldhiuYAAAAJ:VLnqNzywnoUC"
     },
     {
@@ -505,7 +505,7 @@
         "title": "Integrated Inspection Scheduling and Maintenance Planning for Infrastructure Systems",
         "pub_year": "2015",
         "citation": "Computer‐Aided Civil and Infrastructure Engineering 31 (6), 403–415, 2015",
-        "num_citations": 97,
+        "num_citations": 98,
         "author_pub_id": "NldhiuYAAAAJ:eMMeJKvmdy0C"
     },
     {
@@ -546,7 +546,7 @@
         "title": "MEMS-based sensors for post-earthquake damage assessment",
         "pub_year": "2011",
         "citation": "Journal of Physics: Conference Series 305 (1), 012100, 2011",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "NldhiuYAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -595,14 +595,14 @@
         "title": "Model-free reinforcement learning with model-based safe exploration: Optimizing adaptive recovery process of infrastructure systems",
         "pub_year": "2019",
         "citation": "Structural Safety 80, 46-55, 2019",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "NldhiuYAAAAJ:xtoqd-5pKcoC"
     },
     {
         "title": "Monitoring heritage buildings with wireless sensor networks: The Torre Aquila deployment",
         "pub_year": "2009",
         "citation": "2009 International Conference on Information Processing in Sensor Networks …, 2009",
-        "num_citations": 502,
+        "num_citations": 505,
         "author_pub_id": "NldhiuYAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -616,7 +616,7 @@
         "title": "Monitoring-Supported Value Generation for Managing Structures and Infrastructure Systems",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2402.00021, 2024",
-        "num_citations": 0,
+        "num_citations": 2,
         "author_pub_id": "NldhiuYAAAAJ:wMgC3FpKEyYC"
     },
     {
@@ -630,7 +630,7 @@
         "title": "Multi-agent Value of Information for components’ inspections",
         "pub_year": "2023",
         "citation": "ICASP14-14th International Conference on Applications of Statistics and …, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "NldhiuYAAAAJ:sJsF-0ZLhtgC"
     },
     {
@@ -651,7 +651,7 @@
         "title": "Negative value of information in systems’ maintenance",
         "pub_year": "2017",
         "citation": "ICOSSAR, 12th International Conference on Structural Safety and Reliability, 2017",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "NldhiuYAAAAJ:fEOibwPWpKIC"
     },
     {
@@ -755,7 +755,7 @@
         "title": "Optimal planning and learning in uncertain environments for the management of wind farms",
         "pub_year": "2015",
         "citation": "Journal of Computing in Civil Engineering 29 (5), 04014076, 2015",
-        "num_citations": 66,
+        "num_citations": 67,
         "author_pub_id": "NldhiuYAAAAJ:bEWYMUwI8FkC"
     },
     {
@@ -907,7 +907,7 @@
         "title": "Response spectrum analysis for floor acceleration",
         "pub_year": "2015",
         "citation": "Earthquake Engineering & Structural Dynamics 44 (12), 2111–2127, 2015",
-        "num_citations": 66,
+        "num_citations": 67,
         "author_pub_id": "NldhiuYAAAAJ:fPk4N6BV_jEC"
     },
     {
@@ -948,7 +948,7 @@
         "title": "Sensor fusion on structural monitoring data analysis: application to a cable-stayed bridge",
         "pub_year": "2013",
         "citation": "Key Engineering Materials 569, 812-819, 2013",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "NldhiuYAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -1067,14 +1067,14 @@
         "title": "Value of Information for Spatially Distributed Systems: application to sensor placement",
         "pub_year": "2016",
         "citation": "Reliability Engineering & System Safety 154, 219-233, 2016",
-        "num_citations": 81,
+        "num_citations": 82,
         "author_pub_id": "NldhiuYAAAAJ:N5tVd3kTz84C"
     },
     {
         "title": "Value of Information in Sequential Decision Making: component inspection, permanent monitoring and system-level scheduling",
         "pub_year": "2016",
         "citation": "Reliability Engineering & System Safety, 2016",
-        "num_citations": 100,
+        "num_citations": 102,
         "author_pub_id": "NldhiuYAAAAJ:ZuybSZzF8UAC"
     },
     {
@@ -1095,7 +1095,7 @@
         "title": "Value of information: A roadmap to quantifying the benefit of structural health monitoring",
         "pub_year": "2017",
         "citation": "ICOSSAR-12th international conference on structural safety & reliability, 2017",
-        "num_citations": 93,
+        "num_citations": 96,
         "author_pub_id": "NldhiuYAAAAJ:35r97b3x0nAC"
     },
     {

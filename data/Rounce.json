@@ -31,15 +31,21 @@
         "title": "A rockfall-induced glacial lake outburst flood, Upper Barun Valley, Nepal",
         "pub_year": "2019",
         "citation": "Landslides 16, 533-549, 2019",
-        "num_citations": 98,
+        "num_citations": 102,
         "author_pub_id": "VcbkS6UAAAAJ:9ZlFYXVOiuMC"
     },
     {
         "title": "A systematic, regional assessment of high mountain Asia glacier mass balance",
         "pub_year": "2020",
         "citation": "Frontiers in Earth Science 7, 363, 2020",
-        "num_citations": 377,
+        "num_citations": 383,
         "author_pub_id": "VcbkS6UAAAAJ:TQgYirikUcIC"
+    },
+    {
+        "title": "Addressing Local Parameter Uncertainty for Climate Resilient Urban Stormwater Modeling and Decision Making",
+        "citation": "AGU24, 0",
+        "num_citations": 0,
+        "author_pub_id": "VcbkS6UAAAAJ:kRWSkSYxWN8C"
     },
     {
         "title": "Advances in Mapping Debris Thickness of Debris-Covered Glaciers in the Nepal Himalaya",
@@ -80,7 +86,7 @@
         "title": "Assessing downstream flood impacts due to a potential GLOF from Imja Tsho in Nepal",
         "pub_year": "2015",
         "citation": "Hydrology and Earth System Sciences 19 (3), 1401-1412, 2015",
-        "num_citations": 64,
+        "num_citations": 66,
         "author_pub_id": "VcbkS6UAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -101,14 +107,14 @@
         "title": "Brief communication: Observations of a glacier outburst flood from Lhotse Glacier, Everest area, Nepal",
         "pub_year": "2017",
         "citation": "The Cryosphere 11 (1), 443-449, 2017",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "VcbkS6UAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "Changes in Imja Tsho in the mount everest region of Nepal",
         "pub_year": "2014",
         "citation": "The Cryosphere 8 (5), 1661-1671, 2014",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "VcbkS6UAAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -212,7 +218,7 @@
         "title": "Distributed global debris thickness estimates reveal debris significantly impacts glacier mass balance",
         "pub_year": "2021",
         "citation": "Geophysical Research Letters 48 (8), e2020GL091311, 2021",
-        "num_citations": 90,
+        "num_citations": 91,
         "author_pub_id": "VcbkS6UAAAAJ:GnPB-g6toBAC"
     },
     {
@@ -247,7 +253,7 @@
         "title": "Evaluating morphological estimates of the aerodynamic roughness of debris covered glacier ice",
         "pub_year": "2017",
         "citation": "Earth Surface Processes and Landforms 42 (15), 2541-2553, 2017",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "VcbkS6UAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -261,7 +267,7 @@
         "title": "Geomorphic and geologic controls of geohazards induced by Nepal’s 2015 Gorkha earthquake",
         "pub_year": "2016",
         "citation": "Science 351 (6269), aac8353, 2016",
-        "num_citations": 459,
+        "num_citations": 465,
         "author_pub_id": "VcbkS6UAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -275,7 +281,7 @@
         "title": "Glacier mass change in High Mountain Asia through 2100 using the open-source python glacier evolution model (PyGEM)",
         "pub_year": "2020",
         "citation": "Frontiers in Earth Science 7, 331, 2020",
-        "num_citations": 189,
+        "num_citations": 191,
         "author_pub_id": "VcbkS6UAAAAJ:mB3voiENLucC"
     },
     {
@@ -303,8 +309,14 @@
         "title": "Global glacier change in the 21st century: Every increase in temperature matters",
         "pub_year": "2023",
         "citation": "Science 379 (6627), 78-83, 2023",
-        "num_citations": 184,
+        "num_citations": 200,
         "author_pub_id": "VcbkS6UAAAAJ:rO6llkc54NcC"
+    },
+    {
+        "title": "Global glacier models agree on 21st century runoff and drought metrics at river basin scale",
+        "citation": "AGU24, 0",
+        "num_citations": 0,
+        "author_pub_id": "VcbkS6UAAAAJ:q3oQSFYPqjQC"
     },
     {
         "title": "Grand challenges of hydrologic modeling for food-energy-water nexus security in high mountain Asia",
@@ -344,7 +356,7 @@
         "title": "Identification of hazard and risk for glacial lakes in the Nepal Himalaya using satellite imagery from 2000–2015",
         "pub_year": "2017",
         "citation": "Remote Sensing 9 (7), 654, 2017",
-        "num_citations": 122,
+        "num_citations": 124,
         "author_pub_id": "VcbkS6UAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -404,11 +416,23 @@
         "author_pub_id": "VcbkS6UAAAAJ:CHSYGLWDkRkC"
     },
     {
+        "title": "Modeling frontal ablation in a global glacier evolution model",
+        "citation": "AGU24, 0",
+        "num_citations": 0,
+        "author_pub_id": "VcbkS6UAAAAJ:eflP2zaiRacC"
+    },
+    {
         "title": "Modeling future mass balance of glaciers in Alaska using Python Glacier Evolution Model",
         "pub_year": "2019",
         "citation": "AGU Fall Meeting Abstracts 2019, C31B-1504, 2019",
         "num_citations": 0,
         "author_pub_id": "VcbkS6UAAAAJ:-f6ydRqryjwC"
+    },
+    {
+        "title": "Modeling of Albedo Reduction by Black Carbon Deposition on Gulkana Glacier, Alaska",
+        "citation": "AGU24, 0",
+        "num_citations": 0,
+        "author_pub_id": "VcbkS6UAAAAJ:mvPsJ3kp5DgC"
     },
     {
         "title": "Modeling the GLOF Hazard Process Chain at Imja Lake in the Nepal Himalaya",
@@ -421,7 +445,7 @@
         "title": "Modeling the glacial lake outburst flood process chain in the Nepal Himalaya: reassessing Imja Tsho's hazard",
         "pub_year": "2017",
         "citation": "Copernicus GmbH, 2017",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "VcbkS6UAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -483,7 +507,7 @@
         "title": "Partitioning the Uncertainty of Ensemble Projections of Global Glacier Mass Change, Earths Future, 8, e2019EF001470",
         "pub_year": "2020",
         "citation": "",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "VcbkS6UAAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -497,7 +521,7 @@
         "title": "Partitioning the uncertainty of ensemble projections of global glacier mass change",
         "pub_year": "2020",
         "citation": "Earth's Future 8 (7), e2019EF001470, 2020",
-        "num_citations": 160,
+        "num_citations": 165,
         "author_pub_id": "VcbkS6UAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -518,7 +542,7 @@
         "title": "Projected land ice contributions to twenty-first-century sea level rise",
         "pub_year": "2021",
         "citation": "Nature 593 (7857), 74-82, 2021",
-        "num_citations": 290,
+        "num_citations": 298,
         "author_pub_id": "VcbkS6UAAAAJ:YFjsv_pBGBYC"
     },
     {
@@ -553,7 +577,7 @@
         "title": "Quantifying debris thickness of debris‐covered glaciers in the Everest Region of Nepal through inversion of a subdebris melt model",
         "pub_year": "2018",
         "citation": "Journal of Geophysical Research: Earth Surface 123 (5), 1094-1115, 2018",
-        "num_citations": 77,
+        "num_citations": 79,
         "author_pub_id": "VcbkS6UAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -592,6 +616,12 @@
         "author_pub_id": "VcbkS6UAAAAJ:OU6Ihb5iCvQC"
     },
     {
+        "title": "Results of a Glacio-Hydrologic Disturbance Index Calculated for High Mountain Asia",
+        "citation": "AGU24, 0",
+        "num_citations": 0,
+        "author_pub_id": "VcbkS6UAAAAJ:BrmTIyaxlBUC"
+    },
+    {
         "title": "Results of the IACS Debris-covered Glaciers Working Group melt model intercomparison",
         "pub_year": "2020",
         "citation": "EGU General Assembly Conference Abstracts, 20639, 2020",
@@ -609,7 +639,7 @@
         "title": "Satellite monitoring for coastal dynamic adaptation policy pathways",
         "pub_year": "2023",
         "citation": "Climate Risk Management, 100555, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "VcbkS6UAAAAJ:EUQCXRtRnyEC"
     },
     {
@@ -651,7 +681,7 @@
         "title": "Spatiotemporal supraglacial pond and ice cliff changes in the Bhutan–Tibet border region from 2016 to 2018",
         "pub_year": "2022",
         "citation": "Journal of Glaciology 68 (267), 101-113, 2022",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "VcbkS6UAAAAJ:RGFaLdJalmkC"
     },
     {
@@ -678,7 +708,7 @@
         "title": "Ten new insights in climate science 2023",
         "pub_year": "2023",
         "citation": "Global Sustainability 7, e19, 2023",
-        "num_citations": 5,
+        "num_citations": 9,
         "author_pub_id": "VcbkS6UAAAAJ:P5F9QuxV20EC"
     },
     {
@@ -692,7 +722,7 @@
         "title": "The common language of speech perception and action: a neurocognitive perspective",
         "pub_year": "2008",
         "citation": "Revue française de linguistique appliquée 13 (2), 9-22, 2008",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "VcbkS6UAAAAJ:lSLTfruPkqcC"
     },
     {
@@ -720,14 +750,14 @@
         "title": "The state of remote sensing capabilities of cascading hazards over High Mountain Asia",
         "pub_year": "2019",
         "citation": "Frontiers in Earth science 7, 197, 2019",
-        "num_citations": 73,
+        "num_citations": 76,
         "author_pub_id": "VcbkS6UAAAAJ:IWHjjKOFINEC"
     },
     {
         "title": "The unquantified mass loss of Northern Hemisphere marine-terminating glaciers from 2000–2020",
         "pub_year": "2022",
         "citation": "Nature Communications 13 (1), 5835, 2022",
-        "num_citations": 27,
+        "num_citations": 31,
         "author_pub_id": "VcbkS6UAAAAJ:SeFeTyx0c_EC"
     },
     {
@@ -741,7 +771,7 @@
         "title": "Three recent and lesser-known glacier-related flood mechanisms in high mountain environments",
         "pub_year": "2022",
         "citation": "Mountain Research and Development 42 (2), A12-A22, 2022",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "VcbkS6UAAAAJ:pqnbT2bcN3wC"
     },
     {
@@ -750,6 +780,13 @@
         "citation": "AGU Fall Meeting Abstracts 2023, C21A-07, 2023",
         "num_citations": 0,
         "author_pub_id": "VcbkS6UAAAAJ:VOx2b1Wkg3QC"
+    },
+    {
+        "title": "Towards more physical modeling of frontal ablation of marine-and lake-terminating glaciers in a global glacier evolution model",
+        "pub_year": "2023",
+        "citation": "XXVIII General Assembly of the International Union of Geodesy and Geophysics …, 2023",
+        "num_citations": 0,
+        "author_pub_id": "VcbkS6UAAAAJ:D_sINldO8mEC"
     },
     {
         "title": "Uncertainty and Decision Making for Community Scale Urban Stormwater Modeling",
@@ -769,21 +806,21 @@
         "title": "Underestimated mass loss from lake-terminating glaciers in the greater Himalaya",
         "pub_year": "2023",
         "citation": "Nature Geoscience 16 (4), 333-338, 2023",
-        "num_citations": 53,
+        "num_citations": 67,
         "author_pub_id": "VcbkS6UAAAAJ:pyW8ca7W8N0C"
     },
     {
         "title": "Understanding of contemporary regional sea‐level change and the implications for the future",
         "pub_year": "2020",
         "citation": "Reviews of Geophysics 58 (3), e2019RG000672, 2020",
-        "num_citations": 87,
+        "num_citations": 88,
         "author_pub_id": "VcbkS6UAAAAJ:r0BpntZqJG4C"
     },
     {
         "title": "collaborative research to address changes in the climate, hydrology and cryosphere of high mountain Asia",
         "pub_year": "2020",
         "citation": "Frontiers in Earth Science 8, 605336, 2020",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "VcbkS6UAAAAJ:JV2RwH3_ST0C"
     }
 ]
