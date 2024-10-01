@@ -17,7 +17,7 @@
         "title": "A functional assay-based strategy for nanomaterial risk forecasting",
         "pub_year": "2015",
         "citation": "Science of the Total Environment 536, 1029-1037, 2015",
-        "num_citations": 110,
+        "num_citations": 111,
         "author_pub_id": "gFZ3W5wAAAAJ:epqYDVWIO7EC"
     },
     {
@@ -45,14 +45,14 @@
         "title": "Adsorbed Polyelectrolyte Coatings Decrease Fe0 Nanoparticle Reactivity with TCE in Water: Conceptual Model and Mechanisms",
         "pub_year": "2009",
         "citation": "Environmental science & technology 43 (5), 1507-1514, 2009",
-        "num_citations": 276,
+        "num_citations": 277,
         "author_pub_id": "gFZ3W5wAAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "Adsorbed Polymer and NOM Limits Adhesion and Toxicity of Nano Scale Zerovalent Iron to E. coli",
         "pub_year": "2010",
         "citation": "Environmental science & technology 44 (9), 3462-3467, 2010",
-        "num_citations": 406,
+        "num_citations": 407,
         "author_pub_id": "gFZ3W5wAAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -80,14 +80,14 @@
         "title": "Aggregation and sedimentation of aqueous nanoscale zerovalent iron dispersions",
         "pub_year": "2007",
         "citation": "Environmental science & technology 41 (1), 284-290, 2007",
-        "num_citations": 1204,
+        "num_citations": 1215,
         "author_pub_id": "gFZ3W5wAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Aging of dissolved copper and copper‐based nanoparticles in five different soils: Short‐term kinetics vs. long‐term fate",
         "pub_year": "2017",
         "citation": "Journal of environmental quality 46 (6), 1198-1205, 2017",
-        "num_citations": 67,
+        "num_citations": 68,
         "author_pub_id": "gFZ3W5wAAAAJ:edDO8Oi4QzsC"
     },
     {
@@ -108,7 +108,7 @@
         "title": "Application of Transfer Learning and Convolutional Neural Networks for Autonomous Oil Sheen Monitoring",
         "pub_year": "2022",
         "citation": "Applied Sciences 12 (17), 8865, 2022",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "gFZ3W5wAAAAJ:q-HalDI95KYC"
     },
     {
@@ -129,7 +129,7 @@
         "title": "Assessing the risks of manufactured nanomaterials",
         "pub_year": "2006",
         "citation": "Environmental science & technology 40 (14), 4336-4345, 2006",
-        "num_citations": 1490,
+        "num_citations": 1493,
         "author_pub_id": "gFZ3W5wAAAAJ:AvfA0Oy_GE0C"
     },
     {
@@ -150,7 +150,7 @@
         "title": "Biogenic cyanide production promotes dissolution of gold nanoparticles in soil",
         "pub_year": "2018",
         "citation": "Environmental science & technology 53 (3), 1287-1295, 2018",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "gFZ3W5wAAAAJ:yFnVuubrUp4C"
     },
     {
@@ -199,7 +199,7 @@
         "title": "CO2 Reaction with Hydrated Class H Well Cement under Geologic Sequestration Conditions: Effects of Flyash Admixtures",
         "pub_year": "2009",
         "citation": "Environmental science & technology 43 (10), 3947-3952, 2009",
-        "num_citations": 177,
+        "num_citations": 178,
         "author_pub_id": "gFZ3W5wAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -210,10 +210,17 @@
         "author_pub_id": "gFZ3W5wAAAAJ:nb7KW1ujOQ8C"
     },
     {
+        "title": "Carbon Adsorbent Properties Impact Hydrated Electron Activity and Perfluorocarboxylic Acid (PFCA) Destruction",
+        "pub_year": "2024",
+        "citation": "ACS ES&T Engineering, 2024",
+        "num_citations": 0,
+        "author_pub_id": "gFZ3W5wAAAAJ:HJSXoJQnj-YC"
+    },
+    {
         "title": "Carbon dioxide capture from atmospheric air using sodium hydroxide spray",
         "pub_year": "2008",
         "citation": "Environmental science & technology 42 (8), 2728-2735, 2008",
-        "num_citations": 499,
+        "num_citations": 502,
         "author_pub_id": "gFZ3W5wAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -255,13 +262,13 @@
         "title": "Characterizing convective heat transfer coefficients in membrane distillation cassettes",
         "pub_year": "2017",
         "citation": "Journal of Membrane Science 538, 108-121, 2017",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "gFZ3W5wAAAAJ:5qfkUJPXOUwC"
     },
     {
         "title": "Characterizing the Stoichiometry of Individual Metal Sulfide and Phosphate Colloids in Soils, Sediments, and Industrial Processes by Inductively Coupled Plasma Time-of-Flight …",
         "pub_year": "2024",
-        "citation": "Environmental Science & Technology, 2024",
+        "citation": "Environmental Science & Technology 58 (27), 12113-12122, 2024",
         "num_citations": 0,
         "author_pub_id": "gFZ3W5wAAAAJ:69ZgNCALVd0C"
     },
@@ -269,7 +276,7 @@
         "title": "Charge, aspect ratio, and plant species affect uptake efficiency and translocation of polymeric agrochemical nanocarriers",
         "pub_year": "2023",
         "citation": "Environmental Science & Technology 57 (22), 8269-8279, 2023",
-        "num_citations": 16,
+        "num_citations": 18,
         "author_pub_id": "gFZ3W5wAAAAJ:U_HPUtbDl20C"
     },
     {
@@ -283,14 +290,14 @@
         "title": "Chemical transformations during aging of zerovalent iron nanoparticles in the presence of common groundwater dissolved constituents",
         "pub_year": "2010",
         "citation": "Environmental science & technology 44 (9), 3455-3461, 2010",
-        "num_citations": 271,
+        "num_citations": 273,
         "author_pub_id": "gFZ3W5wAAAAJ:dhFuZR0502QC"
     },
     {
         "title": "Chemistry of the acid neutralization capacity of bauxite residue",
         "pub_year": "2009",
         "citation": "Environmental Engineering Science 26 (5), 873-881, 2009",
-        "num_citations": 107,
+        "num_citations": 108,
         "author_pub_id": "gFZ3W5wAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -311,7 +318,7 @@
         "title": "Comparative Study of Effects of CO2 Concentration and pH on Microbial Communities from a Saline Aquifer, a Depleted Oil Reservoir, and a Freshwater Aquifer",
         "pub_year": "2016",
         "citation": "Environmental Engineering Science 33 (10), 806-816, 2016",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "gFZ3W5wAAAAJ:tuHXwOkdijsC"
     },
     {
@@ -325,7 +332,7 @@
         "title": "Comparative persistence of engineered nanoparticles in a complex aquatic ecosystem",
         "pub_year": "2018",
         "citation": "Environmental science & technology 52 (7), 4072-4078, 2018",
-        "num_citations": 71,
+        "num_citations": 72,
         "author_pub_id": "gFZ3W5wAAAAJ:umqufdRvDiIC"
     },
     {
@@ -353,7 +360,7 @@
         "title": "Congener-specific dechlorination of dissolved PCBs by microscale and nanoscale zerovalent iron in a water/methanol solution",
         "pub_year": "2004",
         "citation": "Environmental Science & Technology 38 (19), 5208-5216, 2004",
-        "num_citations": 498,
+        "num_citations": 501,
         "author_pub_id": "gFZ3W5wAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -381,35 +388,35 @@
         "title": "Correlation of the physicochemical properties of natural organic matter samples from different sources to their effects on gold nanoparticle aggregation in monovalent electrolyte",
         "pub_year": "2015",
         "citation": "Environmental science & technology 49 (4), 2188-2198, 2015",
-        "num_citations": 122,
+        "num_citations": 123,
         "author_pub_id": "gFZ3W5wAAAAJ:BUYA1_V_uYcC"
     },
     {
         "title": "Critical Review: Role of Inorganic Nanoparticle Properties on Their Foliar Uptake and in Planta Translocation",
         "pub_year": "2021",
         "citation": "Environmental science & technology 55 (20), 13417-13431, 2021",
-        "num_citations": 195,
+        "num_citations": 201,
         "author_pub_id": "gFZ3W5wAAAAJ:cK4Rrx0J3m0C"
     },
     {
         "title": "Critical review: impacts of macromolecular coatings on critical physicochemical processes controlling environmental fate of nanomaterials",
         "pub_year": "2016",
         "citation": "Environmental Science: Nano 3 (2), 283-310, 2016",
-        "num_citations": 182,
+        "num_citations": 183,
         "author_pub_id": "gFZ3W5wAAAAJ:Z5m8FVwuT1cC"
     },
     {
         "title": "CuO Nanoparticle Dissolution and Toxicity to Wheat (Triticum aestivum) in Rhizosphere Soil",
         "pub_year": "2018",
         "citation": "Environmental science & technology 52 (5), 2888-2897, 2018",
-        "num_citations": 166,
+        "num_citations": 171,
         "author_pub_id": "gFZ3W5wAAAAJ:a9-T7VOCCH8C"
     },
     {
         "title": "CuO nanoparticles alter the rhizospheric bacterial community and local nitrogen cycling for wheat grown in a calcareous soil",
         "pub_year": "2020",
         "citation": "Environmental science & technology 54 (14), 8699-8709, 2020",
-        "num_citations": 83,
+        "num_citations": 86,
         "author_pub_id": "gFZ3W5wAAAAJ:wMgC3FpKEyYC"
     },
     {
@@ -430,7 +437,7 @@
         "title": "Cysteine-induced modifications of zero-valent silver nanomaterials: implications for particle surface chemistry, aggregation, dissolution, and silver speciation",
         "pub_year": "2012",
         "citation": "Environmental science & technology 46 (13), 7037-7045, 2012",
-        "num_citations": 283,
+        "num_citations": 284,
         "author_pub_id": "gFZ3W5wAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -444,7 +451,7 @@
         "title": "Data Science for Advancing Environmental Science, Engineering, and Technology",
         "pub_year": "2023",
         "citation": "Environmental Science & Technology 57 (46), 17661-17662, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "gFZ3W5wAAAAJ:HhcuHIWmDEUC"
     },
     {
@@ -465,28 +472,28 @@
         "title": "Dechlorination mechanism of 2, 4-dichlorophenol by magnetic MWCNTs supported Pd/Fe nanohybrids: rapid adsorption, gradual dechlorination, and desorption of phenol",
         "pub_year": "2016",
         "citation": "ACS applied materials & interfaces 8 (11), 7333-7342, 2016",
-        "num_citations": 147,
+        "num_citations": 149,
         "author_pub_id": "gFZ3W5wAAAAJ:4MWp96NkSFoC"
     },
     {
         "title": "Decoupling Fe0 Application and Bioaugmentation in Space and Time Enables Microbial Reductive Dechlorination of Trichloroethene to Ethene: Evidence from Soil …",
         "pub_year": "2023",
         "citation": "Environmental Science & Technology 57 (10), 4167-4179, 2023",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "gFZ3W5wAAAAJ:QyXJ3EUuO1IC"
     },
     {
         "title": "Decreasing uncertainties in assessing environmental exposure, risk, and ecological implications of nanomaterials",
         "pub_year": "2009",
         "citation": "Environmental Science & Technology 43 (17), 6458-6462, 2009",
-        "num_citations": 446,
+        "num_citations": 447,
         "author_pub_id": "gFZ3W5wAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Degradation of well cement by CO2 under geologic sequestration conditions",
         "pub_year": "2007",
         "citation": "Environmental science & technology 41 (13), 4787-4792, 2007",
-        "num_citations": 672,
+        "num_citations": 677,
         "author_pub_id": "gFZ3W5wAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -514,7 +521,7 @@
         "title": "Development and placement of a sorbent-amended thin layer sediment cap in the Anacostia River",
         "pub_year": "2007",
         "citation": "Soil and Sediment Contamination: An International Journal 16 (3), 313-322, 2007",
-        "num_citations": 84,
+        "num_citations": 85,
         "author_pub_id": "gFZ3W5wAAAAJ:IWHjjKOFINEC"
     },
     {
@@ -542,14 +549,14 @@
         "title": "Distinguishing Engineered TiO2 Nanomaterials from Natural Ti Nanomaterials in Soil Using spICP-TOFMS and Machine Learning",
         "pub_year": "2022",
         "citation": "Environmental Science & Technology 56 (5), 2990-3001, 2022",
-        "num_citations": 29,
+        "num_citations": 31,
         "author_pub_id": "gFZ3W5wAAAAJ:-mN3Mh-tlDkC"
     },
     {
         "title": "Distributing sulfidized nanoscale zerovalent iron onto phosphorus-functionalized biochar for enhanced removal of antibiotic florfenicol",
         "pub_year": "2019",
         "citation": "Chemical Engineering Journal 359, 713-722, 2019",
-        "num_citations": 129,
+        "num_citations": 130,
         "author_pub_id": "gFZ3W5wAAAAJ:HtS1dXgVpQUC"
     },
     {
@@ -570,7 +577,7 @@
         "title": "Effect of CO2(aq) Exposure on a Freshwater Aquifer Microbial Community from Simulated Geologic Carbon Storage Leakage",
         "pub_year": "2014",
         "citation": "Environmental Science & Technology Letters 1 (12), 479-483, 2014",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "gFZ3W5wAAAAJ:zLWjf1WUPmwC"
     },
     {
@@ -584,7 +591,7 @@
         "title": "Effect of Chloride on the Dissolution Rate of Silver Nanoparticles and Toxicity to E. coli",
         "pub_year": "2013",
         "citation": "Environmental science & technology 47 (11), 5738-5745, 2013",
-        "num_citations": 458,
+        "num_citations": 463,
         "author_pub_id": "gFZ3W5wAAAAJ:R3hNpaxXUhUC"
     },
     {
@@ -597,7 +604,7 @@
         "title": "Effect of TCE concentration and dissolved groundwater solutes on NZVI-promoted TCE dechlorination and H2 evolution",
         "pub_year": "2007",
         "citation": "Environmental science & technology 41 (22), 7881-7887, 2007",
-        "num_citations": 410,
+        "num_citations": 413,
         "author_pub_id": "gFZ3W5wAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -611,14 +618,14 @@
         "title": "Effect of adsorbed polyelectrolytes on nanoscale zero valent iron particle attachment to soil surface models",
         "pub_year": "2009",
         "citation": "Environmental science & technology 43 (10), 3803-3808, 2009",
-        "num_citations": 173,
+        "num_citations": 174,
         "author_pub_id": "gFZ3W5wAAAAJ:M3ejUd6NZC8C"
     },
     {
         "title": "Effect of applied voltage, initial concentration, and natural organic matter on sequential reduction/oxidation of nitrobenzene by graphite electrodes",
         "pub_year": "2012",
         "citation": "Environmental science & technology 46 (11), 6174-6181, 2012",
-        "num_citations": 82,
+        "num_citations": 84,
         "author_pub_id": "gFZ3W5wAAAAJ:maZDTaKrznsC"
     },
     {
@@ -632,7 +639,7 @@
         "title": "Effect of emplaced nZVI mass and groundwater velocity on PCE dechlorination and hydrogen evolution in water-saturated sand",
         "pub_year": "2017",
         "citation": "Journal of hazardous materials 322, 136-144, 2017",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "gFZ3W5wAAAAJ:lmc2jWPfTJgC"
     },
     {
@@ -660,14 +667,14 @@
         "title": "Effect of kaolinite, silica fines and pH on transport of polymer-modified zero valent iron nano-particles in heterogeneous porous media",
         "pub_year": "2012",
         "citation": "Journal of colloid and interface science 370 (1), 1-10, 2012",
-        "num_citations": 229,
+        "num_citations": 230,
         "author_pub_id": "gFZ3W5wAAAAJ:hFOr9nPyWt4C"
     },
     {
         "title": "Effect of natural organic matter on toxicity and reactivity of nano-scale zero-valent iron",
         "pub_year": "2011",
         "citation": "water research 45 (5), 1995-2001, 2011",
-        "num_citations": 331,
+        "num_citations": 334,
         "author_pub_id": "gFZ3W5wAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -688,7 +695,7 @@
         "title": "Effect of particle age (Fe0 content) and solution pH on NZVI reactivity: H2 evolution and TCE dechlorination",
         "pub_year": "2006",
         "citation": "Environmental science & technology 40 (19), 6085-6090, 2006",
-        "num_citations": 555,
+        "num_citations": 557,
         "author_pub_id": "gFZ3W5wAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -709,14 +716,14 @@
         "title": "Effect of silver nanoparticle surface coating on bioaccumulation and reproductive toxicity in earthworms (Eisenia fetida)",
         "pub_year": "2011",
         "citation": "Nanotoxicology 5 (3), 432-444, 2011",
-        "num_citations": 251,
+        "num_citations": 252,
         "author_pub_id": "gFZ3W5wAAAAJ:_kc_bZDykSQC"
     },
     {
         "title": "Effect of soil organic matter, soil pH, and moisture content on solubility and dissolution rate of CuO NPs in soil",
         "pub_year": "2019",
         "citation": "Environmental science & technology 53 (9), 4959-4967, 2019",
-        "num_citations": 110,
+        "num_citations": 112,
         "author_pub_id": "gFZ3W5wAAAAJ:OP4eGU-M3BUC"
     },
     {
@@ -730,7 +737,7 @@
         "title": "Effects of molecular weight distribution and chemical properties of natural organic matter on gold nanoparticle aggregation",
         "pub_year": "2013",
         "citation": "Environmental science & technology 47 (9), 4245-4254, 2013",
-        "num_citations": 209,
+        "num_citations": 212,
         "author_pub_id": "gFZ3W5wAAAAJ:BqipwSGYUEgC"
     },
     {
@@ -778,7 +785,7 @@
         "title": "Electromagnetic induction of zerovalent iron (ZVI) powder and nanoscale zerovalent iron (NZVI) particles enhances dechlorination of trichloroethylene in contaminated …",
         "pub_year": "2016",
         "citation": "Environmental science & technology 50 (2), 872-880, 2016",
-        "num_citations": 88,
+        "num_citations": 89,
         "author_pub_id": "gFZ3W5wAAAAJ:KUbvn5osdkgC"
     },
     {
@@ -792,7 +799,7 @@
         "title": "Empirical correlations to estimate agglomerate size and deposition during injection of a polyelectrolyte-modified Fe0 nanoparticle at high particle concentration in saturated sand",
         "pub_year": "2010",
         "citation": "Journal of Contaminant Hydrology 118 (3-4), 152-164, 2010",
-        "num_citations": 121,
+        "num_citations": 122,
         "author_pub_id": "gFZ3W5wAAAAJ:_Qo2XoVZTnwC"
     },
     {
@@ -857,7 +864,7 @@
         "title": "Environmental impact of solution pH on the formation and migration of iron colloids in deep subsurface energy systems",
         "pub_year": "2023",
         "citation": "Science of the Total Environment 902, 166409, 2023",
-        "num_citations": 3,
+        "num_citations": 5,
         "author_pub_id": "gFZ3W5wAAAAJ:mKu_rENv82IC"
     },
     {
@@ -878,14 +885,14 @@
         "title": "Environmental transformations of silver nanoparticles: impact on stability and toxicity",
         "pub_year": "2012",
         "citation": "Environmental science & technology 46 (13), 6900-6914, 2012",
-        "num_citations": 1718,
+        "num_citations": 1728,
         "author_pub_id": "gFZ3W5wAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Estimating attachment of nano-and submicrometer-particles coated with organic macromolecules in porous media: development of an empirical model",
         "pub_year": "2010",
         "citation": "Environmental science & technology 44 (12), 4531-4538, 2010",
-        "num_citations": 191,
+        "num_citations": 192,
         "author_pub_id": "gFZ3W5wAAAAJ:9ZlFYXVOiuMC"
     },
     {
@@ -899,28 +906,28 @@
         "title": "Fate of zinc oxide and silver nanoparticles in a pilot wastewater treatment plant and in processed biosolids",
         "pub_year": "2014",
         "citation": "Environmental science & technology 48 (1), 104-112, 2014",
-        "num_citations": 381,
+        "num_citations": 384,
         "author_pub_id": "gFZ3W5wAAAAJ:GnPB-g6toBAC"
     },
     {
         "title": "Fe0 Nanoparticles Remain Mobile in Porous Media after Aging Due to Slow Desorption of Polymeric Surface Modifiers",
         "pub_year": "2009",
         "citation": "Environmental science & technology 43 (10), 3824-3830, 2009",
-        "num_citations": 194,
+        "num_citations": 195,
         "author_pub_id": "gFZ3W5wAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "Field evaluation of bauxite residue neutralization by carbon dioxide, vegetation, and organic amendments",
         "pub_year": "2010",
         "citation": "Journal of Environmental Engineering 136 (10), 1045-1053, 2010",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "gFZ3W5wAAAAJ:vV6vV6tmYwMC"
     },
     {
         "title": "Field-scale transport and transformation of carboxymethylcellulose-stabilized nano zero-valent iron",
         "pub_year": "2013",
         "citation": "Environmental science & technology 47 (3), 1573-1580, 2013",
-        "num_citations": 233,
+        "num_citations": 235,
         "author_pub_id": "gFZ3W5wAAAAJ:r0BpntZqJG4C"
     },
     {
@@ -934,7 +941,7 @@
         "title": "From mouse to mouse‐ear cress: Nanomaterials as vehicles in plant biotechnology",
         "pub_year": "2021",
         "citation": "Exploration 1 (1), 9-20, 2021",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "gFZ3W5wAAAAJ:1taIhTC69MYC"
     },
     {
@@ -955,7 +962,7 @@
         "title": "Graphite nanoparticle addition to fertilizers reduces nitrate leaching in growth of lettuce (Lactuca sativa)",
         "pub_year": "2020",
         "citation": "Environmental Science: Nano 7 (1), 127-138, 2020",
-        "num_citations": 34,
+        "num_citations": 38,
         "author_pub_id": "gFZ3W5wAAAAJ:5icHVeHT4IsC"
     },
     {
@@ -969,21 +976,21 @@
         "title": "Groundwater solutes influence the adsorption of short-chain perfluoroalkyl acids (PFAA) to colloidal activated carbon and impact performance for in situ groundwater remediation",
         "pub_year": "2024",
         "citation": "Journal of Hazardous Materials, 134746, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "gFZ3W5wAAAAJ:DkZNVXde3BIC"
     },
     {
         "title": "Guidance to improve the scientific value of zeta-potential measurements in nanoEHS",
         "pub_year": "2016",
         "citation": "Environmental Science: Nano 3 (5), 953-965, 2016",
-        "num_citations": 444,
+        "num_citations": 453,
         "author_pub_id": "gFZ3W5wAAAAJ:hMsQuOkrut0C"
     },
     {
         "title": "Guiding the design space for nanotechnology to advance sustainable crop production",
         "pub_year": "2020",
         "citation": "Nature nanotechnology 15 (9), 801-810, 2020",
-        "num_citations": 165,
+        "num_citations": 166,
         "author_pub_id": "gFZ3W5wAAAAJ:buQ7SEKw-1sC"
     },
     {
@@ -997,7 +1004,7 @@
         "title": "High molecular weight components of natural organic matter preferentially adsorb onto nanoscale zero valent iron and magnetite",
         "pub_year": "2018",
         "citation": "Science of the Total Environment 628, 177-185, 2018",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "gFZ3W5wAAAAJ:XvxMoLDsR5gC"
     },
     {
@@ -1018,7 +1025,7 @@
         "title": "Hydrodehalogenation of 1-to 3-carbon halogenated organic compounds in water using a palladium catalyst and hydrogen gas",
         "pub_year": "1999",
         "citation": "Environmental Science & Technology 33 (11), 1905-1910, 1999",
-        "num_citations": 292,
+        "num_citations": 294,
         "author_pub_id": "gFZ3W5wAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -1046,14 +1053,14 @@
         "title": "Hydrophobic interactions increase attachment of gum arabic-and PVP-coated Ag nanoparticles to hydrophobic surfaces",
         "pub_year": "2011",
         "citation": "Environmental science & technology 45 (14), 5988-5995, 2011",
-        "num_citations": 183,
+        "num_citations": 185,
         "author_pub_id": "gFZ3W5wAAAAJ:-f6ydRqryjwC"
     },
     {
         "title": "IN SITU Chemical Reduction For Source Remediation",
         "pub_year": "2014",
         "citation": "Chlorinated Solvent Source Zone Remediation, 307-351, 2014",
-        "num_citations": 36,
+        "num_citations": 38,
         "author_pub_id": "gFZ3W5wAAAAJ:b0M2c_1WBrUC"
     },
     {
@@ -1074,7 +1081,7 @@
         "title": "Impact of Surface Charge on Cerium Oxide Nanoparticle Uptake and Translocation by Wheat (Triticum aestivum)",
         "pub_year": "2017",
         "citation": "Environmental Science & Technology 51 (13), 7361-7368, 2017",
-        "num_citations": 169,
+        "num_citations": 173,
         "author_pub_id": "gFZ3W5wAAAAJ:_axFR9aDTf0C"
     },
     {
@@ -1102,7 +1109,7 @@
         "title": "Impact of polymer molecular weight on the efficiency of temperature swing solvent extraction for desalination of concentrated brines",
         "pub_year": "2022",
         "citation": "Desalination 543, 116104, 2022",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "gFZ3W5wAAAAJ:AXkvAH5U_nMC"
     },
     {
@@ -1137,7 +1144,7 @@
         "title": "In situ remediation of subsurface contamination: opportunities and challenges for nanotechnology and advanced materials",
         "pub_year": "2019",
         "citation": "Environmental Science: Nano 6 (5), 1283-1302, 2019",
-        "num_citations": 121,
+        "num_citations": 122,
         "author_pub_id": "gFZ3W5wAAAAJ:nZcligLrVowC"
     },
     {
@@ -1192,7 +1199,7 @@
         "title": "Iron and sulfur precursors affect crystalline structure, speciation, and reactivity of sulfidized nanoscale zerovalent iron",
         "pub_year": "2020",
         "citation": "Environmental science & technology 54 (20), 13294-13303, 2020",
-        "num_citations": 146,
+        "num_citations": 149,
         "author_pub_id": "gFZ3W5wAAAAJ:lgwcVrK6X84C"
     },
     {
@@ -1206,15 +1213,22 @@
         "title": "Knowledge and Instance Mapping: architecture for premeditated interoperability of disparate data for materials",
         "pub_year": "2024",
         "citation": "Scientific Data 11 (1), 173, 2024",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "gFZ3W5wAAAAJ:5bg8sr1QxYwC"
     },
     {
         "title": "Lattice engineered nanoscale Fe0 for selective reductions",
         "pub_year": "2024",
         "citation": "Nature Water 2 (1), 84-92, 2024",
-        "num_citations": 5,
+        "num_citations": 10,
         "author_pub_id": "gFZ3W5wAAAAJ:F2UWTTQJPOcC"
+    },
+    {
+        "title": "Lattice-sulfur-impregnated zero-valent iron crystals for long-term metal encapsulation",
+        "pub_year": "2024",
+        "citation": "Nature Sustainability, 1-9, 2024",
+        "num_citations": 0,
+        "author_pub_id": "gFZ3W5wAAAAJ:wvYxNZNCP7wC"
     },
     {
         "title": "Life cycle considerations of nano-enabled agrochemicals: are today's tools up to the task?",
@@ -1255,21 +1269,21 @@
         "title": "Measurement and Modeling of Setschenow Constants for Selected Hydrophilic Compounds in NaCl and CaCl2 Simulated Carbon Storage Brines",
         "pub_year": "2017",
         "citation": "Accounts of Chemical Research 50 (6), 1332-1341, 2017",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "gFZ3W5wAAAAJ:rmuvC79q63oC"
     },
     {
         "title": "Measurement of Setschenow constants for six hydrophobic compounds in simulated brines and use in predictive modeling for oil and gas systems",
         "pub_year": "2016",
         "citation": "Chemosphere 144, 2247-2256, 2016",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "gFZ3W5wAAAAJ:e_rmSamDkqQC"
     },
     {
         "title": "Mechanisms of neutralization of bauxite residue by carbon dioxide",
         "pub_year": "2009",
         "citation": "Journal of Environmental Engineering 135 (6), 433-438, 2009",
-        "num_citations": 117,
+        "num_citations": 118,
         "author_pub_id": "gFZ3W5wAAAAJ:HDshCWvjkbEC"
     },
     {
@@ -1332,7 +1346,7 @@
         "title": "Mobility of four common mercury species in model and natural unsaturated soils",
         "pub_year": "2016",
         "citation": "Environmental science & technology 50 (7), 3342-3351, 2016",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "gFZ3W5wAAAAJ:tYavs44e6CUC"
     },
     {
@@ -1346,7 +1360,7 @@
         "title": "Modeling nanomaterial environmental fate in aquatic systems",
         "pub_year": "2015",
         "citation": "Environmental science & technology 49 (5), 2587-2593, 2015",
-        "num_citations": 323,
+        "num_citations": 324,
         "author_pub_id": "gFZ3W5wAAAAJ:URolC5Kub84C"
     },
     {
@@ -1415,28 +1429,28 @@
         "title": "Nanomaterial transport, transformation, and fate in the environment",
         "pub_year": "2009",
         "citation": "Nanomaterials: risks and benefits, 125-137, 2009",
-        "num_citations": 67,
+        "num_citations": 68,
         "author_pub_id": "gFZ3W5wAAAAJ:kuK5TVdYjLIC"
     },
     {
         "title": "Nanomaterials for groundwater remediation",
         "pub_year": "2007",
         "citation": "Environmental nanotechnology: applications and impacts of nanomaterials, 2007",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "gFZ3W5wAAAAJ:JV2RwH3_ST0C"
     },
     {
         "title": "Nanomaterials in biosolids inhibit nodulation, shift microbial community composition, and result in increased metal uptake relative to bulk/dissolved metals",
         "pub_year": "2015",
         "citation": "Environmental science & technology 49 (14), 8751-8758, 2015",
-        "num_citations": 112,
+        "num_citations": 114,
         "author_pub_id": "gFZ3W5wAAAAJ:ipzZ9siozwsC"
     },
     {
         "title": "Nanoparticle aggregation: challenges to understanding transport and reactivity in the environment",
         "pub_year": "2010",
         "citation": "Journal of environmental quality 39 (6), 1909-1924, 2010",
-        "num_citations": 1367,
+        "num_citations": 1378,
         "author_pub_id": "gFZ3W5wAAAAJ:TIZ-Mc8IlK0C"
     },
     {
@@ -1450,14 +1464,14 @@
         "title": "Nanoparticle size and coating chemistry control foliar uptake pathways, translocation, and leaf-to-rhizosphere transport in wheat",
         "pub_year": "2019",
         "citation": "ACS nano 13 (5), 5291-5305, 2019",
-        "num_citations": 375,
+        "num_citations": 385,
         "author_pub_id": "gFZ3W5wAAAAJ:GFxP56DSvIMC"
     },
     {
         "title": "Nanoparticle surface charge influences translocation and leaf distribution in vascular plants with contrasting anatomy",
         "pub_year": "2019",
         "citation": "Environmental Science: Nano 6 (8), 2508-2519, 2019",
-        "num_citations": 120,
+        "num_citations": 122,
         "author_pub_id": "gFZ3W5wAAAAJ:u-coK7KVo8oC"
     },
     {
@@ -1485,7 +1499,7 @@
         "title": "Nanotechnology for sustainable food production: promising opportunities and scientific challenges",
         "pub_year": "2017",
         "citation": "Environmental Science: Nano 4 (4), 767-781, 2017",
-        "num_citations": 306,
+        "num_citations": 307,
         "author_pub_id": "gFZ3W5wAAAAJ:q3CdL3IzO_QC"
     },
     {
@@ -1520,7 +1534,7 @@
         "title": "Nontarget analysis and fluorine atom balances of transformation products from UV/sulfite degradation of perfluoroalkyl contaminants",
         "pub_year": "2023",
         "citation": "Environmental Science: Processes & Impacts 25 (3), 472-483, 2023",
-        "num_citations": 2,
+        "num_citations": 4,
         "author_pub_id": "gFZ3W5wAAAAJ:HGTzPopzzJcC"
     },
     {
@@ -1533,21 +1547,21 @@
         "title": "Oil-in-water emulsions stabilized by highly charged polyelectrolyte-grafted silica nanoparticles",
         "pub_year": "2005",
         "citation": "Langmuir 21 (22), 9873-9878, 2005",
-        "num_citations": 254,
+        "num_citations": 256,
         "author_pub_id": "gFZ3W5wAAAAJ:KlAtU1dfN6UC"
     },
     {
         "title": "Online grocery delivery: Sustainable practice, or congestion generator and environmental burden?",
         "pub_year": "2023",
         "citation": "Transportation Research Part D: Transport and Environment 119, 103722, 2023",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "gFZ3W5wAAAAJ:PyEswDtIyv0C"
     },
     {
         "title": "Opportunities and challenges for nanotechnology in the agri-tech revolution",
         "pub_year": "2019",
         "citation": "Nature nanotechnology 14 (6), 517-522, 2019",
-        "num_citations": 731,
+        "num_citations": 746,
         "author_pub_id": "gFZ3W5wAAAAJ:ZzlSgRqYykMC"
     },
     {
@@ -1575,7 +1589,7 @@
         "title": "PCE dissolution and simultaneous dechlorination by nanoscale zero-valent iron particles in a DNAPL source zone",
         "pub_year": "2012",
         "citation": "Journal of contaminant hydrology 131 (1-4), 9-28, 2012",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "gFZ3W5wAAAAJ:RYcK_YlVTxYC"
     },
     {
@@ -1596,7 +1610,7 @@
         "title": "Partial oxidation (“aging”) and surface modification decrease the toxicity of nanosized zerovalent iron",
         "pub_year": "2009",
         "citation": "Environmental science & technology 43 (1), 195-200, 2009",
-        "num_citations": 370,
+        "num_citations": 371,
         "author_pub_id": "gFZ3W5wAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -1610,7 +1624,7 @@
         "title": "Particle-Scale Understanding of Arsenic Interactions with Sulfidized Nanoscale Zerovalent Iron and Their Impacts on Dehalogenation Reactivity",
         "pub_year": "2023",
         "citation": "Environmental Science & Technology 57 (51), 21917-21926, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "gFZ3W5wAAAAJ:3bvyWxjaHKcC"
     },
     {
@@ -1652,35 +1666,35 @@
         "title": "Pd-Catalyzed TCE Dechlorination in Water:  Effect of [H2](aq) and H2-Utilizing Competitive Solutes on the TCE Dechlorination Rate and Product Distribution",
         "pub_year": "2001",
         "citation": "Environmental science & technology 35 (4), 696-702, 2001",
-        "num_citations": 131,
+        "num_citations": 132,
         "author_pub_id": "gFZ3W5wAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "Pd-catalyzed TCE dechlorination in groundwater: Solute effects, biological control, and oxidative catalyst regeneration",
         "pub_year": "2000",
         "citation": "Environmental science & technology 34 (15), 3217-3223, 2000",
-        "num_citations": 236,
+        "num_citations": 238,
         "author_pub_id": "gFZ3W5wAAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "Persistence of copper-based nanoparticle-containing foliar sprays in Lactuca sativa (lettuce) characterized by spICP-MS",
         "pub_year": "2019",
         "citation": "Journal of Nanoparticle Research 21, 1-13, 2019",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "gFZ3W5wAAAAJ:5MTHONV0fEkC"
     },
     {
         "title": "Phosphate polymer nanogel for selective and efficient rare earth element recovery",
         "pub_year": "2021",
         "citation": "Environmental Science & Technology 55 (18), 12549-12560, 2021",
-        "num_citations": 31,
+        "num_citations": 33,
         "author_pub_id": "gFZ3W5wAAAAJ:kw52XkFRtyQC"
     },
     {
         "title": "Photolysis of Dissolved Organic Matter over Hematite Nanoplatelets",
         "pub_year": "2024",
         "citation": "Environmental Science & Technology 58 (6), 2798-2807, 2024",
-        "num_citations": 1,
+        "num_citations": 3,
         "author_pub_id": "gFZ3W5wAAAAJ:-nhnvRiOwuoC"
     },
     {
@@ -1733,6 +1747,13 @@
         "author_pub_id": "gFZ3W5wAAAAJ:isC4tDSrTZIC"
     },
     {
+        "title": "Polymeric Nanocarriers Autonomously Cross the Plant Cell Wall and Enable Protein Delivery for Stress Sensing",
+        "pub_year": "2024",
+        "citation": "Advanced Materials, 2409356, 2024",
+        "num_citations": 0,
+        "author_pub_id": "gFZ3W5wAAAAJ:PkcyUWeTMh0C"
+    },
+    {
         "title": "Porewater Mercury, Particle Size and Mercury Speciation as Predictors for Mercury Methylation in Aquatic Sediments",
         "pub_year": "2022",
         "citation": "2022 Goldschmidt Conference, 2022",
@@ -1757,7 +1778,7 @@
         "title": "Predicting the performance of activated carbon-, coke-, and soil-amended thin layer sediment caps",
         "pub_year": "2006",
         "citation": "Journal of Environmental Engineering 132 (7), 787-794, 2006",
-        "num_citations": 115,
+        "num_citations": 116,
         "author_pub_id": "gFZ3W5wAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -1784,7 +1805,7 @@
         "title": "Progress towards standardized and validated characterizations for measuring physicochemical properties of manufactured nanomaterials relevant to nano health and safety risks",
         "pub_year": "2018",
         "citation": "NanoImpact 9, 14-30, 2018",
-        "num_citations": 163,
+        "num_citations": 164,
         "author_pub_id": "gFZ3W5wAAAAJ:bz8QjSJIRt4C"
     },
     {
@@ -1798,7 +1819,7 @@
         "title": "Protein coating composition targets nanoparticles to leaf stomata and trichomes",
         "pub_year": "2020",
         "citation": "Nanoscale 12 (6), 3630-3636, 2020",
-        "num_citations": 64,
+        "num_citations": 65,
         "author_pub_id": "gFZ3W5wAAAAJ:2tRrZ1ZAMYUC"
     },
     {
@@ -1819,7 +1840,7 @@
         "title": "Rate of CO2 Attack on Hydrated Class H Well Cement under Geologic Sequestration Conditions",
         "pub_year": "2008",
         "citation": "Environmental science & technology 42 (16), 6237-6242, 2008",
-        "num_citations": 340,
+        "num_citations": 344,
         "author_pub_id": "gFZ3W5wAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -1833,7 +1854,7 @@
         "title": "Reactivity, selectivity, and long-term performance of sulfidized nanoscale zerovalent iron with different properties",
         "pub_year": "2019",
         "citation": "Environmental science & technology 53 (10), 5936-5945, 2019",
-        "num_citations": 224,
+        "num_citations": 227,
         "author_pub_id": "gFZ3W5wAAAAJ:Ehil0879vHcC"
     },
     {
@@ -1847,14 +1868,14 @@
         "title": "Reduction in bacterial contamination of hospital textiles by a novel silver-based laundry treatment",
         "pub_year": "2016",
         "citation": "American Journal of Infection Control 44 (12), 1705-1708, 2016",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "gFZ3W5wAAAAJ:MLfJN-KU85MC"
     },
     {
         "title": "Reductive dissolution of arsenic-bearing ferrihydrite",
         "pub_year": "2010",
         "citation": "Geochimica et Cosmochimica Acta 74 (12), 3382-3395, 2010",
-        "num_citations": 111,
+        "num_citations": 117,
         "author_pub_id": "gFZ3W5wAAAAJ:4JMBOYKVnBMC"
     },
     {
@@ -1868,7 +1889,7 @@
         "title": "Removal of antibiotic florfenicol by sulfide-modified nanoscale zero-valent iron",
         "pub_year": "2017",
         "citation": "Environmental Science & Technology 51 (19), 11269-11277, 2017",
-        "num_citations": 273,
+        "num_citations": 275,
         "author_pub_id": "gFZ3W5wAAAAJ:kh2fBNsKQNwC"
     },
     {
@@ -1882,7 +1903,7 @@
         "title": "Research strategy to determine when novel nanohybrids pose unique environmental risks",
         "pub_year": "2015",
         "citation": "Environmental Science: Nano 2 (1), 11-18, 2015",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "gFZ3W5wAAAAJ:0KyAp5RtaNEC"
     },
     {
@@ -1896,7 +1917,7 @@
         "title": "Results of an interlaboratory comparison for characterization of Pt nanoparticles using single-particle ICP-TOFMS",
         "pub_year": "2023",
         "citation": "Nanoscale 15 (26), 11268-11279, 2023",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "gFZ3W5wAAAAJ:sszUF3NjhM4C"
     },
     {
@@ -1910,8 +1931,15 @@
         "title": "Selective oxidation of bromide in wastewater brines from hydraulic fracturing",
         "pub_year": "2013",
         "citation": "water research 47 (11), 3723-3731, 2013",
-        "num_citations": 73,
+        "num_citations": 75,
         "author_pub_id": "gFZ3W5wAAAAJ:3s1wT3WcHBgC"
+    },
+    {
+        "title": "Shaping the ES&T Research Community: Seeking Nominations for the ES&T Early Career Board",
+        "pub_year": "2024",
+        "citation": "Environmental Science & Technology, 2024",
+        "num_citations": 0,
+        "author_pub_id": "gFZ3W5wAAAAJ:JTqpx9DYBaYC"
     },
     {
         "title": "Single-particle metal fingerprint analysis and machine learning pipeline for source apportionment of metal-containing fine particles in air",
@@ -1931,7 +1959,7 @@
         "title": "Size-controlled dissolution of organic-coated silver nanoparticles",
         "pub_year": "2012",
         "citation": "Environmental science & technology 46 (2), 752-759, 2012",
-        "num_citations": 477,
+        "num_citations": 479,
         "author_pub_id": "gFZ3W5wAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -1959,7 +1987,7 @@
         "title": "Speciation Matters: Bioavailability of Silver and Silver Sulfide Nanoparticles to Alfalfa (Medicago sativa)",
         "pub_year": "2015",
         "citation": "Environmental science & technology 49 (14), 8451-8460, 2015",
-        "num_citations": 125,
+        "num_citations": 126,
         "author_pub_id": "gFZ3W5wAAAAJ:uWiczbcajpAC"
     },
     {
@@ -1979,21 +2007,21 @@
         "title": "Stabilization of aqueous nanoscale zerovalent iron dispersions by anionic polyelectrolytes: adsorbed anionic polyelectrolyte layer properties and their effect on aggregation …",
         "pub_year": "2008",
         "citation": "Journal of Nanoparticle Research 10, 795-814, 2008",
-        "num_citations": 622,
+        "num_citations": 626,
         "author_pub_id": "gFZ3W5wAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "Star polymer size, charge content, and hydrophobicity affect their leaf uptake and translocation in plants",
         "pub_year": "2021",
         "citation": "Environmental Science & Technology 55 (15), 10758-10768, 2021",
-        "num_citations": 45,
+        "num_citations": 48,
         "author_pub_id": "gFZ3W5wAAAAJ:IaI1MmNe2tcC"
     },
     {
         "title": "Star polymers with designed reactive oxygen species scavenging and agent delivery functionality promote plant stress tolerance",
         "pub_year": "2022",
         "citation": "ACS nano 16 (3), 4467-4478, 2022",
-        "num_citations": 36,
+        "num_citations": 40,
         "author_pub_id": "gFZ3W5wAAAAJ:yxmsSjX2EkcC"
     },
     {
@@ -2014,35 +2042,35 @@
         "title": "Sulfidation mechanism for zinc oxide nanoparticles and the effect of sulfidation on their solubility",
         "pub_year": "2013",
         "citation": "Environmental science & technology 47 (6), 2527-2534, 2013",
-        "num_citations": 191,
+        "num_citations": 192,
         "author_pub_id": "gFZ3W5wAAAAJ:TFP_iSt0sucC"
     },
     {
         "title": "Sulfidation of Silver Nanoparticles Decreases Escherichia coli Growth Inhibition",
         "pub_year": "2012",
         "citation": "Environmental science & technology 46 (13), 6992-7000, 2012",
-        "num_citations": 326,
+        "num_citations": 328,
         "author_pub_id": "gFZ3W5wAAAAJ:QIV2ME_5wuYC"
     },
     {
         "title": "Sulfidation of copper oxide nanoparticles and properties of resulting copper sulfide",
         "pub_year": "2014",
         "citation": "Environmental Science: Nano 1 (4), 347-357, 2014",
-        "num_citations": 126,
+        "num_citations": 129,
         "author_pub_id": "gFZ3W5wAAAAJ:NJ774b8OgUMC"
     },
     {
         "title": "Sulfidation of silver nanoparticles: natural antidote to their toxicity",
         "pub_year": "2013",
         "citation": "Environmental science & technology 47 (23), 13440-13448, 2013",
-        "num_citations": 455,
+        "num_citations": 459,
         "author_pub_id": "gFZ3W5wAAAAJ:hMod-77fHWUC"
     },
     {
         "title": "Sulfidation processes of PVP-coated silver nanoparticles in aqueous solution: impact on dissolution rate",
         "pub_year": "2011",
         "citation": "Environmental science & technology 45 (12), 5260-5266, 2011",
-        "num_citations": 561,
+        "num_citations": 563,
         "author_pub_id": "gFZ3W5wAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -2056,21 +2084,21 @@
         "title": "Sulfidized nanoscale zero-valent iron: tuning the properties of this complex material for efficient groundwater remediation",
         "pub_year": "2021",
         "citation": "Accounts of Materials Research 2 (6), 420-431, 2021",
-        "num_citations": 107,
+        "num_citations": 113,
         "author_pub_id": "gFZ3W5wAAAAJ:LdasjJ6CEcoC"
     },
     {
         "title": "Sulfur dose and sulfidation time affect reactivity and selectivity of post-sulfidized nanoscale zerovalent iron",
         "pub_year": "2019",
         "citation": "Environmental Science & Technology 53 (22), 13344-13352, 2019",
-        "num_citations": 133,
+        "num_citations": 135,
         "author_pub_id": "gFZ3W5wAAAAJ:gVv57TyPmFsC"
     },
     {
         "title": "Sulfur loading and speciation control the hydrophobicity, electron transfer, reactivity, and selectivity of sulfidized nanoscale zerovalent iron",
         "pub_year": "2020",
         "citation": "Advanced Materials 32 (17), 1906910, 2020",
-        "num_citations": 251,
+        "num_citations": 256,
         "author_pub_id": "gFZ3W5wAAAAJ:0CzhzZyukY4C"
     },
     {
@@ -2095,7 +2123,7 @@
         "title": "Surface modifications enhance nanoiron transport and NAPL targeting in saturated porous media",
         "pub_year": "2007",
         "citation": "Environmental engineering science 24 (1), 45-57, 2007",
-        "num_citations": 553,
+        "num_citations": 554,
         "author_pub_id": "gFZ3W5wAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -2116,42 +2144,42 @@
         "title": "TCE dechlorination rates, pathways, and efficiency of nanoscale iron particles with different properties",
         "pub_year": "2005",
         "citation": "Environmental science & technology 39 (5), 1338-1345, 2005",
-        "num_citations": 995,
+        "num_citations": 998,
         "author_pub_id": "gFZ3W5wAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Targeted Delivery of Sucrose‐Coated Nanocarriers with Chemical Cargoes to the Plant Vasculature Enhances Long‐Distance Translocation",
         "pub_year": "2024",
         "citation": "Small 20 (7), 2304588, 2024",
-        "num_citations": 4,
+        "num_citations": 8,
         "author_pub_id": "gFZ3W5wAAAAJ:uVUOdF_882EC"
     },
     {
         "title": "Technology readiness and overcoming barriers to sustainably implement nanotechnology-enabled plant agriculture",
         "pub_year": "2020",
         "citation": "Nature Food 1 (7), 416-425, 2020",
-        "num_citations": 311,
+        "num_citations": 318,
         "author_pub_id": "gFZ3W5wAAAAJ:CaZNVDsoPx4C"
     },
     {
         "title": "Temperature- and pH-Responsive Star Polymers as Nanocarriers with Potential for in Vivo Agrochemical Delivery",
         "pub_year": "2020",
         "citation": "ACS nano 14 (9), 10954-10965, 2020",
-        "num_citations": 119,
+        "num_citations": 125,
         "author_pub_id": "gFZ3W5wAAAAJ:otzGkya1bYkC"
     },
     {
         "title": "Temperature-Responsive Bottlebrush Polymers Deliver a Stress-Regulating Agent In Vivo for Prolonged Plant Heat Stress Mitigation",
         "pub_year": "2023",
         "citation": "ACS Sustainable Chemistry & Engineering 11 (8), 3346-3358, 2023",
-        "num_citations": 12,
+        "num_citations": 14,
         "author_pub_id": "gFZ3W5wAAAAJ:OBSaB-F7qqsC"
     },
     {
         "title": "Temporal Evolution of Copper Distribution and Speciation in Roots of Triticum aestivum Exposed to CuO, Cu(OH)2, and CuS Nanoparticles",
         "pub_year": "2018",
         "citation": "Environmental science & technology 52 (17), 9777-9784, 2018",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "gFZ3W5wAAAAJ:9c2xU6iGI7YC"
     },
     {
@@ -2186,7 +2214,7 @@
         "title": "Thermal decomposition of nano-enabled thermoplastics: possible environmental health and safety implications",
         "pub_year": "2016",
         "citation": "Journal of hazardous materials 305, 87-95, 2016",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "gFZ3W5wAAAAJ:ML0RJ9NH7IQC"
     },
     {
@@ -2207,7 +2235,7 @@
         "title": "Time-dependent bacterial transcriptional response to CuO nanoparticles differs from that of Cu 2+ and provides insights into CuO nanoparticle toxicity mechanisms",
         "pub_year": "2017",
         "citation": "Environmental Science: Nano 4 (12), 2321-2335, 2017",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "gFZ3W5wAAAAJ:GtLg2Ama23sC"
     },
     {
@@ -2220,7 +2248,7 @@
         "title": "Titanium dioxide (P25) produces reactive oxygen species in immortalized brain microglia (BV2): implications for nanoparticle neurotoxicity",
         "pub_year": "2006",
         "citation": "Environmental science & technology 40 (14), 4346-4352, 2006",
-        "num_citations": 1123,
+        "num_citations": 1124,
         "author_pub_id": "gFZ3W5wAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -2234,7 +2262,7 @@
         "title": "Towards a definition of inorganic nanoparticles from an environmental, health and safety perspective",
         "pub_year": "2009",
         "citation": "Nature nanotechnology 4 (10), 634-641, 2009",
-        "num_citations": 2357,
+        "num_citations": 2364,
         "author_pub_id": "gFZ3W5wAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -2248,7 +2276,7 @@
         "title": "Towards realizing nano-enabled precision delivery in plants",
         "pub_year": "2024",
         "citation": "Nature Nanotechnology, 1-15, 2024",
-        "num_citations": 2,
+        "num_citations": 6,
         "author_pub_id": "gFZ3W5wAAAAJ:rTD5ala9j4wC"
     },
     {
@@ -2262,7 +2290,7 @@
         "title": "Transformations of nanomaterials in the environment",
         "pub_year": "2012",
         "citation": "Environmental science & technology 46 (13), 6893-6899, 2012",
-        "num_citations": 1326,
+        "num_citations": 1339,
         "author_pub_id": "gFZ3W5wAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -2289,7 +2317,7 @@
         "title": "Transport and Deposition of Polymer-Modified Fe0 Nanoparticles in 2-D Heterogeneous Porous Media: Effects of Particle Concentration, Fe0 Content, and Coatings",
         "pub_year": "2010",
         "citation": "Environmental science & technology 44 (23), 9086-9093, 2010",
-        "num_citations": 169,
+        "num_citations": 171,
         "author_pub_id": "gFZ3W5wAAAAJ:hC7cP41nSMkC"
     },
     {
@@ -2352,21 +2380,21 @@
         "title": "Unveiling the role of sulfur in rapid defluorination of florfenicol by sulfidized nanoscale zero-valent iron in water under ambient conditions",
         "pub_year": "2021",
         "citation": "Environmental Science & Technology 55 (4), 2628-2638, 2021",
-        "num_citations": 101,
+        "num_citations": 105,
         "author_pub_id": "gFZ3W5wAAAAJ:v1_lew4L6wgC"
     },
     {
         "title": "Uptake and Distribution of Silver in the Aquatic Plant Landoltia punctata (Duckweed) Exposed to Silver and Silver Sulfide Nanoparticles",
         "pub_year": "2017",
         "citation": "Environmental science & technology 51 (9), 4936-4943, 2017",
-        "num_citations": 85,
+        "num_citations": 88,
         "author_pub_id": "gFZ3W5wAAAAJ:0N-VGjzr574C"
     },
     {
         "title": "Using CaO-and MgO-rich industrial waste streams for carbon sequestration",
         "pub_year": "2005",
         "citation": "Energy Conversion and Management 46 (5), 687-699, 2005",
-        "num_citations": 294,
+        "num_citations": 301,
         "author_pub_id": "gFZ3W5wAAAAJ:Se3iqnhoufwC"
     },
     {

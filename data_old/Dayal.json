@@ -3,7 +3,7 @@
         "title": "A 3D phase field dislocation dynamics model for body-centered cubic crystals",
         "pub_year": "2020",
         "citation": "Computational Materials Science 171, 109217, 2020",
-        "num_citations": 34,
+        "num_citations": 36,
         "author_pub_id": "DquTIDQAAAAJ:wBLCggQE-ToC"
     },
     {
@@ -31,7 +31,7 @@
         "title": "A Dynamic Phase-field Model for Structural Transformations and Twinning: Regularized Interfaces with Transparent Prescription of Complex Kinetics and Nucleation. Part II: Two …",
         "pub_year": "2015",
         "citation": "J. Mech. Phys. Solids 85, 291-307, 2015",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "DquTIDQAAAAJ:tBlTYpvFGQIC"
     },
     {
@@ -72,7 +72,7 @@
         "title": "A dynamic phase-field model for structural transformations and twinning: Regularized interfaces with transparent prescription of complex kinetics and nucleation. Part I …",
         "pub_year": "2015",
         "citation": "Journal of the Mechanics and Physics of Solids 85, 270-290, 2015",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "DquTIDQAAAAJ:sgsej9ZJWHMC"
     },
     {
@@ -100,7 +100,7 @@
         "title": "A real-space non-local phase-field model of ferroelectric domain patterns in complex geometries",
         "pub_year": "2007",
         "citation": "Acta materialia 55 (6), 1907-1917, 2007",
-        "num_citations": 111,
+        "num_citations": 114,
         "author_pub_id": "DquTIDQAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -113,7 +113,7 @@
         "title": "Accretion and ablation in deformable solids with an Eulerian description: examples using the method of characteristics",
         "pub_year": "2022",
         "citation": "Mathematics and Mechanics of Solids 27 (6), 989-1010, 2022",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "DquTIDQAAAAJ:GiYFt9mpioMC"
     },
     {
@@ -141,7 +141,7 @@
         "title": "Architected elastomer networks for optimal electromechanical response",
         "pub_year": "2021",
         "citation": "Journal of the Mechanics and Physics of Solids 146, 104171, 2021",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "DquTIDQAAAAJ:VnuxuLaQPLMC"
     },
     {
@@ -190,7 +190,7 @@
         "title": "Challenges and Opportunities for Multi-functional Oxide Thin films for Voltage Tunable RF / Microwave Components",
         "pub_year": "2013",
         "citation": "Journal of Applied Physics (Applied Physics Reviews) 114 (191301), 2013",
-        "num_citations": 201,
+        "num_citations": 203,
         "author_pub_id": "DquTIDQAAAAJ:4DMP91E08xMC"
     },
     {
@@ -238,28 +238,28 @@
         "title": "Crack nucleation at forging flaws studied by non-local peridynamics simulations",
         "pub_year": "2022",
         "citation": "Mathematics and Mechanics of Solids 27 (6), 1129-1149, 2022",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "DquTIDQAAAAJ:GJVTs2krol4C"
     },
     {
         "title": "Crack nucleation from non-metallic inclusions in aluminum alloys described by peridynamics simulations",
         "pub_year": "2021",
         "citation": "International Journal of Fatigue 153, 106475, 2021",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "DquTIDQAAAAJ:vxA22ZmNLkoC"
     },
     {
         "title": "Deformation Decomposition versus Energy Decomposition for Chemo-and Poro-Mechanics",
         "pub_year": "2024",
         "citation": "Journal of Applied Mechanics 91 (1), 014501, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "DquTIDQAAAAJ:8p8iYwVyaVcC"
     },
     {
         "title": "Dependence of equilibrium Griffith surface energy on crack speed in phase-field models for fracture coupled to elastodynamics",
         "pub_year": "2017",
         "citation": "International Journal of Fracture 207, 243-249, 2017",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "DquTIDQAAAAJ:Tfl4UtY-dJUC"
     },
     {
@@ -294,7 +294,7 @@
         "title": "Distal and non-symmetrical crack nucleation in delamination of plates via dimensionally-reduced peridynamics",
         "pub_year": "2023",
         "citation": "Journal of the Mechanics and Physics of Solids 172, 105189, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "DquTIDQAAAAJ:HqhvjgTjE9cC"
     },
     {
@@ -356,7 +356,7 @@
         "title": "Energetic formulation of large‐deformation poroelasticity",
         "pub_year": "2022",
         "citation": "International Journal for Numerical and Analytical Methods in Geomechanics …, 2022",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "DquTIDQAAAAJ:WMtz-WDmgKQC"
     },
     {
@@ -376,7 +376,7 @@
         "title": "Formulation of phase-field energies for microstructure in complex crystal structures",
         "pub_year": "2010",
         "citation": "Applied Physics Letters 96 (8), 081916, 2010",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "DquTIDQAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -397,7 +397,7 @@
         "title": "Fractional-order nonlinear hereditariness of tendons and ligaments of the human knee",
         "pub_year": "2020",
         "citation": "Philosophical Transactions of the Royal Society A 378 (2172), 20190294, 2020",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "DquTIDQAAAAJ:NtGNdKbuCngC"
     },
     {
@@ -418,7 +418,7 @@
         "title": "Grain boundary migration in polycrystalline α-Fe",
         "pub_year": "2024",
         "citation": "Acta Materialia 264, 119541, 2024",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "DquTIDQAAAAJ:XtJa11BXPS4C"
     },
     {
@@ -445,14 +445,14 @@
         "title": "Hierarchically structured bioinspired nanocomposites",
         "pub_year": "2023",
         "citation": "Nature materials 22 (1), 18-35, 2023",
-        "num_citations": 191,
+        "num_citations": 204,
         "author_pub_id": "DquTIDQAAAAJ:ujxm2eEBZHIC"
     },
     {
         "title": "High-dimensional nonlinear Bayesian inference of poroelastic fields from pressure data",
         "pub_year": "2023",
         "citation": "Mathematics and Mechanics of Solids 28 (9), 2108-2131, 2023",
-        "num_citations": 4,
+        "num_citations": 6,
         "author_pub_id": "DquTIDQAAAAJ:IHkkN1K1AlAC"
     },
     {
@@ -463,10 +463,17 @@
         "author_pub_id": "DquTIDQAAAAJ:M3ejUd6NZC8C"
     },
     {
+        "title": "Interplay between Nucleation and Kinetics in Dynamic Twinning",
+        "pub_year": "2024",
+        "citation": "Journal of Applied Mechanics, 1-13, 2024",
+        "num_citations": 0,
+        "author_pub_id": "DquTIDQAAAAJ:4oJvMfeQlr8C"
+    },
+    {
         "title": "Kinetics of phase transformations in the peridynamic formulation of continuum mechanics",
         "pub_year": "2006",
         "citation": "Journal of the Mechanics and Physics of Solids 54 (9), 1811-1842, 2006",
-        "num_citations": 176,
+        "num_citations": 179,
         "author_pub_id": "DquTIDQAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -535,28 +542,28 @@
         "title": "Network topologies dictate electromechanical coupling in liquid metal–elastomer composites",
         "pub_year": "2020",
         "citation": "Soft Matter 16 (38), 8818-8825, 2020",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "DquTIDQAAAAJ:WIXB4To3Tx4C"
     },
     {
         "title": "Non-orthogonal computational grids for studying dislocation motion in phase field approaches",
         "pub_year": "2021",
         "citation": "Computational Materials Science 200, 110834, 2021",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "DquTIDQAAAAJ:LWqeokA2EBkC"
     },
     {
         "title": "Nonequilibrium molecular dynamics for bulk materials and nanostructures",
         "pub_year": "2010",
         "citation": "Journal of the Mechanics and Physics of Solids 58 (2), 145-163, 2010",
-        "num_citations": 58,
+        "num_citations": 59,
         "author_pub_id": "DquTIDQAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Nonlinear statistical mechanics drives intrinsic electrostriction and volumetric torque in polymer networks",
         "pub_year": "2021",
         "citation": "Physical Review E 103 (4), 042504, 2021",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "DquTIDQAAAAJ:3BvdIg-l-ZAC"
     },
     {
@@ -569,7 +576,7 @@
     {
         "title": "Nonuniqueness in defining the polarization: Nonlocal surface charges and the electrostatic, energetic, and transport perspectives",
         "pub_year": "2024",
-        "citation": "Journal of the Mechanics and Physics of Solids, 105743, 2024",
+        "citation": "Journal of the Mechanics and Physics of Solids 191, 105743, 2024",
         "num_citations": 0,
         "author_pub_id": "DquTIDQAAAAJ:_9Xh93LWpsYC"
     },
@@ -577,7 +584,7 @@
         "title": "ON THE REGULARIZATION OF EQUATIONS OF THE MECHANICS OF MIXTURES OF VISCOUS COMPRESSIBLE FLUIDS",
         "pub_year": "2016",
         "citation": "Blood, 2016",
-        "num_citations": 985,
+        "num_citations": 994,
         "author_pub_id": "DquTIDQAAAAJ:oldoQiaHq2UC"
     },
     {
@@ -591,21 +598,21 @@
         "title": "Phase-field finite deformation fracture with an effective energy for regularized crack face contact",
         "pub_year": "2022",
         "citation": "Journal of the Mechanics and Physics of Solids 167, 104994, 2022",
-        "num_citations": 5,
+        "num_citations": 7,
         "author_pub_id": "DquTIDQAAAAJ:zdX0sdgBH_kC"
     },
     {
         "title": "Phase-field modeling and peridynamics for defect dynamics, and an augmented phase-field model with viscous stresses",
         "pub_year": "2022",
         "citation": "Journal of the Mechanics and Physics of Solids 159, 104716, 2022",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "DquTIDQAAAAJ:hKjooKYXoHIC"
     },
     {
         "title": "Physics‐Informed Machine Learning for Inverse Design of Optical Metamaterials",
         "pub_year": "2023",
         "citation": "Advanced Photonics Research 4 (12), 2300158, 2023",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "DquTIDQAAAAJ:ybfzIt2tCtgC"
     },
     {
@@ -658,7 +665,8 @@
     },
     {
         "title": "Simulating Crevasse Nucleation and Propagation Using a Modified Fracture Mechanics Model",
-        "citation": "AGU23, 0",
+        "pub_year": "2023",
+        "citation": "AGU Fall Meeting Abstracts 2023 (1616), C43C-1616, 2023",
         "num_citations": 0,
         "author_pub_id": "DquTIDQAAAAJ:eAUscmXIlQ8C"
     },
@@ -722,14 +730,14 @@
         "title": "Surface Growth in Deformable Solids using an Eulerian Formulation",
         "pub_year": "2021",
         "citation": "arXiv e-prints, arXiv: 2111.09903, 2021",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "DquTIDQAAAAJ:Nnq8S6OXqDYC"
     },
     {
         "title": "Surface growth in deformable solids using an Eulerian formulation",
         "pub_year": "2021",
         "citation": "Journal of the Mechanics and Physics of Solids 154, 104499, 2021",
-        "num_citations": 10,
+        "num_citations": 12,
         "author_pub_id": "DquTIDQAAAAJ:adHtZc2wMuEC"
     },
     {
@@ -743,14 +751,14 @@
         "title": "Symmetry-Adapted Phonon Analysis of Nanotubes",
         "pub_year": "2013",
         "citation": "Journal of the Mechanics and Physics of Solids 61, 557, 2013",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "DquTIDQAAAAJ:_kc_bZDykSQC"
     },
     {
         "title": "Symmetry-adapted non-equilibrium molecular dynamics of chiral carbon nanotubes under tensile loading",
         "pub_year": "2011",
         "citation": "Journal of Applied Physics 109 (12), 123501, 2011",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "DquTIDQAAAAJ:roLk4NBRz8UC"
     },
     {

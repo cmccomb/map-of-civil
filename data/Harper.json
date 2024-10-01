@@ -31,7 +31,7 @@
         "title": "Congestion and environmental impacts of short car trip replacement with micromobility modes",
         "pub_year": "2022",
         "citation": "Transportation Research Part D: Transport and Environment 103, 103173, 2022",
-        "num_citations": 44,
+        "num_citations": 49,
         "author_pub_id": "79Ml-9YAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -45,7 +45,7 @@
         "title": "Cost and benefit estimates of partially-automated vehicle collision avoidance technologies",
         "pub_year": "2016",
         "citation": "Accident Analysis & Prevention 95, 104-115, 2016",
-        "num_citations": 113,
+        "num_citations": 116,
         "author_pub_id": "79Ml-9YAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -80,8 +80,15 @@
         "title": "Estimating potential increases in travel with autonomous vehicles for the non-driving, elderly and people with travel-restrictive medical conditions",
         "pub_year": "2016",
         "citation": "Transportation research part C: emerging technologies 72, 1-9, 2016",
-        "num_citations": 573,
+        "num_citations": 582,
         "author_pub_id": "79Ml-9YAAAAJ:WF5omc3nYNoC"
+    },
+    {
+        "title": "Estimating the Effects of Vehicle Automation and Vehicle Weight and Size on Crash Frequency and Severity: Phase 1",
+        "pub_year": "2024",
+        "citation": "Carnegie Mellon University. Traffic21 Institute. Safety21 University …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "79Ml-9YAAAAJ:9ZlFYXVOiuMC"
     },
     {
         "title": "Exploring the economic, environmental, and travel implications of changes in parking choices due to driverless vehicles: An agent-based simulation approach",
@@ -108,14 +115,14 @@
         "title": "Improving Short-Term Travel Speed Prediction with High-Resolution Spatial and Temporal Rainfall Data",
         "pub_year": "2021",
         "citation": "Journal of Transportation Engineering, Part A: Systems 147 (3), 04021004, 2021",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "79Ml-9YAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "Incentives to encourage the adoption of connected and automated vehicles: Lessons learned from hybrid-electric vehicle incentive programs",
         "pub_year": "2023",
         "citation": "Future Transportation 3 (3), 986-995, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "79Ml-9YAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -136,14 +143,14 @@
         "title": "Net-societal and net-private benefits of some existing vehicle crash avoidance technologies",
         "pub_year": "2019",
         "citation": "Accident Analysis & Prevention 125, 207-216, 2019",
-        "num_citations": 20,
+        "num_citations": 22,
         "author_pub_id": "79Ml-9YAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Online grocery delivery: Sustainable practice, or congestion generator and environmental burden?",
         "pub_year": "2023",
         "citation": "Transportation Research Part D: Transport and Environment 119, 103722, 2023",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "79Ml-9YAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -171,7 +178,7 @@
         "title": "Socioeconomic and usage characteristics of transportation network company (TNC) riders",
         "pub_year": "2020",
         "citation": "Transportation 47, 3047-3067, 2020",
-        "num_citations": 118,
+        "num_citations": 121,
         "author_pub_id": "79Ml-9YAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -185,8 +192,15 @@
         "title": "Taking a multimodal approach to equitable bike share station siting",
         "pub_year": "2024",
         "citation": "Journal of Transport Geography 115, 103814, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "79Ml-9YAAAAJ:Wp0gIr-vW9MC"
+    },
+    {
+        "title": "Transforming Transportation Planning and Policy for Safety",
+        "pub_year": "2024",
+        "citation": "Carnegie Mellon University. Traffic21 Institute. Safety21 University …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "79Ml-9YAAAAJ:QIV2ME_5wuYC"
     },
     {
         "title": "Transitioning Roadways to Accommodate Connected and Automated Vehicles: A Pennsylvania Case Study",

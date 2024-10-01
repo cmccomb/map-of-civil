@@ -21,6 +21,13 @@
         "author_pub_id": "sdeRYSMAAAAJ:W7OEmFMy1HYC"
     },
     {
+        "title": "Constructing a routable multimodal, multi-cost, time-dependent network model with all emerging mobility options: Methodology and case studies",
+        "pub_year": "2024",
+        "citation": "Transportation Research Part E: Logistics and Transportation Review 192, 103757, 2024",
+        "num_citations": 0,
+        "author_pub_id": "sdeRYSMAAAAJ:mVmsd5A6BfQC"
+    },
+    {
         "title": "Deriving the Climatic Mass Balance Gradients of Alaskan Glaciers through the Integration of Field Measurements and Remote Sensing",
         "pub_year": "2022",
         "citation": "AGU Fall Meeting Abstracts 2022, C55C-0416, 2022",
@@ -164,7 +171,7 @@
         "title": "Quantitatively linking long-term monitoring data to condition ratings through a reliability-based framework",
         "pub_year": "2021",
         "citation": "Structural Health Monitoring 20 (5), 2376-2395, 2021",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "sdeRYSMAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -210,18 +217,18 @@
         "author_pub_id": "sdeRYSMAAAAJ:d1gkVwhDpl0C"
     },
     {
-        "title": "State-of-the-Art Review and Synthesis: A Requirement-based Roadmap for Standardized Predictive Maintenance Automation Using Digital Twin Technologies",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2311.06993, 2023",
-        "num_citations": 1,
-        "author_pub_id": "sdeRYSMAAAAJ:4TOpqqG69KYC"
-    },
-    {
         "title": "State-of-the-Art Review: The Use of Digital Twins to Support Artificial Intelligence-Guided Predictive Maintenance",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2406.13117, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "sdeRYSMAAAAJ:Wp0gIr-vW9MC"
+    },
+    {
+        "title": "State-of-the-art review and synthesis: A requirement-based roadmap for standardized predictive maintenance automation using digital twin technologies",
+        "pub_year": "2024",
+        "citation": "Advanced Engineering Informatics 62, 102800, 2024",
+        "num_citations": 1,
+        "author_pub_id": "sdeRYSMAAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "Street-Level Urban Gravity: A Quantum System Approach to Human-Centered Urban Space Design",
