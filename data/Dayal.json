@@ -79,7 +79,7 @@
         "title": "A frequency-based hypothesis for mechanically targeting and selectively attacking cancer cells",
         "pub_year": "2015",
         "citation": "J. Roy. Soc. Interface 12, 20150656, 2015",
-        "num_citations": 61,
+        "num_citations": 62,
         "author_pub_id": "DquTIDQAAAAJ:lK9BDNCuzFgC"
     },
     {
@@ -100,7 +100,7 @@
         "title": "A real-space non-local phase-field model of ferroelectric domain patterns in complex geometries",
         "pub_year": "2007",
         "citation": "Acta materialia 55 (6), 1907-1917, 2007",
-        "num_citations": 114,
+        "num_citations": 115,
         "author_pub_id": "DquTIDQAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -113,7 +113,7 @@
         "title": "Accretion and ablation in deformable solids with an Eulerian description: examples using the method of characteristics",
         "pub_year": "2022",
         "citation": "Mathematics and Mechanics of Solids 27 (6), 989-1010, 2022",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "DquTIDQAAAAJ:GiYFt9mpioMC"
     },
     {
@@ -183,7 +183,7 @@
         "title": "Bond-level deformation gradients and energy averaging in peridynamics",
         "pub_year": "2018",
         "citation": "Journal of the Mechanics and Physics of Solids 110, 192-204, 2018",
-        "num_citations": 65,
+        "num_citations": 69,
         "author_pub_id": "DquTIDQAAAAJ:CMvovTBb2okC"
     },
     {
@@ -224,7 +224,7 @@
         "title": "Computing the diamagnetic susceptibility and diamagnetic anisotropy of membrane proteins from structural subunits",
         "pub_year": "2017",
         "citation": "Journal of chemical theory and computation 13 (6), 2945-2953, 2017",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "DquTIDQAAAAJ:w2UhwfzvF0QC"
     },
     {
@@ -294,7 +294,7 @@
         "title": "Distal and non-symmetrical crack nucleation in delamination of plates via dimensionally-reduced peridynamics",
         "pub_year": "2023",
         "citation": "Journal of the Mechanics and Physics of Solids 172, 105189, 2023",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "DquTIDQAAAAJ:HqhvjgTjE9cC"
     },
     {
@@ -376,7 +376,7 @@
         "title": "Formulation of phase-field energies for microstructure in complex crystal structures",
         "pub_year": "2010",
         "citation": "Applied Physics Letters 96 (8), 081916, 2010",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "DquTIDQAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -418,7 +418,7 @@
         "title": "Grain boundary migration in polycrystalline α-Fe",
         "pub_year": "2024",
         "citation": "Acta Materialia 264, 119541, 2024",
-        "num_citations": 9,
+        "num_citations": 12,
         "author_pub_id": "DquTIDQAAAAJ:XtJa11BXPS4C"
     },
     {
@@ -445,7 +445,7 @@
         "title": "Hierarchically structured bioinspired nanocomposites",
         "pub_year": "2023",
         "citation": "Nature materials 22 (1), 18-35, 2023",
-        "num_citations": 220,
+        "num_citations": 240,
         "author_pub_id": "DquTIDQAAAAJ:ujxm2eEBZHIC"
     },
     {
@@ -454,6 +454,13 @@
         "citation": "Mathematics and Mechanics of Solids 28 (9), 2108-2131, 2023",
         "num_citations": 6,
         "author_pub_id": "DquTIDQAAAAJ:IHkkN1K1AlAC"
+    },
+    {
+        "title": "Impact of grain boundary energy anisotropy on grain growth",
+        "pub_year": "2024",
+        "citation": "arXiv e-prints, arXiv: 2409.12999, 2024",
+        "num_citations": 0,
+        "author_pub_id": "DquTIDQAAAAJ:urP0JZOBBUsC"
     },
     {
         "title": "Impact of grain boundary energy anisotropy on grain growth",
@@ -480,7 +487,7 @@
         "title": "Kinetics of phase transformations in the peridynamic formulation of continuum mechanics",
         "pub_year": "2006",
         "citation": "Journal of the Mechanics and Physics of Solids 54 (9), 1811-1842, 2006",
-        "num_citations": 180,
+        "num_citations": 182,
         "author_pub_id": "DquTIDQAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -508,7 +515,7 @@
         "title": "Mechanobiology predicts raft formations triggered by ligand-receptor activity across the cell membrane",
         "pub_year": "2020",
         "citation": "Journal of the Mechanics and Physics of Solids 141, 103974, 2020",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "DquTIDQAAAAJ:pUxgyZctzPYC"
     },
     {
@@ -549,7 +556,7 @@
         "title": "Network topologies dictate electromechanical coupling in liquid metal–elastomer composites",
         "pub_year": "2020",
         "citation": "Soft Matter 16 (38), 8818-8825, 2020",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "DquTIDQAAAAJ:WIXB4To3Tx4C"
     },
     {
@@ -563,7 +570,7 @@
         "title": "Nonequilibrium molecular dynamics for bulk materials and nanostructures",
         "pub_year": "2010",
         "citation": "Journal of the Mechanics and Physics of Solids 58 (2), 145-163, 2010",
-        "num_citations": 59,
+        "num_citations": 61,
         "author_pub_id": "DquTIDQAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -591,14 +598,14 @@
         "title": "ON THE REGULARIZATION OF EQUATIONS OF THE MECHANICS OF MIXTURES OF VISCOUS COMPRESSIBLE FLUIDS",
         "pub_year": "2016",
         "citation": "Blood, 2016",
-        "num_citations": 998,
+        "num_citations": 1000,
         "author_pub_id": "DquTIDQAAAAJ:oldoQiaHq2UC"
     },
     {
         "title": "Objective formulas",
         "pub_year": "2018",
         "citation": "preprint, 2018",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "DquTIDQAAAAJ:1EqfMoDn7-AC"
     },
     {
@@ -619,7 +626,7 @@
         "title": "Physics‐Informed Machine Learning for Inverse Design of Optical Metamaterials",
         "pub_year": "2023",
         "citation": "Advanced Photonics Research 4 (12), 2300158, 2023",
-        "num_citations": 8,
+        "num_citations": 12,
         "author_pub_id": "DquTIDQAAAAJ:ybfzIt2tCtgC"
     },
     {
@@ -744,7 +751,7 @@
         "title": "Surface growth in deformable solids using an Eulerian formulation",
         "pub_year": "2021",
         "citation": "Journal of the Mechanics and Physics of Solids 154, 104499, 2021",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "DquTIDQAAAAJ:adHtZc2wMuEC"
     },
     {
@@ -758,7 +765,7 @@
         "title": "Symmetry-Adapted Phonon Analysis of Nanotubes",
         "pub_year": "2013",
         "citation": "Journal of the Mechanics and Physics of Solids 61, 557, 2013",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "DquTIDQAAAAJ:_kc_bZDykSQC"
     },
     {

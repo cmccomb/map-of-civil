@@ -31,7 +31,7 @@
         "title": "Congestion and environmental impacts of short car trip replacement with micromobility modes",
         "pub_year": "2022",
         "citation": "Transportation Research Part D: Transport and Environment 103, 103173, 2022",
-        "num_citations": 49,
+        "num_citations": 51,
         "author_pub_id": "79Ml-9YAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -45,7 +45,7 @@
         "title": "Cost and benefit estimates of partially-automated vehicle collision avoidance technologies",
         "pub_year": "2016",
         "citation": "Accident Analysis & Prevention 95, 104-115, 2016",
-        "num_citations": 116,
+        "num_citations": 117,
         "author_pub_id": "79Ml-9YAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -80,7 +80,7 @@
         "title": "Estimating potential increases in travel with autonomous vehicles for the non-driving, elderly and people with travel-restrictive medical conditions",
         "pub_year": "2016",
         "citation": "Transportation research part C: emerging technologies 72, 1-9, 2016",
-        "num_citations": 582,
+        "num_citations": 588,
         "author_pub_id": "79Ml-9YAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -115,14 +115,14 @@
         "title": "Improving Short-Term Travel Speed Prediction with High-Resolution Spatial and Temporal Rainfall Data",
         "pub_year": "2021",
         "citation": "Journal of Transportation Engineering, Part A: Systems 147 (3), 04021004, 2021",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "79Ml-9YAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "Incentives to encourage the adoption of connected and automated vehicles: Lessons learned from hybrid-electric vehicle incentive programs",
         "pub_year": "2023",
         "citation": "Future Transportation 3 (3), 986-995, 2023",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "79Ml-9YAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -150,8 +150,15 @@
         "title": "Online grocery delivery: Sustainable practice, or congestion generator and environmental burden?",
         "pub_year": "2023",
         "citation": "Transportation Research Part D: Transport and Environment 119, 103722, 2023",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "79Ml-9YAAAAJ:4TOpqqG69KYC"
+    },
+    {
+        "title": "Ride-hailing technology mitigates effects of driver racial discrimination, but effects of residential segregation persist",
+        "pub_year": "2024",
+        "citation": "Proceedings of the National Academy of Sciences 121 (41), e2408936121, 2024",
+        "num_citations": 0,
+        "author_pub_id": "79Ml-9YAAAAJ:7PzlFSSx8tAC"
     },
     {
         "title": "Ridehailing Service Equity in Normal and Rare Conditions",
@@ -178,7 +185,7 @@
         "title": "Socioeconomic and usage characteristics of transportation network company (TNC) riders",
         "pub_year": "2020",
         "citation": "Transportation 47, 3047-3067, 2020",
-        "num_citations": 121,
+        "num_citations": 122,
         "author_pub_id": "79Ml-9YAAAAJ:YsMSGLbcyi4C"
     },
     {

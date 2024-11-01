@@ -72,7 +72,7 @@
         "title": "ARX residuals in damage detection",
         "pub_year": "2012",
         "citation": "Structural Control and Health Monitoring 19 (4), 535-547, 2012",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "NldhiuYAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -142,15 +142,8 @@
         "title": "Assessing the value of information for long-term structural health monitoring",
         "pub_year": "2011",
         "citation": "Health monitoring of structural and biological systems 2011 7984, 812-825, 2011",
-        "num_citations": 179,
+        "num_citations": 180,
         "author_pub_id": "NldhiuYAAAAJ:ULOm3_A8WrAC"
-    },
-    {
-        "title": "Automatically detecting Crohn’s disease and Ulcerative Colitis from endoscopic imaging",
-        "pub_year": "2022",
-        "citation": "BMC Medical Informatics and Decision Making 22 (Suppl 6), 300, 2022",
-        "num_citations": 17,
-        "author_pub_id": "NldhiuYAAAAJ:WC23djZS0W4C"
     },
     {
         "title": "Bayesian Logic-based Damage Assessment in a Smart Precast Concrete Beam",
@@ -177,7 +170,7 @@
         "title": "Bayesian calibration of building energy models with large datasets",
         "pub_year": "2017",
         "citation": "Energy and Buildings 154, 343-355, 2017",
-        "num_citations": 131,
+        "num_citations": 132,
         "author_pub_id": "NldhiuYAAAAJ:uJ-U7cs_P_0C"
     },
     {
@@ -226,7 +219,7 @@
         "title": "Computation of lifetime value of information for monitoring systems",
         "pub_year": "2011",
         "citation": "Structural Health Monitoring 2011: Condition Based Maintenance and …, 2011",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "NldhiuYAAAAJ:-_dYPAW6P2MC"
     },
     {
@@ -263,13 +256,6 @@
         "citation": "AGU Fall Meeting Abstracts 2023 (209), H43C-209, 2023",
         "num_citations": 0,
         "author_pub_id": "NldhiuYAAAAJ:U4n9YNQMCAIC"
-    },
-    {
-        "title": "Cutting-edge technology and automation in the pathology laboratory",
-        "pub_year": "2024",
-        "citation": "Virchows Archiv 484 (4), 555-566, 2024",
-        "num_citations": 8,
-        "author_pub_id": "NldhiuYAAAAJ:WHdLCjDvYFkC"
     },
     {
         "title": "Decision-making in SHM systems for asset management",
@@ -319,13 +305,6 @@
         "citation": "Science and Technology for the Built Environment 25 (3), 247-260, 2019",
         "num_citations": 5,
         "author_pub_id": "NldhiuYAAAAJ:WZBGuue-350C"
-    },
-    {
-        "title": "Endoscopy-based IBD identification by a quantized deep learning pipeline",
-        "pub_year": "2023",
-        "citation": "BioData Mining 16 (1), 33, 2023",
-        "num_citations": 0,
-        "author_pub_id": "NldhiuYAAAAJ:7wO8s98CvbsC"
     },
     {
         "title": "Energetic formulation of large‐deformation poroelasticity",
@@ -391,13 +370,6 @@
         "author_pub_id": "NldhiuYAAAAJ:KUbvn5osdkgC"
     },
     {
-        "title": "Generating synthetic data in digital pathology through diffusion models: a multifaceted approach to evaluation",
-        "pub_year": "2023",
-        "citation": "medRxiv, 2023.11. 21.23298808, 2023",
-        "num_citations": 0,
-        "author_pub_id": "NldhiuYAAAAJ:7H_MAutzIkAC"
-    },
-    {
         "title": "Gibbs sampling for inference and reliability assessment in dynamic systems",
         "pub_year": "2015",
         "citation": "7th International Conference on Structural Health Monitoring of Intelligent …, 2015",
@@ -421,7 +393,7 @@
         "title": "Hidden-model processes for adaptive management under uncertain climate change",
         "pub_year": "2017",
         "citation": "Journal of Infrastructure Systems 23 (4), 04017022, 2017",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "NldhiuYAAAAJ:2KloaMYe4IUC"
     },
     {
@@ -435,7 +407,7 @@
         "title": "Hierarchical modeling of systems with similar components: A framework for adaptive monitoring and control",
         "pub_year": "2016",
         "citation": "Reliability Engineering & System Safety 153, 159-169, 2016",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "NldhiuYAAAAJ:VL0QpB8kHFEC"
     },
     {
@@ -456,7 +428,7 @@
         "title": "Impact of prior perception on bridge health diagnosis",
         "pub_year": "2015",
         "citation": "Journal of Civil Structural Health Monitoring 5, 509-525, 2015",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "NldhiuYAAAAJ:VLnqNzywnoUC"
     },
     {
@@ -498,7 +470,7 @@
         "title": "Information avoidance and overvaluation under epistemic constraints: Principles and implications for regulatory policies",
         "pub_year": "2020",
         "citation": "Reliability Engineering & System Safety 197, 106814, 2020",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "NldhiuYAAAAJ:9pM33mqn1YgC"
     },
     {
@@ -609,7 +581,7 @@
         "title": "Monitoring load redistribution in a cable-stayed bridge",
         "pub_year": "2012",
         "citation": "Smart Structures, 2012",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "NldhiuYAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -630,7 +602,7 @@
         "title": "Multi-agent Value of Information for components’ inspections",
         "pub_year": "2023",
         "citation": "ICASP14-14th International Conference on Applications of Statistics and …, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "NldhiuYAAAAJ:sJsF-0ZLhtgC"
     },
     {
@@ -850,7 +822,7 @@
     {
         "title": "Probabilistic learning and planning for optimal management of wind farms",
         "pub_year": "2013",
-        "citation": "Proc. 9th Int. Workshop on Structural Health Monitoring, 2720-2728, 2013",
+        "citation": "Structural Health Monitoring 2013, 2013",
         "num_citations": 4,
         "author_pub_id": "NldhiuYAAAAJ:iH-uZ7U-co4C"
     },
@@ -1015,6 +987,13 @@
         "author_pub_id": "NldhiuYAAAAJ:k8Z6L05lTy4C"
     },
     {
+        "title": "Subsidy design for better social outcomes",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2409.03129, 2024",
+        "num_citations": 0,
+        "author_pub_id": "NldhiuYAAAAJ:CB2v5VPnA5kC"
+    },
+    {
         "title": "Surface heat assessment for developed environments: Optimizing urban temperature monitoring",
         "pub_year": "2018",
         "citation": "Building and Environment 141, 143–154, 2018",
@@ -1067,14 +1046,14 @@
         "title": "Value of Information for Spatially Distributed Systems: application to sensor placement",
         "pub_year": "2016",
         "citation": "Reliability Engineering & System Safety 154, 219-233, 2016",
-        "num_citations": 82,
+        "num_citations": 84,
         "author_pub_id": "NldhiuYAAAAJ:N5tVd3kTz84C"
     },
     {
         "title": "Value of Information in Sequential Decision Making: component inspection, permanent monitoring and system-level scheduling",
         "pub_year": "2016",
         "citation": "Reliability Engineering & System Safety, 2016",
-        "num_citations": 102,
+        "num_citations": 103,
         "author_pub_id": "NldhiuYAAAAJ:ZuybSZzF8UAC"
     },
     {
@@ -1095,7 +1074,7 @@
         "title": "Value of information: A roadmap to quantifying the benefit of structural health monitoring",
         "pub_year": "2017",
         "citation": "ICOSSAR-12th international conference on structural safety & reliability, 2017",
-        "num_citations": 96,
+        "num_citations": 97,
         "author_pub_id": "NldhiuYAAAAJ:35r97b3x0nAC"
     },
     {
@@ -1133,13 +1112,6 @@
         "author_pub_id": "NldhiuYAAAAJ:dQ2og3OwTAUC"
     },
     {
-        "title": "Wireless sensor network for seismic evaluation of concrete buildings",
-        "pub_year": "2010",
-        "citation": "Proc. 5th Eur. Workshop Struct. Health Monitor, 1158-1163, 2010",
-        "num_citations": 16,
-        "author_pub_id": "NldhiuYAAAAJ:ufrVoPGSRksC"
-    },
-    {
         "title": "Wireless sensor networks for permanent health monitoring of historic buildings",
         "pub_year": "2010",
         "citation": "Smart Structures and Systems 6 (5-6), 595-618, 2010",
@@ -1151,5 +1123,12 @@
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "NldhiuYAAAAJ:hC7cP41nSMkC"
+    },
+    {
+        "title": "Wireless sensor networks for seismic evaluation of concrete buildings",
+        "pub_year": "2010",
+        "citation": "5th European Workshop on Structural Health Monitoring 2010, 1158-1163, 2010",
+        "num_citations": 16,
+        "author_pub_id": "NldhiuYAAAAJ:ufrVoPGSRksC"
     }
 ]
