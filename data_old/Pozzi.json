@@ -30,7 +30,7 @@
         "title": "A Graphical Approach to Assess the Detectability of Multiple Simultaneous Faults in Air Handling Units",
         "pub_year": "2019",
         "citation": "Energy and Buildings 184, 275-288, 2019",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "NldhiuYAAAAJ:M7yex6snE4oC"
     },
     {
@@ -142,7 +142,7 @@
         "title": "Assessing the value of information for long-term structural health monitoring",
         "pub_year": "2011",
         "citation": "Health monitoring of structural and biological systems 2011 7984, 812-825, 2011",
-        "num_citations": 180,
+        "num_citations": 182,
         "author_pub_id": "NldhiuYAAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -170,7 +170,7 @@
         "title": "Bayesian calibration of building energy models with large datasets",
         "pub_year": "2017",
         "citation": "Energy and Buildings 154, 343-355, 2017",
-        "num_citations": 132,
+        "num_citations": 133,
         "author_pub_id": "NldhiuYAAAAJ:uJ-U7cs_P_0C"
     },
     {
@@ -198,7 +198,7 @@
         "title": "Climate change impacts on bromide, trihalomethane formation, and health risks at coastal groundwater utilities",
         "pub_year": "2017",
         "citation": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A …, 2017",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "NldhiuYAAAAJ:7T2F9Uy0os0C"
     },
     {
@@ -212,7 +212,7 @@
         "title": "Comparison of Two Approaches in Reliability Analysis for the Network of Trentinos Bridge Management System",
         "pub_year": "2013",
         "citation": "Applied Mechanics and Materials 351, 1700-1705, 2013",
-        "num_citations": 4,
+        "num_citations": 6,
         "author_pub_id": "NldhiuYAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -247,7 +247,7 @@
         "title": "Conditional entropy and value of information metrics for optimal sensing in infrastructure systems",
         "pub_year": "2016",
         "citation": "Structural Safety 60, 77-90, 2016",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "NldhiuYAAAAJ:9vf0nzSNQJEC"
     },
     {
@@ -407,7 +407,7 @@
         "title": "Hierarchical modeling of systems with similar components: A framework for adaptive monitoring and control",
         "pub_year": "2016",
         "citation": "Reliability Engineering & System Safety 153, 159-169, 2016",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "NldhiuYAAAAJ:VL0QpB8kHFEC"
     },
     {
@@ -567,14 +567,14 @@
         "title": "Model-free reinforcement learning with model-based safe exploration: Optimizing adaptive recovery process of infrastructure systems",
         "pub_year": "2019",
         "citation": "Structural Safety 80, 46-55, 2019",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "NldhiuYAAAAJ:xtoqd-5pKcoC"
     },
     {
         "title": "Monitoring heritage buildings with wireless sensor networks: The Torre Aquila deployment",
         "pub_year": "2009",
         "citation": "2009 International Conference on Information Processing in Sensor Networks …, 2009",
-        "num_citations": 505,
+        "num_citations": 508,
         "author_pub_id": "NldhiuYAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -727,7 +727,7 @@
         "title": "Optimal planning and learning in uncertain environments for the management of wind farms",
         "pub_year": "2015",
         "citation": "Journal of Computing in Civil Engineering 29 (5), 04014076, 2015",
-        "num_citations": 67,
+        "num_citations": 68,
         "author_pub_id": "NldhiuYAAAAJ:bEWYMUwI8FkC"
     },
     {
@@ -748,7 +748,7 @@
         "title": "Photonic crystals for monitoring fatigue phenomena in steel structures",
         "pub_year": "2009",
         "citation": "Sensors and Smart Structures Technologies for Civil, Mechanical, and …, 2009",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "NldhiuYAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -872,14 +872,14 @@
         "title": "Response Spectrum Compatible PSD for High Frequency Range",
         "pub_year": "2013",
         "citation": "Transactions, SMiRT-22, San Francisco, CA – August 18-23, 2013, 2013",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "NldhiuYAAAAJ:M3NEmzRMIkIC"
     },
     {
         "title": "Response spectrum analysis for floor acceleration",
         "pub_year": "2015",
         "citation": "Earthquake Engineering & Structural Dynamics 44 (12), 2111–2127, 2015",
-        "num_citations": 67,
+        "num_citations": 68,
         "author_pub_id": "NldhiuYAAAAJ:fPk4N6BV_jEC"
     },
     {
@@ -920,7 +920,7 @@
         "title": "Sensor fusion on structural monitoring data analysis: application to a cable-stayed bridge",
         "pub_year": "2013",
         "citation": "Key Engineering Materials 569, 812-819, 2013",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "NldhiuYAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -983,7 +983,7 @@
         "title": "Submodularity issues in value-of-information-based sensor placement",
         "pub_year": "2019",
         "citation": "Reliability Engineering & System Safety 183, 93-103, 2019",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "NldhiuYAAAAJ:k8Z6L05lTy4C"
     },
     {
@@ -1046,14 +1046,14 @@
         "title": "Value of Information for Spatially Distributed Systems: application to sensor placement",
         "pub_year": "2016",
         "citation": "Reliability Engineering & System Safety 154, 219-233, 2016",
-        "num_citations": 84,
+        "num_citations": 85,
         "author_pub_id": "NldhiuYAAAAJ:N5tVd3kTz84C"
     },
     {
         "title": "Value of Information in Sequential Decision Making: component inspection, permanent monitoring and system-level scheduling",
         "pub_year": "2016",
         "citation": "Reliability Engineering & System Safety, 2016",
-        "num_citations": 103,
+        "num_citations": 107,
         "author_pub_id": "NldhiuYAAAAJ:ZuybSZzF8UAC"
     },
     {

@@ -150,14 +150,14 @@
         "title": "How to produce confidence intervals instead of confidence tricks: Representative sampling for molecular simulations of fluid self-diffusion under nanoscale confinement",
         "pub_year": "2022",
         "citation": "The Journal of Chemical Physics 156 (11), 2022",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "VH21b7cAAAAJ:qUcmZB5y_30C"
     },
     {
         "title": "Hsp90 inhibition increases p53 expression and destabilizes MYCN and MYC in neuroblastoma",
         "pub_year": "2011",
         "citation": "International Journal of Oncology 38 (1), 105-112, 2011",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "VH21b7cAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -234,7 +234,7 @@
         "title": "Molecular mechanics and structure of the fluid-solid interface in simple fluids",
         "pub_year": "2017",
         "citation": "Physical Review Fluids 2 (9), 094201, 2017",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "VH21b7cAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -304,7 +304,7 @@
         "title": "Physics of nanoscale immiscible fluid displacement",
         "pub_year": "2019",
         "citation": "Physical Review Fluids 4 (12), 124203, 2019",
-        "num_citations": 9,
+        "num_citations": 12,
         "author_pub_id": "VH21b7cAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -395,7 +395,7 @@
         "title": "Towards realizing nano-enabled precision delivery in plants",
         "pub_year": "2024",
         "citation": "Nature Nanotechnology, 1-15, 2024",
-        "num_citations": 7,
+        "num_citations": 10,
         "author_pub_id": "VH21b7cAAAAJ:GnPB-g6toBAC"
     },
     {
@@ -409,7 +409,7 @@
         "title": "Why are fluid densities so low in carbon nanotubes?",
         "pub_year": "2015",
         "citation": "Physics of Fluids 27 (5), 052006, 2015",
-        "num_citations": 50,
+        "num_citations": 52,
         "author_pub_id": "VH21b7cAAAAJ:u5HHmVD_uO8C"
     }
 ]

@@ -1,5 +1,12 @@
 [
     {
+        "title": "\" Large Language Models, but Large Compared to What?\" Teaching Scaling, Similitude, and Dimensional Reasoning in the Age of Generative AI",
+        "pub_year": "2024",
+        "citation": "Bulletin of the American Physical Society, 2024",
+        "num_citations": 0,
+        "author_pub_id": "VH21b7cAAAAJ:ns9cj8rnVeAC"
+    },
+    {
         "title": "A Heteroscedastic Gaussian Process Regression Workflow for Materials Property Prediction in Molecular Simulations",
         "pub_year": "2023",
         "citation": "Bulletin of the American Physical Society, 2023",
@@ -19,6 +26,13 @@
         "citation": "Bulletin of the American Physical Society, 2018",
         "num_citations": 0,
         "author_pub_id": "VH21b7cAAAAJ:hqOjcs7Dif8C"
+    },
+    {
+        "title": "A Picture is Worth a Thousand Timesteps: Excess Entropy Scaling for Rapid Estimation of Diffusion Coefficients in Molecular-Dynamics Simulations of Fluids",
+        "pub_year": "2024",
+        "citation": "Journal of Chemical Theory and Computation, 2024",
+        "num_citations": 0,
+        "author_pub_id": "VH21b7cAAAAJ:NaGl4SEjCO4C"
     },
     {
         "title": "A Slippery Business: Explaining the Wide Range of Water Slip Lengths on Graphene using Molecular-Kinetic Theory",
@@ -108,7 +122,7 @@
         "title": "Excess Entropy Scaling in Active-Matter Systems",
         "pub_year": "2022",
         "citation": "The Journal of Physical Chemistry Letters 13 (22), 4949-4954, 2022",
-        "num_citations": 8,
+        "num_citations": 10,
         "author_pub_id": "VH21b7cAAAAJ:-f6ydRqryjwC"
     },
     {
@@ -129,7 +143,7 @@
         "title": "Getting over the hump with KAMEL-LOBE: Kernel-averaging method to eliminate length-of-bin effects in radial distribution functions",
         "pub_year": "2023",
         "citation": "The Journal of Chemical Physics 158 (22), 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "VH21b7cAAAAJ:k_IJM867U9cC"
     },
     {
@@ -150,14 +164,14 @@
         "title": "How to produce confidence intervals instead of confidence tricks: Representative sampling for molecular simulations of fluid self-diffusion under nanoscale confinement",
         "pub_year": "2022",
         "citation": "The Journal of Chemical Physics 156 (11), 2022",
-        "num_citations": 6,
+        "num_citations": 8,
         "author_pub_id": "VH21b7cAAAAJ:qUcmZB5y_30C"
     },
     {
         "title": "Hsp90 inhibition increases p53 expression and destabilizes MYCN and MYC in neuroblastoma",
         "pub_year": "2011",
         "citation": "International Journal of Oncology 38 (1), 105-112, 2011",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "VH21b7cAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -171,7 +185,7 @@
         "title": "Layered Fluid Structure and Anomalous Diffusion under Nanoconfinement",
         "pub_year": "2018",
         "citation": "Langmuir 34 (23), 6976-6982, 2018",
-        "num_citations": 36,
+        "num_citations": 38,
         "author_pub_id": "VH21b7cAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -301,6 +315,13 @@
         "author_pub_id": "VH21b7cAAAAJ:YFjsv_pBGBYC"
     },
     {
+        "title": "Out of Equilibrium, But Not Out of Mind: Rapid Estimation of Fluid Transport Coefficients in Molecular Simulations Away from Thermodynamic Equilibrium",
+        "pub_year": "2024",
+        "citation": "Bulletin of the American Physical Society, 2024",
+        "num_citations": 0,
+        "author_pub_id": "VH21b7cAAAAJ:RGFaLdJalmkC"
+    },
+    {
         "title": "Physics of nanoscale immiscible fluid displacement",
         "pub_year": "2019",
         "citation": "Physical Review Fluids 4 (12), 124203, 2019",
@@ -313,6 +334,13 @@
         "citation": "Bulletin of the American Physical Society, 2022",
         "num_citations": 0,
         "author_pub_id": "VH21b7cAAAAJ:ZeXyd9-uunAC"
+    },
+    {
+        "title": "Pico-Scale Science for Pedestrian-Scale Solutions (PSS4PSS): A Computational Toolbox Leveraging Molecular Simulation for Pedestrian Dynamics",
+        "pub_year": "2024",
+        "citation": "Proceedings of the 11th ACM International Conference on Systems for Energy …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "VH21b7cAAAAJ:O3NaXMp0MMsC"
     },
     {
         "title": "Predicting the Anomalous Density and Diffusivity of Fluids Confined within Carbon Nanotubes",
@@ -346,7 +374,7 @@
         "title": "Social distancing slows down steady dynamics in pedestrian flows",
         "pub_year": "2021",
         "citation": "Physics of Fluids 33 (10), 103318, 2021",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "VH21b7cAAAAJ:dhFuZR0502QC"
     },
     {
@@ -395,7 +423,7 @@
         "title": "Towards realizing nano-enabled precision delivery in plants",
         "pub_year": "2024",
         "citation": "Nature Nanotechnology, 1-15, 2024",
-        "num_citations": 10,
+        "num_citations": 13,
         "author_pub_id": "VH21b7cAAAAJ:GnPB-g6toBAC"
     },
     {
