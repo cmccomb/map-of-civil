@@ -30,7 +30,7 @@
         "title": "A Graphical Approach to Assess the Detectability of Multiple Simultaneous Faults in Air Handling Units",
         "pub_year": "2019",
         "citation": "Energy and Buildings 184, 275-288, 2019",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "NldhiuYAAAAJ:M7yex6snE4oC"
     },
     {
@@ -43,7 +43,7 @@
     {
         "title": "A formal approach to structural health monitoring design",
         "pub_year": "2016",
-        "citation": "8th European Workshop on Structural Health Monitoring, EWSHM 2016 1, 500-509, 2016",
+        "citation": "8th European Workshop on Structural Health Monitoring, EWSHM 2016, 500-509, 2016",
         "num_citations": 0,
         "author_pub_id": "NldhiuYAAAAJ:PR6Y55bgFSsC"
     },
@@ -198,7 +198,7 @@
         "title": "Climate change impacts on bromide, trihalomethane formation, and health risks at coastal groundwater utilities",
         "pub_year": "2017",
         "citation": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A …, 2017",
-        "num_citations": 30,
+        "num_citations": 32,
         "author_pub_id": "NldhiuYAAAAJ:7T2F9Uy0os0C"
     },
     {
@@ -247,7 +247,7 @@
         "title": "Conditional entropy and value of information metrics for optimal sensing in infrastructure systems",
         "pub_year": "2016",
         "citation": "Structural Safety 60, 77-90, 2016",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "NldhiuYAAAAJ:9vf0nzSNQJEC"
     },
     {
@@ -310,7 +310,7 @@
         "title": "Energetic formulation of large‐deformation poroelasticity",
         "pub_year": "2022",
         "citation": "International Journal for Numerical and Analytical Methods in Geomechanics …, 2022",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "NldhiuYAAAAJ:ODE9OILHJdcC"
     },
     {
@@ -331,7 +331,7 @@
         "title": "Estimation of load redistribution on a cable-stayed bridge using a combination of sensing techniques",
         "pub_year": "2012",
         "citation": "Sensors and Smart Structures Technologies for Civil, Mechanical, and …, 2012",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "NldhiuYAAAAJ:_kc_bZDykSQC"
     },
     {
@@ -414,7 +414,7 @@
         "title": "High-dimensional nonlinear Bayesian inference of poroelastic fields from pressure data",
         "pub_year": "2023",
         "citation": "Mathematics and Mechanics of Solids 28 (9), 2108-2131, 2023",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "NldhiuYAAAAJ:ZzlSgRqYykMC"
     },
     {
@@ -518,7 +518,7 @@
         "title": "MEMS-based sensors for post-earthquake damage assessment",
         "pub_year": "2011",
         "citation": "Journal of Physics: Conference Series 305 (1), 012100, 2011",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "NldhiuYAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -567,14 +567,14 @@
         "title": "Model-free reinforcement learning with model-based safe exploration: Optimizing adaptive recovery process of infrastructure systems",
         "pub_year": "2019",
         "citation": "Structural Safety 80, 46-55, 2019",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "NldhiuYAAAAJ:xtoqd-5pKcoC"
     },
     {
         "title": "Monitoring heritage buildings with wireless sensor networks: The Torre Aquila deployment",
         "pub_year": "2009",
         "citation": "2009 International Conference on Information Processing in Sensor Networks …, 2009",
-        "num_citations": 508,
+        "num_citations": 510,
         "author_pub_id": "NldhiuYAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -898,7 +898,8 @@
     },
     {
         "title": "Scoring Tumor-Infiltrating Lymphocytes in breast DCIS: A guideline-driven artificial intelligence approach",
-        "citation": "MICCAI Workshop on Computational Pathology with Multimodal Data (COMPAYL), 0",
+        "pub_year": "2024",
+        "citation": "MICCAI Workshop on Computational Pathology with Multimodal Data (COMPAYL), 2024",
         "num_citations": 0,
         "author_pub_id": "NldhiuYAAAAJ:wKETBy42zhYC"
     },
@@ -948,7 +949,7 @@
         "title": "Short-term probabilistic forecasting of meso-scale near-surface urban temperature fields",
         "pub_year": "2021",
         "citation": "Environmental Modelling & Software 145, 105189, 2021",
-        "num_citations": 12,
+        "num_citations": 15,
         "author_pub_id": "NldhiuYAAAAJ:bKqednn6t2AC"
     },
     {
@@ -1043,24 +1044,30 @@
         "author_pub_id": "NldhiuYAAAAJ:4X0JR2_MtJMC"
     },
     {
+        "title": "Value of Accurate Urban Temperature Modeling in Day-Ahead Energy Market",
+        "citation": "Available at SSRN 5008886, 0",
+        "num_citations": 0,
+        "author_pub_id": "NldhiuYAAAAJ:LPtt_HFRSbwC"
+    },
+    {
         "title": "Value of Information for Spatially Distributed Systems: application to sensor placement",
         "pub_year": "2016",
         "citation": "Reliability Engineering & System Safety 154, 219-233, 2016",
-        "num_citations": 85,
+        "num_citations": 87,
         "author_pub_id": "NldhiuYAAAAJ:N5tVd3kTz84C"
     },
     {
         "title": "Value of Information in Sequential Decision Making: component inspection, permanent monitoring and system-level scheduling",
         "pub_year": "2016",
         "citation": "Reliability Engineering & System Safety, 2016",
-        "num_citations": 107,
+        "num_citations": 108,
         "author_pub_id": "NldhiuYAAAAJ:ZuybSZzF8UAC"
     },
     {
         "title": "Value of accurate urban weather prediction in the day-ahead energy market",
         "pub_year": "2023",
         "citation": "ICASP14-14th International Conference on Applications of Statistics and …, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "NldhiuYAAAAJ:2tRrZ1ZAMYUC"
     },
     {
@@ -1074,14 +1081,14 @@
         "title": "Value of information: A roadmap to quantifying the benefit of structural health monitoring",
         "pub_year": "2017",
         "citation": "ICOSSAR-12th international conference on structural safety & reliability, 2017",
-        "num_citations": 97,
+        "num_citations": 98,
         "author_pub_id": "NldhiuYAAAAJ:35r97b3x0nAC"
     },
     {
         "title": "Value-of-information in spatio-temporal systems: Sensor placement and scheduling",
         "pub_year": "2018",
         "citation": "Reliability Engineering & System Safety 172, 45-57, 2018",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "NldhiuYAAAAJ:ipzZ9siozwsC"
     },
     {
@@ -1101,7 +1108,7 @@
         "title": "What makes long-term monitoring convenient? A parametric analysis of value of information in infrastructure maintenance",
         "pub_year": "2019",
         "citation": "Structural Control and Health Monitoring 26 (5), e2329, 2019",
-        "num_citations": 31,
+        "num_citations": 33,
         "author_pub_id": "NldhiuYAAAAJ:PoWvk5oyLR8C"
     },
     {
@@ -1115,7 +1122,7 @@
         "title": "Wireless sensor networks for permanent health monitoring of historic buildings",
         "pub_year": "2010",
         "citation": "Smart Structures and Systems 6 (5-6), 595-618, 2010",
-        "num_citations": 66,
+        "num_citations": 67,
         "author_pub_id": "NldhiuYAAAAJ:MXK_kJrjxJIC"
     },
     {

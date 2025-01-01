@@ -1,5 +1,12 @@
 [
     {
+        "title": "A Bayesian network approach for predicting social interactions in shared spatial environments",
+        "pub_year": "2024",
+        "citation": "Proceedings of the 11th ACM International Conference on Systems for Energy …, 2024",
+        "num_citations": 2,
+        "author_pub_id": "sdeRYSMAAAAJ:L8Ckcad2t8MC"
+    },
+    {
         "title": "Anomaly identification algorithms for indirect structural health monitoring using a laboratory-scale railroad track system",
         "pub_year": "2023",
         "citation": "Health Monitoring of Structural and Biological Systems XVII 12488, 329-339, 2023",
@@ -59,7 +66,7 @@
         "title": "Exploring the potentials and challenges of cyber-physical-social infrastructure systems for achieving human-centered objectives",
         "pub_year": "2023",
         "citation": "Proceedings of the 10th ACM International Conference on Systems for Energy …, 2023",
-        "num_citations": 5,
+        "num_citations": 8,
         "author_pub_id": "sdeRYSMAAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -75,6 +82,13 @@
         "citation": "2022 IEEE 2nd International Conference on Digital Twins and Parallel …, 2022",
         "num_citations": 1,
         "author_pub_id": "sdeRYSMAAAAJ:Se3iqnhoufwC"
+    },
+    {
+        "title": "Guest Editorial: IoT Security and Provisioning in Cyber-Enabled Niche Critical Infrastructure",
+        "pub_year": "2024",
+        "citation": "IEEE Internet of Things Magazine 7 (6), 10-12, 2024",
+        "num_citations": 0,
+        "author_pub_id": "sdeRYSMAAAAJ:dhFuZR0502QC"
     },
     {
         "title": "Health assessment and risk mitigation of railroad networks exposed to natural hazards using commercial remote sensing and spatial information technologies.",
@@ -94,7 +108,7 @@
         "title": "Human trajectory estimation using analog privacy-preserving urban sensing technologies",
         "pub_year": "2023",
         "citation": "Sensors and Smart Structures Technologies for Civil, Mechanical, and …, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "sdeRYSMAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -112,11 +126,23 @@
         "author_pub_id": "sdeRYSMAAAAJ:_FxGoFyzp5QC"
     },
     {
+        "title": "Integrating Preference-Aware Modeling of Human Spatial Behavior in Cyber-Physical-Human Systems",
+        "citation": "NeurIPS 2024 Workshop on Behavioral Machine Learning, 0",
+        "num_citations": 0,
+        "author_pub_id": "sdeRYSMAAAAJ:9ZlFYXVOiuMC"
+    },
+    {
         "title": "Levels of predictive maintenance automation",
         "pub_year": "2022",
         "citation": "Association for the Advancement of Artificial Intelligence (AAAI) Fall …, 2022",
         "num_citations": 0,
         "author_pub_id": "sdeRYSMAAAAJ:ufrVoPGSRksC"
+    },
+    {
+        "title": "Meaning Through Motion: DUET–A Multimodal Dataset for Kinesics Analysis in Dyadic Activities",
+        "citation": "NeurIPS 2024 Workshop on Behavioral Machine Learning, 0",
+        "num_citations": 0,
+        "author_pub_id": "sdeRYSMAAAAJ:QIV2ME_5wuYC"
     },
     {
         "title": "Measuring time-dependent accessibility with emerging mobility options: a generic multi-modal network modeling framework",
@@ -129,7 +155,7 @@
         "title": "Modeling human behavior in cyber-physical-social infrastructure systems",
         "pub_year": "2023",
         "citation": "Proceedings of the 10th ACM International Conference on Systems for Energy …, 2023",
-        "num_citations": 4,
+        "num_citations": 7,
         "author_pub_id": "sdeRYSMAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -159,12 +185,6 @@
         "citation": "Sensors and Smart Structures Technologies for Civil, Mechanical, and …, 2021",
         "num_citations": 0,
         "author_pub_id": "sdeRYSMAAAAJ:UeHWp8X0CEIC"
-    },
-    {
-        "title": "Preference-Aware Human Spatial Behavior Modeling in Cyber-Physical-Human Systems",
-        "citation": "NeurIPS 2024 Workshop on Behavioral Machine Learning, 0",
-        "num_citations": 0,
-        "author_pub_id": "sdeRYSMAAAAJ:9ZlFYXVOiuMC"
     },
     {
         "title": "Probabilistic fatigue assessment of monitored railroad bridge components using long-term response data in a reliability framework",
@@ -212,7 +232,7 @@
         "title": "Skeleton-based human action recognition in a thermal comfort context",
         "pub_year": "2023",
         "citation": "Proceedings of the 10th ACM International Conference on Systems for Energy …, 2023",
-        "num_citations": 2,
+        "num_citations": 5,
         "author_pub_id": "sdeRYSMAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -254,13 +274,14 @@
         "title": "Utilization of wireless structural health monitoring as decision making tools for a condition and reliability-based assessment of railroad bridges",
         "pub_year": "2017",
         "citation": "Sensors and Smart Structures Technologies for Civil, Mechanical, and …, 2017",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "sdeRYSMAAAAJ:Tyk-4Ss8FVUC"
     },
     {
-        "title": "Your Actions Talk: DUET-A Multimodal Dataset for Contextualizable Dyadic Activities",
-        "citation": "NeurIPS 2024 Workshop on Behavioral Machine Learning, 0",
-        "num_citations": 0,
-        "author_pub_id": "sdeRYSMAAAAJ:QIV2ME_5wuYC"
+        "title": "Your actions talk: Automated sociometric analysis using kinesics in human activities",
+        "pub_year": "2024",
+        "citation": "Proceedings of the 11th ACM International Conference on Systems for Energy …, 2024",
+        "num_citations": 3,
+        "author_pub_id": "sdeRYSMAAAAJ:7PzlFSSx8tAC"
     }
 ]

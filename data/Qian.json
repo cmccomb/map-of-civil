@@ -52,14 +52,14 @@
         "title": "A deep learning approach to real-time parking occupancy prediction in transportation networks incorporating multiple spatio-temporal data sources",
         "pub_year": "2019",
         "citation": "Transportation Research Part C: Emerging Technologies 107, 248-265, 2019",
-        "num_citations": 208,
+        "num_citations": 211,
         "author_pub_id": "i8vD3O0AAAAJ:H_jBuBxbQIAC"
     },
     {
         "title": "A general formulation for multi-modal dynamic traffic assignment considering multi-class vehicles, public transit and parking",
         "pub_year": "2019",
         "citation": "Transportation Research Part C: Emerging Technologies 104, 369-389, 2019",
-        "num_citations": 68,
+        "num_citations": 72,
         "author_pub_id": "i8vD3O0AAAAJ:__bU50VfleQC"
     },
     {
@@ -73,14 +73,14 @@
         "title": "A low rank dynamic mode decomposition model for short-term traffic flow prediction",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Intelligent Transportation Systems 22 (10), 6547-6560, 2020",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "i8vD3O0AAAAJ:TaaCk18tZOkC"
     },
     {
         "title": "A mixed traffic capacity analysis and lane management model for connected automated vehicles: A Markov chain method",
         "pub_year": "2017",
         "citation": "Transportation Research Part B: Methodological 106, 266-292, 2017",
-        "num_citations": 425,
+        "num_citations": 440,
         "author_pub_id": "i8vD3O0AAAAJ:tz746QTLzJkC"
     },
     {
@@ -101,7 +101,7 @@
         "title": "A novel work zone short-term vehicle-type specific traffic speed prediction model through the hybrid EMD–ARIMA framework",
         "pub_year": "2016",
         "citation": "Transportmetrica B: Transport Dynamics 4 (3), 159-186, 2016",
-        "num_citations": 123,
+        "num_citations": 125,
         "author_pub_id": "i8vD3O0AAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -115,7 +115,7 @@
         "title": "An Empirical Assessment and Investigation of the Driver Injury Severities in Rain-Related Rural Single-Vehicle Crashes Using Mixed and Latent-Class Logit Models",
         "pub_year": "2018",
         "citation": "Transportation Research Board 97th Annual MeetingTransportation Research Board, 2018",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "i8vD3O0AAAAJ:eAlLMO4JVmQC"
     },
     {
@@ -143,7 +143,7 @@
         "title": "Are travelers substituting between transportation network companies (TNC) and public buses? A case study in Pittsburgh",
         "pub_year": "2021",
         "citation": "Transportation 48, 977-1005, 2021",
-        "num_citations": 67,
+        "num_citations": 68,
         "author_pub_id": "i8vD3O0AAAAJ:4aZ_i-5WJEQC"
     },
     {
@@ -157,7 +157,7 @@
         "title": "Bike sharing and car trips in the city: The case of Healthy Ride Pittsburgh",
         "pub_year": "2016",
         "citation": "Available at SSRN 2853543, 2016",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "i8vD3O0AAAAJ:NMlhSUseqAsC"
     },
     {
@@ -191,7 +191,7 @@
         "title": "Cluster analysis of day-to-day traffic data in networks",
         "pub_year": "2022",
         "citation": "Transportation Research Part C: Emerging Technologies 144, 103882, 2022",
-        "num_citations": 16,
+        "num_citations": 18,
         "author_pub_id": "i8vD3O0AAAAJ:nPTYJWkExTIC"
     },
     {
@@ -219,7 +219,7 @@
         "title": "Contrastive optimized graph convolution network for traffic forecasting",
         "pub_year": "2024",
         "citation": "Neurocomputing 602, 128249, 2024",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "i8vD3O0AAAAJ:cBPnxVikjH8C"
     },
     {
@@ -261,7 +261,7 @@
         "title": "Detecting pickpocketing gangs on buses with smart card data",
         "pub_year": "2019",
         "citation": "IEEE Intelligent Transportation Systems Magazine 11 (3), 181-199, 2019",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "i8vD3O0AAAAJ:8dzOF9BpDQoC"
     },
     {
@@ -317,7 +317,7 @@
         "title": "Dynamic graph convolution network for traffic forecasting based on latent network of Laplace matrix estimation",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Intelligent Transportation Systems 23 (2), 1009-1018, 2020",
-        "num_citations": 150,
+        "num_citations": 154,
         "author_pub_id": "i8vD3O0AAAAJ:c59VksA5Vz4C"
     },
     {
@@ -338,7 +338,7 @@
         "title": "Effectiveness of incentives on electric vehicle adoption in Norway",
         "pub_year": "2016",
         "citation": "Transportation Research Part D: Transport and Environment 46, 56-68, 2016",
-        "num_citations": 606,
+        "num_citations": 615,
         "author_pub_id": "i8vD3O0AAAAJ:sA9dB-pw3HoC"
     },
     {
@@ -359,7 +359,7 @@
         "title": "Environmental impacts of first-mile-last-mile systems with shared autonomous electric vehicles and ridehailing",
         "pub_year": "2023",
         "citation": "Transportation Research Part D: Transport and Environment 118, 103677, 2023",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "i8vD3O0AAAAJ:7Frjd3zlGBUC"
     },
     {
@@ -380,21 +380,21 @@
         "title": "Estimating multi-class dynamic origin-destination demand through a forward-backward algorithm on computational graphs",
         "pub_year": "2020",
         "citation": "Transportation Research Part C: Emerging Technologies 119, 102747, 2020",
-        "num_citations": 62,
+        "num_citations": 65,
         "author_pub_id": "i8vD3O0AAAAJ:SAZ1SQo2q1kC"
     },
     {
         "title": "Estimating multi-year 24/7 origin-destination demand using high-granular multi-source traffic data",
         "pub_year": "2018",
         "citation": "Transportation Research Part C: Emerging Technologies 96, 96-121, 2018",
-        "num_citations": 66,
+        "num_citations": 68,
         "author_pub_id": "i8vD3O0AAAAJ:C33y2ycGS3YC"
     },
     {
         "title": "Estimating network flow and travel behavior using day-to-day system-level data: A computational graph approach",
         "pub_year": "2024",
         "citation": "Transportation Research Part C: Emerging Technologies 158, 104409, 2024",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "i8vD3O0AAAAJ:FsLZdJ3BAzkC"
     },
     {
@@ -436,7 +436,7 @@
         "title": "Examining driver injury severity in intersection-related crashes using cluster analysis and hierarchical Bayesian models",
         "pub_year": "2018",
         "citation": "Accident Analysis & Prevention 120, 139-151, 2018",
-        "num_citations": 88,
+        "num_citations": 90,
         "author_pub_id": "i8vD3O0AAAAJ:isU91gLudPYC"
     },
     {
@@ -449,14 +449,14 @@
         "title": "From Twitter to detector: Real-time traffic incident detection using social media data",
         "pub_year": "2016",
         "citation": "Transportation research part C: emerging technologies 67, 321-342, 2016",
-        "num_citations": 467,
+        "num_citations": 469,
         "author_pub_id": "i8vD3O0AAAAJ:oPLKW5k6eA4C"
     },
     {
         "title": "From Twitter to traffic predictor: Next-day morning traffic prediction using social media data",
         "pub_year": "2021",
         "citation": "Transportation research part C: emerging technologies 124, 102938, 2021",
-        "num_citations": 74,
+        "num_citations": 77,
         "author_pub_id": "i8vD3O0AAAAJ:jmjb1lOE9QIC"
     },
     {
@@ -476,7 +476,7 @@
         "title": "Hierarchical graph convolution network for traffic forecasting",
         "pub_year": "2021",
         "citation": "Proceedings of the AAAI conference on artificial intelligence 35 (1), 151-159, 2021",
-        "num_citations": 207,
+        "num_citations": 215,
         "author_pub_id": "i8vD3O0AAAAJ:naSTrk-c4S8C"
     },
     {
@@ -490,7 +490,7 @@
         "title": "High-resolution traffic sensing with probe autonomous vehicles: A data-driven approach",
         "pub_year": "2021",
         "citation": "Sensors 21 (2), 464, 2021",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "i8vD3O0AAAAJ:ijdKiLOsEJMC"
     },
     {
@@ -532,7 +532,7 @@
         "title": "Improving the performance of first-and last-mile mobility services through transit coordination, real-time demand prediction, advanced reservations, and trip prioritization",
         "pub_year": "2021",
         "citation": "Transportation Research Part C: Emerging Technologies 133, 103430, 2021",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "i8vD3O0AAAAJ:qmtmRrLr0tkC"
     },
     {
@@ -581,7 +581,7 @@
         "title": "Interpretable mixture of experts for time series prediction under recurrent and non-recurrent conditions",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2409.03282, 2024",
-        "num_citations": 2,
+        "num_citations": 4,
         "author_pub_id": "i8vD3O0AAAAJ:xGWFX6Gbr9MC"
     },
     {
@@ -595,14 +595,14 @@
         "title": "Investigating Driver Injury Severity Patterns in Rollover Crashes Using Support Vector Machine Models",
         "pub_year": "2016",
         "citation": "Accident Analysis & Prevention 90, 128-139, 2016",
-        "num_citations": 251,
+        "num_citations": 252,
         "author_pub_id": "i8vD3O0AAAAJ:UmS_249rOGwC"
     },
     {
         "title": "Investigation of driver injury severities in rural single-vehicle crashes under rain conditions using mixed logit and latent class models",
         "pub_year": "2019",
         "citation": "Accident Analysis & Prevention 124, 219-229, 2019",
-        "num_citations": 96,
+        "num_citations": 100,
         "author_pub_id": "i8vD3O0AAAAJ:tHtfpZlB6tUC"
     },
     {
@@ -610,6 +610,13 @@
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "i8vD3O0AAAAJ:W2uZP3ddy8sC"
+    },
+    {
+        "title": "Know Unreported Roadway Incidents in Real-time: A Deep Learning Framework for Early Traffic Anomaly Detection",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2412.10892, 2024",
+        "num_citations": 0,
+        "author_pub_id": "i8vD3O0AAAAJ:9shLKfS_uJEC"
     },
     {
         "title": "Lane Management with Variable Lane Width and Model Calibration for Connected Automated Vehicles",
@@ -636,7 +643,7 @@
         "title": "Learning to recommend signal plans under incidents with real-time traffic prediction",
         "pub_year": "2020",
         "citation": "Transportation Research Record 2674 (6), 45-59, 2020",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "i8vD3O0AAAAJ:_AeoHAGD03cC"
     },
     {
@@ -650,14 +657,14 @@
         "title": "Managing bottleneck congestion with tradable credits",
         "pub_year": "2013",
         "citation": "Transportation Research Part B: Methodological 56, 1-14, 2013",
-        "num_citations": 170,
+        "num_citations": 171,
         "author_pub_id": "i8vD3O0AAAAJ:qxL8FJ1GzNcC"
     },
     {
         "title": "Managing morning commute traffic with parking",
         "pub_year": "2012",
         "citation": "Transportation research part B: methodological 46 (7), 894-916, 2012",
-        "num_citations": 154,
+        "num_citations": 156,
         "author_pub_id": "i8vD3O0AAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -692,7 +699,7 @@
         "title": "Measuring and reducing the disequilibrium levels of dynamic networks with ride-sourcing vehicle data",
         "pub_year": "2020",
         "citation": "Transportation Research Part C: Emerging Technologies 110, 222-246, 2020",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "i8vD3O0AAAAJ:Zh0EY9V9P6UC"
     },
     {
@@ -727,20 +734,20 @@
         "title": "Modeling heterogeneous traffic flow: A pragmatic approach",
         "pub_year": "2017",
         "citation": "Transportation Research Part B: Methodological 99, 183-204, 2017",
-        "num_citations": 117,
+        "num_citations": 119,
         "author_pub_id": "i8vD3O0AAAAJ:hSRAE-fF4OAC"
     },
     {
         "title": "Modeling multi-modal morning commute in a one-to-one corridor network",
         "pub_year": "2011",
         "citation": "Transportation Research Part C: Emerging Technologies 19 (2), 254-269, 2011",
-        "num_citations": 94,
+        "num_citations": 95,
         "author_pub_id": "i8vD3O0AAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "Modeling multimodal curbside usage in dynamic networks",
         "pub_year": "2024",
-        "citation": "Transportation Science, 2024",
+        "citation": "Transportation Science 58 (6), 1277-1299, 2024",
         "num_citations": 1,
         "author_pub_id": "i8vD3O0AAAAJ:3_LpOwP6eMYC"
     },
@@ -832,21 +839,21 @@
         "title": "Optimal deployment of alternative fueling stations on transportation networks considering deviation paths",
         "pub_year": "2015",
         "citation": "Networks and Spatial Economics 15, 183-204, 2015",
-        "num_citations": 128,
+        "num_citations": 130,
         "author_pub_id": "i8vD3O0AAAAJ:qUcmZB5y_30C"
     },
     {
         "title": "Optimal dynamic parking pricing for morning commute considering expected cruising time",
         "pub_year": "2014",
         "citation": "Transportation Research Part C: Emerging Technologies 48, 468-490, 2014",
-        "num_citations": 141,
+        "num_citations": 143,
         "author_pub_id": "i8vD3O0AAAAJ:IWHjjKOFINEC"
     },
     {
         "title": "Optimal dynamic pricing for morning commute parking",
         "pub_year": "2015",
         "citation": "Transportmetrica A: Transport Science 11 (4), 291-316, 2015",
-        "num_citations": 56,
+        "num_citations": 58,
         "author_pub_id": "i8vD3O0AAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -887,14 +894,14 @@
         "title": "Optimized graph convolution recurrent neural network for traffic prediction",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Intelligent Transportation Systems 22 (2), 1138-1149, 2020",
-        "num_citations": 319,
+        "num_citations": 325,
         "author_pub_id": "i8vD3O0AAAAJ:KWzIFqRkAKkC"
     },
     {
         "title": "Optimizing first-and last-mile public transit services leveraging transportation network companies (TNC)",
         "pub_year": "2023",
         "citation": "Transportation 50 (5), 2049-2076, 2023",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "i8vD3O0AAAAJ:pYKElYtJMmwC"
     },
     {
@@ -936,7 +943,7 @@
         "title": "Predicting real-time surge pricing of ride-sourcing companies",
         "pub_year": "2019",
         "citation": "Transportation Research Part C: Emerging Technologies 107, 444-462, 2019",
-        "num_citations": 67,
+        "num_citations": 69,
         "author_pub_id": "i8vD3O0AAAAJ:-yGd096yOn8C"
     },
     {
@@ -992,7 +999,7 @@
         "title": "Real-time system optimal traffic routing under uncertainties--Can physics models boost reinforcement learning?",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2407.07364, 2024",
-        "num_citations": 5,
+        "num_citations": 7,
         "author_pub_id": "i8vD3O0AAAAJ:YPNY0knpFBYC"
     },
     {
@@ -1033,7 +1040,7 @@
         "title": "Road traffic congestion monitoring in social media with hinge-loss Markov random fields",
         "pub_year": "2014",
         "citation": "2014 IEEE international conference on data mining, 80-89, 2014",
-        "num_citations": 142,
+        "num_citations": 143,
         "author_pub_id": "i8vD3O0AAAAJ:-f6ydRqryjwC"
     },
     {
@@ -1095,7 +1102,7 @@
         "title": "Socioeconomic and usage characteristics of transportation network company (TNC) riders",
         "pub_year": "2020",
         "citation": "Transportation 47, 3047-3067, 2020",
-        "num_citations": 124,
+        "num_citations": 125,
         "author_pub_id": "i8vD3O0AAAAJ:RuPIJ_LgqDgC"
     },
     {
@@ -1116,7 +1123,7 @@
         "title": "Statistical inference of travelers’ route choice preferences with system-level data",
         "pub_year": "2024",
         "citation": "Transportation research part B: methodological 179, 102853, 2024",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "i8vD3O0AAAAJ:n3vGvpFsckwC"
     },
     {
@@ -1150,14 +1157,14 @@
         "title": "The economics of parking provision for the morning commute",
         "pub_year": "2011",
         "citation": "Procedia-Social and Behavioral Sciences 17, 612-633, 2011",
-        "num_citations": 115,
+        "num_citations": 114,
         "author_pub_id": "i8vD3O0AAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "The impact of car specifications, prices and incentives for battery electric vehicles in Norway: Choices of heterogeneous consumers",
         "pub_year": "2016",
         "citation": "Transportation Research Part C: Emerging Technologies 69, 386-401, 2016",
-        "num_citations": 140,
+        "num_citations": 143,
         "author_pub_id": "i8vD3O0AAAAJ:X0DADzN9RKwC"
     },
     {
@@ -1213,7 +1220,7 @@
         "title": "Traffic state estimation for urban road networks using a link queue model",
         "pub_year": "2017",
         "citation": "Transportation research record 2623 (1), 29-39, 2017",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "i8vD3O0AAAAJ:wE-fMHVdjMkC"
     },
     {
@@ -1227,7 +1234,7 @@
         "title": "Turning meter transactions data into occupancy and payment behavioral information for on-street parking",
         "pub_year": "2017",
         "citation": "Transportation Research Part C: Emerging Technologies 78, 165-182, 2017",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "i8vD3O0AAAAJ:v6i8RKmR8ToC"
     },
     {
@@ -1248,7 +1255,7 @@
         "title": "Understanding and predicting travel time with spatio-temporal features of network traffic flow, weather and incidents",
         "pub_year": "2019",
         "citation": "IEEE Intelligent Transportation Systems Magazine 11 (3), 12-28, 2019",
-        "num_citations": 69,
+        "num_citations": 70,
         "author_pub_id": "i8vD3O0AAAAJ:zwpXiJ37cpgC"
     },
     {
@@ -1276,7 +1283,7 @@
         "title": "User-centric interdependent urban systems: Using time-of-day electricity usage data to predict morning roadway congestion",
         "pub_year": "2018",
         "citation": "Transportation Research Part C: Emerging Technologies 92, 392-411, 2018",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "i8vD3O0AAAAJ:2ywjKiB__4kC"
     },
     {
