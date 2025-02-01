@@ -43,7 +43,7 @@
     {
         "title": "A formal approach to structural health monitoring design",
         "pub_year": "2016",
-        "citation": "8th European Workshop on Structural Health Monitoring, EWSHM 2016, 500-509, 2016",
+        "citation": "8th European Workshop on Structural Health Monitoring, EWSHM 2016 1, 500-509, 2016",
         "num_citations": 0,
         "author_pub_id": "NldhiuYAAAAJ:PR6Y55bgFSsC"
     },
@@ -51,7 +51,7 @@
         "title": "A framework for evaluating the impact of structural health monitoring on bridge management",
         "pub_year": "2010",
         "citation": "Proc. 5th Int. Conf. Bridge Maintenance, Safety Manage, 161, 2010",
-        "num_citations": 55,
+        "num_citations": 57,
         "author_pub_id": "NldhiuYAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -170,7 +170,7 @@
         "title": "Bayesian calibration of building energy models with large datasets",
         "pub_year": "2017",
         "citation": "Energy and Buildings 154, 343-355, 2017",
-        "num_citations": 133,
+        "num_citations": 136,
         "author_pub_id": "NldhiuYAAAAJ:uJ-U7cs_P_0C"
     },
     {
@@ -247,7 +247,7 @@
         "title": "Conditional entropy and value of information metrics for optimal sensing in infrastructure systems",
         "pub_year": "2016",
         "citation": "Structural Safety 60, 77-90, 2016",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "NldhiuYAAAAJ:9vf0nzSNQJEC"
     },
     {
@@ -393,7 +393,7 @@
         "title": "Hidden-model processes for adaptive management under uncertain climate change",
         "pub_year": "2017",
         "citation": "Journal of Infrastructure Systems 23 (4), 04017022, 2017",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "NldhiuYAAAAJ:2KloaMYe4IUC"
     },
     {
@@ -477,7 +477,7 @@
         "title": "Integrated Inspection Scheduling and Maintenance Planning for Infrastructure Systems",
         "pub_year": "2015",
         "citation": "Computer‐Aided Civil and Infrastructure Engineering 31 (6), 403–415, 2015",
-        "num_citations": 98,
+        "num_citations": 99,
         "author_pub_id": "NldhiuYAAAAJ:eMMeJKvmdy0C"
     },
     {
@@ -546,7 +546,7 @@
         "title": "Mechanochromic photonic crystals as strain sensors",
         "pub_year": "2010",
         "citation": "Systems Integration 2010-4th European Conference and Exhibition on …, 2010",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "NldhiuYAAAAJ:_B80troHkn4C"
     },
     {
@@ -574,7 +574,7 @@
         "title": "Monitoring heritage buildings with wireless sensor networks: The Torre Aquila deployment",
         "pub_year": "2009",
         "citation": "2009 International Conference on Information Processing in Sensor Networks …, 2009",
-        "num_citations": 510,
+        "num_citations": 511,
         "author_pub_id": "NldhiuYAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -748,7 +748,7 @@
         "title": "Photonic crystals for monitoring fatigue phenomena in steel structures",
         "pub_year": "2009",
         "citation": "Sensors and Smart Structures Technologies for Civil, Mechanical, and …, 2009",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "NldhiuYAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -1005,7 +1005,7 @@
         "title": "Surface heat assessment for developed environments: Probabilistic urban temperature modeling",
         "pub_year": "2017",
         "citation": "Computers, Environment and Urban Systems 66, 53-64, 2017",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "NldhiuYAAAAJ:evX43VCCuoAC"
     },
     {
@@ -1053,14 +1053,14 @@
         "title": "Value of Information for Spatially Distributed Systems: application to sensor placement",
         "pub_year": "2016",
         "citation": "Reliability Engineering & System Safety 154, 219-233, 2016",
-        "num_citations": 87,
+        "num_citations": 88,
         "author_pub_id": "NldhiuYAAAAJ:N5tVd3kTz84C"
     },
     {
         "title": "Value of Information in Sequential Decision Making: component inspection, permanent monitoring and system-level scheduling",
         "pub_year": "2016",
         "citation": "Reliability Engineering & System Safety, 2016",
-        "num_citations": 108,
+        "num_citations": 109,
         "author_pub_id": "NldhiuYAAAAJ:ZuybSZzF8UAC"
     },
     {
@@ -1081,7 +1081,7 @@
         "title": "Value of information: A roadmap to quantifying the benefit of structural health monitoring",
         "pub_year": "2017",
         "citation": "ICOSSAR-12th international conference on structural safety & reliability, 2017",
-        "num_citations": 98,
+        "num_citations": 99,
         "author_pub_id": "NldhiuYAAAAJ:35r97b3x0nAC"
     },
     {
@@ -1108,7 +1108,7 @@
         "title": "What makes long-term monitoring convenient? A parametric analysis of value of information in infrastructure maintenance",
         "pub_year": "2019",
         "citation": "Structural Control and Health Monitoring 26 (5), e2329, 2019",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "NldhiuYAAAAJ:PoWvk5oyLR8C"
     },
     {

@@ -3,7 +3,7 @@
         "title": "A Bayesian network approach for predicting social interactions in shared spatial environments",
         "pub_year": "2024",
         "citation": "Proceedings of the 11th ACM International Conference on Systems for Energy …, 2024",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "sdeRYSMAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -45,7 +45,7 @@
         "title": "Distributed MPC-ILC Thermal Control Design for Large-Scale Multi-Zone Building HVAC System",
         "pub_year": "2023",
         "citation": "ACM SIGENERGY Energy Informatics Review 3 (2), 34-46, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "sdeRYSMAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -66,7 +66,7 @@
         "title": "Exploring the potentials and challenges of cyber-physical-social infrastructure systems for achieving human-centered objectives",
         "pub_year": "2023",
         "citation": "Proceedings of the 10th ACM International Conference on Systems for Energy …, 2023",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "sdeRYSMAAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -89,6 +89,13 @@
         "citation": "IEEE Internet of Things Magazine 7 (6), 10-12, 2024",
         "num_citations": 0,
         "author_pub_id": "sdeRYSMAAAAJ:dhFuZR0502QC"
+    },
+    {
+        "title": "HM-SYNC: A Multimodal Dataset of Human Interactions with Advanced Manufacturing Machinery",
+        "pub_year": "2025",
+        "citation": "Journal of Mechanical Design, 1-10, 2025",
+        "num_citations": 0,
+        "author_pub_id": "sdeRYSMAAAAJ:qUcmZB5y_30C"
     },
     {
         "title": "Health assessment and risk mitigation of railroad networks exposed to natural hazards using commercial remote sensing and spatial information technologies.",
@@ -155,7 +162,7 @@
         "title": "Modeling human behavior in cyber-physical-social infrastructure systems",
         "pub_year": "2023",
         "citation": "Proceedings of the 10th ACM International Conference on Systems for Energy …, 2023",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "sdeRYSMAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -187,6 +194,13 @@
         "author_pub_id": "sdeRYSMAAAAJ:UeHWp8X0CEIC"
     },
     {
+        "title": "Preference-Aware Human Spatial Behavior Modeling in Cyber-Physical-Human Systems",
+        "pub_year": "2024",
+        "citation": "IFAC-PapersOnLine 58 (30), 115-120, 2024",
+        "num_citations": 0,
+        "author_pub_id": "sdeRYSMAAAAJ:IWHjjKOFINEC"
+    },
+    {
         "title": "Probabilistic fatigue assessment of monitored railroad bridge components using long-term response data in a reliability framework",
         "pub_year": "2020",
         "citation": "Structural Health Monitoring 19 (6), 2122-2142, 2020",
@@ -206,6 +220,13 @@
         "citation": "2022 IEEE International Smart Cities Conference (ISC2), 1-7, 2022",
         "num_citations": 3,
         "author_pub_id": "sdeRYSMAAAAJ:zYLM7Y9cAGgC"
+    },
+    {
+        "title": "Read the room: Inferring social context through dyadic interaction recognition in cyber-physicalsocial infrastructure systems",
+        "pub_year": "2024",
+        "citation": "ASCE International Conference on Computing in Civil Engineering 2024, 2024",
+        "num_citations": 5,
+        "author_pub_id": "sdeRYSMAAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "Reliability-based framework for health assessment of link plate assemblies using long-term bridge monitoring data",
@@ -232,7 +253,7 @@
         "title": "Skeleton-based human action recognition in a thermal comfort context",
         "pub_year": "2023",
         "citation": "Proceedings of the 10th ACM International Conference on Systems for Energy …, 2023",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "sdeRYSMAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -246,14 +267,14 @@
         "title": "State-of-the-Art Review: The Use of Digital Twins to Support Artificial Intelligence-Guided Predictive Maintenance",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2406.13117, 2024",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "sdeRYSMAAAAJ:Wp0gIr-vW9MC"
     },
     {
         "title": "State-of-the-art review and synthesis: A requirement-based roadmap for standardized predictive maintenance automation using digital twin technologies",
         "pub_year": "2024",
         "citation": "Advanced Engineering Informatics 62, 102800, 2024",
-        "num_citations": 5,
+        "num_citations": 8,
         "author_pub_id": "sdeRYSMAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -281,7 +302,7 @@
         "title": "Your actions talk: Automated sociometric analysis using kinesics in human activities",
         "pub_year": "2024",
         "citation": "Proceedings of the 11th ACM International Conference on Systems for Energy …, 2024",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "sdeRYSMAAAAJ:7PzlFSSx8tAC"
     }
 ]

@@ -66,7 +66,7 @@
         "title": "Exploring the potentials and challenges of cyber-physical-social infrastructure systems for achieving human-centered objectives",
         "pub_year": "2023",
         "citation": "Proceedings of the 10th ACM International Conference on Systems for Energy …, 2023",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "sdeRYSMAAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -176,7 +176,7 @@
         "title": "Optimal event-based policy for remote parameter estimation in wireless sensing architectures under resource constraints",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Wireless Communications 21 (7), 5293-5304, 2022",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "sdeRYSMAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -246,14 +246,14 @@
         "title": "State-of-the-Art Review: The Use of Digital Twins to Support Artificial Intelligence-Guided Predictive Maintenance",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2406.13117, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "sdeRYSMAAAAJ:Wp0gIr-vW9MC"
     },
     {
         "title": "State-of-the-art review and synthesis: A requirement-based roadmap for standardized predictive maintenance automation using digital twin technologies",
         "pub_year": "2024",
         "citation": "Advanced Engineering Informatics 62, 102800, 2024",
-        "num_citations": 3,
+        "num_citations": 5,
         "author_pub_id": "sdeRYSMAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -281,7 +281,7 @@
         "title": "Your actions talk: Automated sociometric analysis using kinesics in human activities",
         "pub_year": "2024",
         "citation": "Proceedings of the 11th ACM International Conference on Systems for Energy …, 2024",
-        "num_citations": 3,
+        "num_citations": 5,
         "author_pub_id": "sdeRYSMAAAAJ:7PzlFSSx8tAC"
     }
 ]
