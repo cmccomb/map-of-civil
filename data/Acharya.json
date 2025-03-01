@@ -30,7 +30,7 @@
         "title": "A design principle for actuation of nematic glass sheets",
         "pub_year": "2019",
         "citation": "Journal of Elasticity 136 (2), 237-249, 2019",
-        "num_citations": 9,
+        "num_citations": 8,
         "author_pub_id": "lRpngMEAAAAJ:1yQoGdGgb4wC"
     },
     {
@@ -44,7 +44,7 @@
         "title": "A distinct element approach to ball mill mechanics",
         "pub_year": "2000",
         "citation": "Communications in numerical methods in engineering 16 (11), 743-753, 2000",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "lRpngMEAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -65,14 +65,14 @@
         "title": "A model for rate-dependent flow of metal polycrystals based on the slip plane lattice incompatibility",
         "pub_year": "2001",
         "citation": "Materials Science and Engineering: A 309, 411-415, 2001",
-        "num_citations": 47,
+        "num_citations": 45,
         "author_pub_id": "lRpngMEAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "A model of crystal plasticity based on the theory of continuously distributed dislocations",
         "pub_year": "2001",
         "citation": "Journal of the Mechanics and Physics of Solids 49 (4), 761-784, 2001",
-        "num_citations": 414,
+        "num_citations": 415,
         "author_pub_id": "lRpngMEAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -93,7 +93,7 @@
         "title": "A nonlinear generalization of the Koiter–Sanders–Budiansky bending strain measure",
         "pub_year": "2000",
         "citation": "International Journal of Solids and Structures 37 (39), 5517-5528, 2000",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "lRpngMEAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -107,14 +107,14 @@
         "title": "A single theory for some quasi-static, supersonic, atomic, and tectonic scale applications of dislocations",
         "pub_year": "2015",
         "citation": "Journal of the Mechanics and Physics of Solids 84, 145-195, 2015",
-        "num_citations": 78,
+        "num_citations": 80,
         "author_pub_id": "lRpngMEAAAAJ:tOudhMTPpwUC"
     },
     {
         "title": "A space-time discontinuous Galerkin method for elastodynamic analysis",
         "pub_year": "2000",
         "citation": "Discontinuous Galerkin Methods: theory, computation and applications, 459-464, 2000",
-        "num_citations": 60,
+        "num_citations": 61,
         "author_pub_id": "lRpngMEAAAAJ:5awf1xo2G04C"
     },
     {
@@ -128,20 +128,20 @@
         "title": "A study of conditions for dislocation nucleation in coarser-than-atomistic scale models",
         "pub_year": "2015",
         "citation": "Journal of the Mechanics and Physics of Solids 75, 76-92, 2015",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "lRpngMEAAAAJ:u_35RYKgDlwC"
     },
     {
         "title": "A unification of finite deformation J2 Von-Mises plasticity and quantitative dislocation mechanics",
         "pub_year": "2020",
         "citation": "Journal of the Mechanics and Physics of Solids 143, 104050, 2020",
-        "num_citations": 44,
+        "num_citations": 46,
         "author_pub_id": "lRpngMEAAAAJ:tYavs44e6CUC"
     },
     {
         "title": "An observation on the experimental measurement of dislocation density",
         "pub_year": "2014",
-        "citation": "Journal of Elasticity 114, 275-279, 2014",
+        "citation": "Journal of Elasticity 114 (2), 275-279, 2014",
         "num_citations": 7,
         "author_pub_id": "lRpngMEAAAAJ:lSLTfruPkqcC"
     },
@@ -163,7 +163,7 @@
         "title": "Can equations of equilibrium predict all physical equilibria? A case study from Field Dislocation Mechanics",
         "pub_year": "2013",
         "citation": "Mathematics and Mechanics of Solids 18 (8), 803-822, 2013",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "lRpngMEAAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -219,7 +219,7 @@
         "title": "Constitutive analysis of finite deformation field dislocation mechanics",
         "pub_year": "2004",
         "citation": "Journal of the Mechanics and Physics of Solids 52 (2), 301-316, 2004",
-        "num_citations": 134,
+        "num_citations": 137,
         "author_pub_id": "lRpngMEAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -247,14 +247,14 @@
         "title": "Continuum mechanics of the interaction of phase boundaries and dislocations in solids",
         "pub_year": "2015",
         "citation": "Differential geometry and continuum mechanics, 123-165, 2015",
-        "num_citations": 39,
+        "num_citations": 42,
         "author_pub_id": "lRpngMEAAAAJ:HoB7MX3m0LUC"
     },
     {
         "title": "Continuum theory and methods for coarse-grained, mesoscopic plasticity",
         "pub_year": "2006",
         "citation": "Scripta materialia 54 (5), 705-710, 2006",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "lRpngMEAAAAJ:8k81kl-MbHgC"
     },
     {
@@ -268,7 +268,7 @@
         "title": "Coupled phase transformations and plasticity as a field theory of deformation incompatibility",
         "pub_year": "2012",
         "citation": "International journal of fracture 174, 87-94, 2012",
-        "num_citations": 47,
+        "num_citations": 49,
         "author_pub_id": "lRpngMEAAAAJ:mB3voiENLucC"
     },
     {
@@ -303,21 +303,21 @@
         "title": "Dislocation pattern formation in finite deformation crystal plasticity",
         "pub_year": "2020",
         "citation": "International Journal of Solids and Structures 184, 114-135, 2020",
-        "num_citations": 58,
+        "num_citations": 60,
         "author_pub_id": "lRpngMEAAAAJ:35r97b3x0nAC"
     },
     {
         "title": "Dislocation transport using an explicit Galerkin/least-squares formulation",
         "pub_year": "2006",
         "citation": "Modelling and Simulation in Materials Science and Engineering 14 (7), 1245, 2006",
-        "num_citations": 82,
+        "num_citations": 84,
         "author_pub_id": "lRpngMEAAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "Driving forces and boundary conditions in continuum dislocation mechanics",
         "pub_year": "2003",
         "citation": "Proceedings of the Royal Society of London. Series A: Mathematical, Physical …, 2003",
-        "num_citations": 136,
+        "num_citations": 139,
         "author_pub_id": "lRpngMEAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -345,7 +345,7 @@
         "title": "Field dislocation mechanics and phase field crystal models",
         "pub_year": "2020",
         "citation": "Physical Review B 102 (6), 064109, 2020",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "lRpngMEAAAAJ:kuK5TVdYjLIC"
     },
     {
@@ -359,14 +359,14 @@
         "title": "Finite element approximation of finite deformation dislocation mechanics",
         "pub_year": "2020",
         "citation": "Computer Methods in Applied Mechanics and Engineering 367, 113076, 2020",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "lRpngMEAAAAJ:AvfA0Oy_GE0C"
     },
     {
         "title": "Finite element approximation of the fields of bulk and interfacial line defects",
         "pub_year": "2018",
         "citation": "Journal of the Mechanics and Physics of Solids 114, 258-302, 2018",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "lRpngMEAAAAJ:Mojj43d5GZwC"
     },
     {
@@ -407,7 +407,7 @@
         "title": "Geometrically necessary dislocations, hardening, and a simple gradient theory of crystal plasticity",
         "pub_year": "2003",
         "citation": "Scripta Materialia 48 (2), 167-172, 2003",
-        "num_citations": 73,
+        "num_citations": 72,
         "author_pub_id": "lRpngMEAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -435,14 +435,14 @@
         "title": "Incompatible lattice deformations and crystal plasticity",
         "pub_year": "1995",
         "citation": "Plastic and Fracture Instabilities in Materials, AMD 200, 75-80, 1995",
-        "num_citations": 28,
+        "num_citations": 27,
         "author_pub_id": "lRpngMEAAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "Jump condition for GND evolution as a constraint on slip transmission at grain boundaries",
         "pub_year": "2007",
         "citation": "Philosophical magazine 87 (8-9), 1349-1359, 2007",
-        "num_citations": 67,
+        "num_citations": 68,
         "author_pub_id": "lRpngMEAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -456,7 +456,7 @@
         "title": "Lattice incompatibility and a gradient theory of crystal plasticity",
         "pub_year": "2000",
         "citation": "Journal of the Mechanics and Physics of Solids 48 (8), 1565-1595, 2000",
-        "num_citations": 556,
+        "num_citations": 557,
         "author_pub_id": "lRpngMEAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -470,7 +470,7 @@
         "title": "Mechanical response of multicrystalline thin films in mesoscale field dislocation mechanics",
         "pub_year": "2011",
         "citation": "Journal of the Mechanics and Physics of Solids 59 (11), 2400-2417, 2011",
-        "num_citations": 58,
+        "num_citations": 59,
         "author_pub_id": "lRpngMEAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -484,7 +484,7 @@
         "title": "Microcanonical entropy and mesoscale dislocation mechanics and plasticity",
         "pub_year": "2011",
         "citation": "Journal of Elasticity 104, 23-44, 2011",
-        "num_citations": 56,
+        "num_citations": 58,
         "author_pub_id": "lRpngMEAAAAJ:4DMP91E08xMC"
     },
     {
@@ -498,7 +498,7 @@
         "title": "Model reduction via parametrized locally invariant manifolds: some examples",
         "pub_year": "2006",
         "citation": "Computer methods in applied mechanics and engineering 195 (44-47), 6287-6311, 2006",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "lRpngMEAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -532,21 +532,21 @@
         "title": "New inroads in an old subject: plasticity, from around the atomic to the macroscopic scale",
         "pub_year": "2010",
         "citation": "Journal of the Mechanics and Physics of Solids 58 (5), 766-778, 2010",
-        "num_citations": 60,
+        "num_citations": 61,
         "author_pub_id": "lRpngMEAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "New perspectives in plasticity theory: dislocation nucleation, waves, and partial continuity of plastic strain rate",
         "pub_year": "2008",
         "citation": "Mathematics and Mechanics of Solids 13 (3-4), 292-315, 2008",
-        "num_citations": 89,
+        "num_citations": 90,
         "author_pub_id": "lRpngMEAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Numerical implementation of static Field Dislocation Mechanics theory for periodic media",
         "pub_year": "2014",
         "citation": "Philosophical Magazine 94 (16), 1764-1787, 2014",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "lRpngMEAAAAJ:SeFeTyx0c_EC"
     },
     {
@@ -574,7 +574,7 @@
         "title": "On an equation from the theory of field dislocation mechanics",
         "pub_year": "2011",
         "citation": "Bollettino dell’Unione Matematica Italiana 9, 409-444, 2011",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "lRpngMEAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -609,14 +609,14 @@
         "title": "On the relevance of generalized disclinations in defect mechanics",
         "pub_year": "2018",
         "citation": "Journal of the Mechanics and Physics of Solids 119, 188-223, 2018",
-        "num_citations": 28,
+        "num_citations": 30,
         "author_pub_id": "lRpngMEAAAAJ:olpn-zPbct0C"
     },
     {
         "title": "On the structure of linear dislocation field theory",
         "pub_year": "2019",
         "citation": "Journal of the Mechanics and Physics of Solids 130, 216-244, 2019",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "lRpngMEAAAAJ:evX43VCCuoAC"
     },
     {
@@ -630,7 +630,7 @@
         "title": "Parametrized invariant manifolds: a recipe for multiscale modeling?",
         "pub_year": "2005",
         "citation": "Computer Methods in Applied Mechanics and Engineering 194 (27-29), 3067-3089, 2005",
-        "num_citations": 20,
+        "num_citations": 19,
         "author_pub_id": "lRpngMEAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -678,7 +678,7 @@
     {
         "title": "Simulations of solid rocket motors using a partitioned fluid-structure interaction algorithm",
         "pub_year": "2000",
-        "citation": "Developments in engineering computational technology (Leuven, 6-8 September …, 2000",
+        "citation": "Developments in engineering computational technology, 277-282, 2000",
         "num_citations": 0,
         "author_pub_id": "lRpngMEAAAAJ:BqipwSGYUEgC"
     },
@@ -686,14 +686,14 @@
         "title": "Size effects and idealized dislocation microstructure at small scales: Predictions of a Phenomenological model of Mesoscopic Field Dislocation Mechanics: Part I",
         "pub_year": "2006",
         "citation": "Journal of the Mechanics and Physics of Solids 54 (8), 1687-1710, 2006",
-        "num_citations": 195,
+        "num_citations": 197,
         "author_pub_id": "lRpngMEAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Size effects and idealized dislocation microstructure at small scales: predictions of a phenomenological model of mesoscopic field dislocation mechanics: Part II",
         "pub_year": "2006",
         "citation": "Journal of the Mechanics and Physics of Solids 54 (8), 1711-1743, 2006",
-        "num_citations": 109,
+        "num_citations": 111,
         "author_pub_id": "lRpngMEAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -721,7 +721,7 @@
         "title": "The Clausius-Duhem inequality and the structure of rate-independent plasticity",
         "pub_year": "1996",
         "citation": "International journal of plasticity 12 (2), 229-238, 1996",
-        "num_citations": 24,
+        "num_citations": 23,
         "author_pub_id": "lRpngMEAAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -762,7 +762,7 @@
         "title": "Travelling wave solutions for a quasilinear model of field dislocation mechanics",
         "pub_year": "2010",
         "citation": "Journal of the Mechanics and Physics of Solids 58 (12), 2043-2053, 2010",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "lRpngMEAAAAJ:mVmsd5A6BfQC"
     },
     {

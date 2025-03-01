@@ -24,7 +24,7 @@
         "title": "Community engagement using urban sensing: technology development and deployment studies",
         "pub_year": "2018",
         "citation": "Advanced Computing Strategies for Engineering: 25th EG-ICE International …, 2018",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "sdeRYSMAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -66,7 +66,7 @@
         "title": "Exploring the potentials and challenges of cyber-physical-social infrastructure systems for achieving human-centered objectives",
         "pub_year": "2023",
         "citation": "Proceedings of the 10th ACM International Conference on Systems for Energy …, 2023",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "sdeRYSMAAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -80,7 +80,7 @@
         "title": "Functional Requirements Enabling Levels of Predictive Maintenance Automation and Autonomy",
         "pub_year": "2022",
         "citation": "2022 IEEE 2nd International Conference on Digital Twins and Parallel …, 2022",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "sdeRYSMAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -94,7 +94,7 @@
         "title": "HM-SYNC: A Multimodal Dataset of Human Interactions with Advanced Manufacturing Machinery",
         "pub_year": "2025",
         "citation": "Journal of Mechanical Design, 1-10, 2025",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "sdeRYSMAAAAJ:qUcmZB5y_30C"
     },
     {
@@ -162,14 +162,14 @@
         "title": "Modeling human behavior in cyber-physical-social infrastructure systems",
         "pub_year": "2023",
         "citation": "Proceedings of the 10th ACM International Conference on Systems for Energy …, 2023",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "sdeRYSMAAAAJ:Zph67rFs4hoC"
     },
     {
         "title": "Objective resilience monitoring for railroad systems",
         "pub_year": "2022",
         "citation": "Objective resilience: Technology, 75-120, 2022",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "sdeRYSMAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -225,7 +225,7 @@
         "title": "Read the room: Inferring social context through dyadic interaction recognition in cyber-physicalsocial infrastructure systems",
         "pub_year": "2024",
         "citation": "ASCE International Conference on Computing in Civil Engineering 2024, 2024",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "sdeRYSMAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -274,7 +274,7 @@
         "title": "State-of-the-art review and synthesis: A requirement-based roadmap for standardized predictive maintenance automation using digital twin technologies",
         "pub_year": "2024",
         "citation": "Advanced Engineering Informatics 62, 102800, 2024",
-        "num_citations": 8,
+        "num_citations": 11,
         "author_pub_id": "sdeRYSMAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -299,10 +299,16 @@
         "author_pub_id": "sdeRYSMAAAAJ:Tyk-4Ss8FVUC"
     },
     {
+        "title": "Your Actions Talk: DUET-A Multimodal Dataset for Contextualizable Dyadic Activities",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "sdeRYSMAAAAJ:hC7cP41nSMkC"
+    },
+    {
         "title": "Your actions talk: Automated sociometric analysis using kinesics in human activities",
         "pub_year": "2024",
         "citation": "Proceedings of the 11th ACM International Conference on Systems for Energy …, 2024",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "sdeRYSMAAAAJ:7PzlFSSx8tAC"
     }
 ]

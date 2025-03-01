@@ -57,7 +57,7 @@
         "title": "A comparative analysis of depth-discontinuity and mixed-pixel detection algorithms",
         "pub_year": "2007",
         "citation": "3-D Digital Imaging and Modeling, 2007. 3DIM'07. Sixth International …, 2007",
-        "num_citations": 70,
+        "num_citations": 72,
         "author_pub_id": "U43hPn8AAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -85,7 +85,7 @@
         "title": "A metaheuristic-guided machine learning approach for concrete strength prediction with high mix design variability using ultrasonic pulse velocity data",
         "pub_year": "2023",
         "citation": "Developments in the Built Environment 15, 100220, 2023",
-        "num_citations": 5,
+        "num_citations": 8,
         "author_pub_id": "U43hPn8AAAAJ:zdX0sdgBH_kC"
     },
     {
@@ -141,7 +141,7 @@
         "title": "Applying crowdsourcing techniques in urban planning: A bibliometric analysis of research and practice prospects",
         "pub_year": "2019",
         "citation": "Cities 94, 33-43, 2019",
-        "num_citations": 42,
+        "num_citations": 41,
         "author_pub_id": "U43hPn8AAAAJ:SrKkpNFED5gC"
     },
     {
@@ -155,11 +155,11 @@
         "title": "Assessment of quality of as-is building information models generated from point clouds using deviation analysis",
         "pub_year": "2011",
         "citation": "Proceedings of SPIE 7864, 78640F, 2011",
-        "num_citations": 58,
+        "num_citations": 60,
         "author_pub_id": "U43hPn8AAAAJ:Tyk-4Ss8FVUC"
     },
     {
-        "title": "Augmented reality communication on active construction sites: a pilot study exploring non-technological factors",
+        "title": "Augmented reality communication on active construction sites: A pilot study exploring non-technological factors",
         "pub_year": "2022",
         "citation": "Construction Research Congress 2022, 1202-1211, 2022",
         "num_citations": 6,
@@ -169,7 +169,7 @@
         "title": "Augmenting a deep-learning algorithm with canal inspection knowledge for reliable water leak detection from multispectral satellite images",
         "pub_year": "2020",
         "citation": "Advanced Engineering Informatics 46, 101161, 2020",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "U43hPn8AAAAJ:Oo1CbQkBAzEC"
     },
     {
@@ -204,7 +204,7 @@
         "title": "Automated flatness assessment for large quantities of full‐scale precast beams using laser scanning",
         "pub_year": "2024",
         "citation": "Computer‐Aided Civil and Infrastructure Engineering 39 (12), 1868-1885, 2024",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "U43hPn8AAAAJ:SWgZeABleR0C"
     },
     {
@@ -239,7 +239,7 @@
         "title": "Automatic Imagery Data Analysis for Proactive Computer-Based Workflow Management during Nuclear Power Plant Outages",
         "pub_year": "2018",
         "citation": "Arizona State Univ., Tempe, AZ (United States), 2018",
-        "num_citations": 0,
+        "num_citations": 5,
         "author_pub_id": "U43hPn8AAAAJ:0ngZmJvimKcC"
     },
     {
@@ -253,14 +253,14 @@
         "title": "Automatic communication error detection using speech recognition and linguistic analysis for proactive control of loss of separation",
         "pub_year": "2021",
         "citation": "Transportation Research Record 2675 (5), 1-12, 2021",
-        "num_citations": 15,
+        "num_citations": 14,
         "author_pub_id": "U43hPn8AAAAJ:Gpwnp1kGG20C"
     },
     {
         "title": "Automatic correlated vibration pattern analysis for a rapid remote scour assessment of civil infrastructure",
         "pub_year": "2016",
         "citation": "Construction Research Congress 2016, 819-828, 2016",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "U43hPn8AAAAJ:Vno172sVVMwC"
     },
     {
@@ -295,7 +295,7 @@
         "title": "Automatic reconstruction of as-built building information models from laser-scanned point clouds: A review of related techniques",
         "pub_year": "2010",
         "citation": "Automation in Construction 19 (7), 829-843, 2010",
-        "num_citations": 1306,
+        "num_citations": 1300,
         "author_pub_id": "U43hPn8AAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -333,11 +333,18 @@
         "author_pub_id": "U43hPn8AAAAJ:oqD4_j7ulsYC"
     },
     {
-        "title": "Building information modelling skills in construction-related disciplines: a social network and job advertisement-based comparative analysis",
+        "title": "Building information modelling skills in construction related disciplines: a social network and job advertisement-based comparative analysis",
         "pub_year": "2017",
-        "citation": "Eng. Proj. Organ. J 7, 2017",
+        "citation": "Engineering Project Organization Journal 7 (1), 16-16, 2017",
         "num_citations": 4,
         "author_pub_id": "U43hPn8AAAAJ:q0uBw5dMOAkC"
+    },
+    {
+        "title": "COMPUTING IN CIVIL ENGINEERING 2017",
+        "pub_year": "2017",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "U43hPn8AAAAJ:T8_be82Iz5gC"
     },
     {
         "title": "Calibrating subjective data biases and model predictive uncertainties in machine learning-based thermal perception predictions",
@@ -356,7 +363,7 @@
         "title": "Characterization of laser scanners and algorithms for detecting flatness defects on concrete surfaces",
         "pub_year": "2011",
         "citation": "Journal of Computing in Civil Engineering 25, 31, 2011",
-        "num_citations": 163,
+        "num_citations": 164,
         "author_pub_id": "U43hPn8AAAAJ:qjMakFHDy7sC"
     },
     {
@@ -391,7 +398,7 @@
         "title": "Characterizing the Role of Communications in Teams Carrying Out Building Inspection",
         "pub_year": "2018",
         "citation": "Construction Research Congress 2018, 554-564, 2018",
-        "num_citations": 14,
+        "num_citations": 13,
         "author_pub_id": "U43hPn8AAAAJ:X4-KO54GjGYC"
     },
     {
@@ -405,7 +412,7 @@
         "title": "Comparative analysis of machine learning and point-based algorithms for detecting 3D changes in buildings over time using bi-temporal lidar data",
         "pub_year": "2019",
         "citation": "Automation in Construction 105, 102841, 2019",
-        "num_citations": 85,
+        "num_citations": 89,
         "author_pub_id": "U43hPn8AAAAJ:bXQfdp6S9ecC"
     },
     {
@@ -419,14 +426,14 @@
         "title": "Comparing building information modeling skills of project managers and BIM managers based on social media analysis",
         "pub_year": "2016",
         "citation": "Procedia Engineering 145, 812-819, 2016",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "U43hPn8AAAAJ:ifOnle78iJkC"
     },
     {
         "title": "Computational simulation of live-bed bridge scour considering suspended sediment loads",
         "pub_year": "2017",
         "citation": "Journal of Computing in Civil Engineering 31 (5), 04017040, 2017",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "U43hPn8AAAAJ:JH5k92_tO-AC"
     },
     {
@@ -435,13 +442,6 @@
         "citation": "Automation in Construction 81, 300-312, 2017",
         "num_citations": 19,
         "author_pub_id": "U43hPn8AAAAJ:60iIaj97TE0C"
-    },
-    {
-        "title": "Computing in Civil Engineering 2017",
-        "pub_year": "2017",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "U43hPn8AAAAJ:T8_be82Iz5gC"
     },
     {
         "title": "Computing in Civil Engineering 2017: Information Modeling and Data Analytics",
@@ -454,7 +454,7 @@
         "title": "Computing in Civil Engineering 2017: Sensing, Simulation, and Visualization",
         "pub_year": "2017",
         "citation": "American Society of Civil Engineers, 2017",
-        "num_citations": 1,
+        "num_citations": 3,
         "author_pub_id": "U43hPn8AAAAJ:hKjooKYXoHIC"
     },
     {
@@ -475,14 +475,14 @@
         "title": "Construction Research Congress 2020: Computer Applications",
         "pub_year": "2020",
         "citation": "Construction Research Congress 2020, 2020",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "U43hPn8AAAAJ:Tfl4UtY-dJUC"
     },
     {
         "title": "Construction Research Congress 2020: Infrastructure Systems and Sustainability",
         "pub_year": "2020",
         "citation": "Construction Research Congress 2020, 2020",
-        "num_citations": 2,
+        "num_citations": 5,
         "author_pub_id": "U43hPn8AAAAJ:G36d5HCDkJYC"
     },
     {
@@ -503,7 +503,7 @@
         "title": "Construction supply chain management handbook",
         "pub_year": "2008",
         "citation": "CRC, 2008",
-        "num_citations": 226,
+        "num_citations": 224,
         "author_pub_id": "U43hPn8AAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -530,7 +530,7 @@
         "title": "Data quality-oriented 3D laser scan planning",
         "pub_year": "2014",
         "citation": "Construction Research Congress 2014: Construction in a Global Network, 984-993, 2014",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "U43hPn8AAAAJ:7Frjd3zlGBUC"
     },
     {
@@ -557,7 +557,7 @@
     {
         "title": "Detecting anomalous behaviors of air traffic controllers in time series of facial expressions and head poses",
         "pub_year": "2019",
-        "citation": "AIAA Aviation 2019 Forum, 1-8, 2019",
+        "citation": "AIAA Aviation, 1-8, 2019",
         "num_citations": 1,
         "author_pub_id": "U43hPn8AAAAJ:gV6rEsy15s0C"
     },
@@ -585,7 +585,7 @@
         "title": "Deviation analysis method for the assessment of the quality of the as-is Building Information Models generated from point cloud data",
         "pub_year": "2013",
         "citation": "Automation in construction 35, 507-516, 2013",
-        "num_citations": 212,
+        "num_citations": 214,
         "author_pub_id": "U43hPn8AAAAJ:bEWYMUwI8FkC"
     },
     {
@@ -634,7 +634,7 @@
         "title": "Enhancing Nuclear Power Plant Operations: An Ontology for Conditional Tasks",
         "pub_year": "2023",
         "citation": "Computing in Civil Engineering 2023, 597-604, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "U43hPn8AAAAJ:iKswqCX-FLkC"
     },
     {
@@ -655,11 +655,11 @@
         "title": "Extraction of surveying goals from point clouds obtained from laser scanners to support bridge inspection",
         "pub_year": "2009",
         "citation": "Dissertation Abstracts International 70 (09), 2009",
-        "num_citations": 8,
+        "num_citations": 7,
         "author_pub_id": "U43hPn8AAAAJ:zYLM7Y9cAGgC"
     },
     {
-        "title": "Facilitating Construction Scene Understanding Knowledge Sharing and Reuse via Lifelong Site Object Detection",
+        "title": "Facilitating construction scene understanding knowledge sharing and reuse via lifelong site object detection",
         "pub_year": "2022",
         "citation": "European Conference on Computer Vision, 228-243, 2022",
         "num_citations": 4,
@@ -676,7 +676,7 @@
         "title": "Feasibility of augmented reality technology for communication in the construction industry",
         "pub_year": "2021",
         "citation": "Advanced Engineering Informatics 50, 101363, 2021",
-        "num_citations": 38,
+        "num_citations": 40,
         "author_pub_id": "U43hPn8AAAAJ:wBLCggQE-ToC"
     },
     {
@@ -690,7 +690,7 @@
         "title": "Formalization of workflows for extracting bridge surveying goals from laser-scanned data",
         "pub_year": "2011",
         "citation": "Automation in Construction, 2011",
-        "num_citations": 65,
+        "num_citations": 64,
         "author_pub_id": "U43hPn8AAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -704,14 +704,14 @@
         "title": "Generalized building energy and carbon emissions benchmarking with post-prediction analysis",
         "pub_year": "2024",
         "citation": "Developments in the Built Environment 17, 100320, 2024",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "U43hPn8AAAAJ:oAywNP-vUhwC"
     },
     {
         "title": "Geometry-based optimized point cloud compression methodology for construction and infrastructure management",
         "pub_year": "2017",
         "citation": "Computing in Civil Engineering 2017, 377-385, 2017",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "U43hPn8AAAAJ:Ej9njvOgR2oC"
     },
     {
@@ -722,7 +722,7 @@
         "author_pub_id": "U43hPn8AAAAJ:8RAEygVn5_EC"
     },
     {
-        "title": "Hierarchical sampling for efficient and comprehensive community connectivity analysis: A Michigan case",
+        "title": "Hierarchical Sampling for Efficient and Comprehensive Community Connectivity Analysis: A Michigan Case",
         "pub_year": "2012",
         "citation": "Computing in Civil Engineering (2012), 33-40, 2012",
         "num_citations": 0,
@@ -746,7 +746,7 @@
         "title": "Human reliability for safe and efficient civil infrastructure operation and maintenance–A review",
         "pub_year": "2020",
         "citation": "Developments in the Built Environment 4, 100028, 2020",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "U43hPn8AAAAJ:d4tt_xEv1X8C"
     },
     {
@@ -774,7 +774,7 @@
         "title": "Human-centered automation for resilient nuclear power plant outage control",
         "pub_year": "2017",
         "citation": "Automation in Construction 82, 179-192, 2017",
-        "num_citations": 47,
+        "num_citations": 53,
         "author_pub_id": "U43hPn8AAAAJ:v_tt_AnqfNMC"
     },
     {
@@ -785,9 +785,16 @@
         "author_pub_id": "U43hPn8AAAAJ:cNe27ouKFcQC"
     },
     {
+        "title": "Identification Method for Pylon Scour Depth of Cable-stayed Bridges by Tracing Dynamic Index",
+        "pub_year": "2017",
+        "citation": "Journal of Hunan University 44 (11), 145-155, 2017",
+        "num_citations": 0,
+        "author_pub_id": "U43hPn8AAAAJ:XtJa11BXPS4C"
+    },
+    {
         "title": "Identification of bridge scour depth by tracing dynamic behaviors of superstructures",
         "pub_year": "2018",
-        "citation": "KSCE Journal of Civil Engineering 22, 1316-1327, 2018",
+        "citation": "KSCE Journal of Civil Engineering 22 (4), 1316-1327, 2018",
         "num_citations": 16,
         "author_pub_id": "U43hPn8AAAAJ:uUvzmPk0f8oC"
     },
@@ -795,7 +802,7 @@
         "title": "Image-based 3D reconstruction for Multi-Scale civil and infrastructure Projects: A review from 2012 to 2022 with new perspective from deep learning methods",
         "pub_year": "2024",
         "citation": "Advanced Engineering Informatics 59, 102268, 2024",
-        "num_citations": 18,
+        "num_citations": 22,
         "author_pub_id": "U43hPn8AAAAJ:IHkkN1K1AlAC"
     },
     {
@@ -858,7 +865,7 @@
         "title": "Knowledge Sharing and Workforce Engagement Using Digital Twins-Based Simulations and Extended Reality for Process Operations",
         "pub_year": "2023",
         "citation": "Computing in Civil Engineering 2023, 680-687, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "U43hPn8AAAAJ:It0W0vAlS5QC"
     },
     {
@@ -879,14 +886,14 @@
         "title": "Laser scanning for bridge inspection and management",
         "pub_year": "2007",
         "citation": "IABSE Symposium Report 93 (18), 17-24, 2007",
-        "num_citations": 49,
+        "num_citations": 52,
         "author_pub_id": "U43hPn8AAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "MER Spirit rover localization: Comparison of ground image–and orbital image–based methods and science applications",
         "pub_year": "2011",
         "citation": "J. Geophys. Res 116, E00F16, 2011",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "U43hPn8AAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -914,7 +921,7 @@
         "title": "Mining observation and cognitive behavior process patterns of bridge inspectors",
         "pub_year": "2021",
         "citation": "Computing in Civil Engineering 2021, 604-612, 2021",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "U43hPn8AAAAJ:Nufq_to8ts0C"
     },
     {
@@ -948,8 +955,8 @@
     {
         "title": "Non-contact bridge deflection measurement: Application of laser technology",
         "pub_year": "2011",
-        "citation": "",
-        "num_citations": 14,
+        "citation": "Proceedings of the International Conference Structural Engineering …, 2011",
+        "num_citations": 13,
         "author_pub_id": "U43hPn8AAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -963,7 +970,7 @@
         "title": "Physics-based model and data dual-driven approaches for predictive evacuation",
         "pub_year": "2023",
         "citation": "Developments in the Built Environment 16, 100269, 2023",
-        "num_citations": 4,
+        "num_citations": 6,
         "author_pub_id": "U43hPn8AAAAJ:I9gX6wnfuA8C"
     },
     {
@@ -976,14 +983,14 @@
         "title": "Planning for terrestrial laser scanning in construction: A review",
         "pub_year": "2021",
         "citation": "Automation in Construction 125, 103551, 2021",
-        "num_citations": 142,
+        "num_citations": 148,
         "author_pub_id": "U43hPn8AAAAJ:rFyVMFCKTwsC"
     },
     {
         "title": "Pose guided anchoring for detecting proper use of personal protective equipment",
         "pub_year": "2021",
         "citation": "Automation in Construction 130, 103828, 2021",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "U43hPn8AAAAJ:K4-iKlO5MD4C"
     },
     {
@@ -1053,14 +1060,14 @@
         "title": "Propagation mechanics from workplace hazards to human errors with dissipative structure theory",
         "pub_year": "2020",
         "citation": "Safety science 126, 104661, 2020",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "U43hPn8AAAAJ:c1AJUTjuCtUC"
     },
     {
         "title": "Quantification of edge loss of laser scanned data at spatial discontinuities",
         "pub_year": "2009",
         "citation": "Automation in Construction 18 (8), 1070-1083, 2009",
-        "num_citations": 155,
+        "num_citations": 154,
         "author_pub_id": "U43hPn8AAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -1074,7 +1081,7 @@
         "title": "Rapid data quality oriented laser scan planning for dynamic construction environments",
         "pub_year": "2016",
         "citation": "Advanced Engineering Informatics 30 (2), 218-232, 2016",
-        "num_citations": 96,
+        "num_citations": 97,
         "author_pub_id": "U43hPn8AAAAJ:R22Rs3tN8aoC"
     },
     {
@@ -1095,7 +1102,7 @@
         "title": "Reinforcement learning in construction engineering and management: A review",
         "pub_year": "2022",
         "citation": "Journal of Construction Engineering and Management 148 (11), 03122009, 2022",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "U43hPn8AAAAJ:_mQi-xiA4oYC"
     },
     {
@@ -1116,7 +1123,7 @@
         "title": "Sensing and field data capture for construction and facility operations",
         "pub_year": "2011",
         "citation": "Journal of construction engineering and management 137 (10), 870-881, 2011",
-        "num_citations": 93,
+        "num_citations": 94,
         "author_pub_id": "U43hPn8AAAAJ:ufrVoPGSRksC"
     },
     {
@@ -1144,7 +1151,7 @@
         "title": "Sensor modeling of laser scanners for automated scan planning on construction jobsites",
         "pub_year": "2012",
         "citation": "Construction Research Congress 2012: Construction Challenges in a Flat World …, 2012",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "U43hPn8AAAAJ:dhFuZR0502QC"
     },
     {
@@ -1198,7 +1205,8 @@
     },
     {
         "title": "Stabilizing Manufacturing Lines of Customized Building Mechanical Components under Uncertain Machinery Deterioration",
-        "citation": "Construction Research Congress 2024, 680-690, 0",
+        "pub_year": "2024",
+        "citation": "Construction Research Congress 2024, 680-690, 2024",
         "num_citations": 1,
         "author_pub_id": "U43hPn8AAAAJ:ybfzIt2tCtgC"
     },
@@ -1238,14 +1246,14 @@
         "title": "Surveying, geomatics, and 3D reconstruction",
         "pub_year": "2020",
         "citation": "Infrastructure computer vision, 13-64, 2020",
-        "num_citations": 21,
+        "num_citations": 19,
         "author_pub_id": "U43hPn8AAAAJ:yJjnfzR0HrkC"
     },
     {
         "title": "Systems and methods for automated spatial change detection and control of buildings and construction sites using three-dimensional laser scanning data",
         "pub_year": "2020",
         "citation": "US Patent 10,706,185, 2020",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "U43hPn8AAAAJ:WzTVkKNmPSkC"
     },
     {
@@ -1259,14 +1267,14 @@
         "title": "Target‐Focused Local Workspace Modeling for Construction Automation Applications",
         "pub_year": "2011",
         "citation": "Journal of Computing in Civil Engineering 1, 116, 2011",
-        "num_citations": 42,
+        "num_citations": 41,
         "author_pub_id": "U43hPn8AAAAJ:4DMP91E08xMC"
     },
     {
         "title": "Technological assessment and process implications of field data capture technologies for construction and facility/infrastructure management",
         "pub_year": "2008",
         "citation": "ITcon 13, 134-154, 2008",
-        "num_citations": 127,
+        "num_citations": 130,
         "author_pub_id": "U43hPn8AAAAJ:0EnyYjriUFMC"
     },
     {
@@ -1280,7 +1288,7 @@
         "title": "Time series analysis of hydraulic data for automated productivity monitoring of pilot tube microtunneling",
         "pub_year": "2016",
         "citation": "Journal of Pipeline Systems Engineering and Practice 7 (2), 04015022, 2016",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "U43hPn8AAAAJ:YPNY0knpFBYC"
     },
     {
@@ -1301,14 +1309,14 @@
         "title": "Toward automated spatial change analysis of MEP components using 3D point clouds and as-designed BIM models",
         "pub_year": "2014",
         "citation": "2014 2nd International Conference on 3D Vision 2, 145-152, 2014",
-        "num_citations": 47,
+        "num_citations": 49,
         "author_pub_id": "U43hPn8AAAAJ:bVQMTfhMCi4C"
     },
     {
         "title": "Toward integrated human-machine intelligence for civil engineering: An interdisciplinary perspective",
-        "pub_year": "2022",
-        "citation": "Computing in Civil Engineering 2021, 279-286, 2022",
-        "num_citations": 7,
+        "pub_year": "2021",
+        "citation": "Computing in Civil Engineering 2021, 279-286, 2021",
+        "num_citations": 8,
         "author_pub_id": "U43hPn8AAAAJ:cSdaV2aYdYsC"
     },
     {
@@ -1321,7 +1329,7 @@
         "title": "Use of value engineering to develop creative design solutions for marine construction projects",
         "pub_year": "2014",
         "citation": "Practice Periodical on Structural Design and Construction 19 (1), 129-136, 2014",
-        "num_citations": 44,
+        "num_citations": 47,
         "author_pub_id": "U43hPn8AAAAJ:TFP_iSt0sucC"
     },
     {
@@ -1335,7 +1343,7 @@
         "title": "Using laser scanners for modeling and analysis in architecture, engineering, and construction",
         "pub_year": "2010",
         "citation": "Information Sciences and Systems (CISS), 2010 44th Annual Conference on, 1-6, 2010",
-        "num_citations": 95,
+        "num_citations": 96,
         "author_pub_id": "U43hPn8AAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -1356,7 +1364,7 @@
         "title": "Visual complexity analysis of sparse imageries for automatic laser scan planning in dynamic environments",
         "pub_year": "2015",
         "citation": "Computing in Civil Engineering 2015, 271-279, 2015",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "U43hPn8AAAAJ:In6cVmBjs0IC"
     },
     {
@@ -1391,7 +1399,7 @@
         "title": "Water chlorophyll estimation in an urban canal system with high-resolution remote sensing data",
         "pub_year": "2020",
         "citation": "IEEE Geoscience and Remote Sensing Letters 18 (11), 1876-1880, 2020",
-        "num_citations": 4,
+        "num_citations": 6,
         "author_pub_id": "U43hPn8AAAAJ:q1zXlPLtbUIC"
     },
     {

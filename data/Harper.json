@@ -17,35 +17,35 @@
         "title": "COVID-19 public transit precautions: Trade-offs between risk reduction and costs",
         "pub_year": "2023",
         "citation": "Transportation Research Interdisciplinary Perspectives 18, 100762, 2023",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "79Ml-9YAAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "Coalitional fairness of autonomous vehicles at a t-intersection",
         "pub_year": "2022",
         "citation": "2022 IEEE 25th International Conference on Intelligent Transportation …, 2022",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "79Ml-9YAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "Congestion and environmental impacts of short car trip replacement with micromobility modes",
         "pub_year": "2022",
         "citation": "Transportation Research Part D: Transport and Environment 103, 103173, 2022",
-        "num_citations": 62,
+        "num_citations": 63,
         "author_pub_id": "79Ml-9YAAAAJ:kNdYIx-mwKoC"
     },
     {
         "title": "Connecting Pedestrians with Disabilities to Adaptive Signal Control for Safe Intersection Crossing and Enhanced Mobility: Final Report [2019]",
         "pub_year": "2019",
         "citation": "United States. Department of Transportation. Intelligent Transportation …, 2019",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "79Ml-9YAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Cost and benefit estimates of partially-automated vehicle collision avoidance technologies",
         "pub_year": "2016",
         "citation": "Accident Analysis & Prevention 95, 104-115, 2016",
-        "num_citations": 123,
+        "num_citations": 122,
         "author_pub_id": "79Ml-9YAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -80,7 +80,7 @@
         "title": "Estimating potential increases in travel with autonomous vehicles for the non-driving, elderly and people with travel-restrictive medical conditions",
         "pub_year": "2016",
         "citation": "Transportation research part C: emerging technologies 72, 1-9, 2016",
-        "num_citations": 609,
+        "num_citations": 610,
         "author_pub_id": "79Ml-9YAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -119,14 +119,20 @@
         "author_pub_id": "79Ml-9YAAAAJ:u5HHmVD_uO8C"
     },
     {
-        "title": "Improving Short-Term Travel Speed Prediction with High-Resolution Spatial and Temporal Rainfall Data",
+        "title": "Improving Safety for Battery Electric Vehicles",
+        "citation": "Carnegie Mellon University, 0",
+        "num_citations": 0,
+        "author_pub_id": "79Ml-9YAAAAJ:qUcmZB5y_30C"
+    },
+    {
+        "title": "Improving short-term travel speed prediction with high-resolution spatial and temporal rainfall data",
         "pub_year": "2021",
         "citation": "Journal of Transportation Engineering, Part A: Systems 147 (3), 04021004, 2021",
         "num_citations": 7,
         "author_pub_id": "79Ml-9YAAAAJ:Se3iqnhoufwC"
     },
     {
-        "title": "Incentives to encourage the adoption of connected and automated vehicles: Lessons learned from hybrid-electric vehicle incentive programs",
+        "title": "Incentives to encourage the adoption of connected and automated vehicles: lessons learned from hybrid-electric vehicle incentive programs",
         "pub_year": "2023",
         "citation": "Future Transportation 3 (3), 986-995, 2023",
         "num_citations": 6,
@@ -147,24 +153,31 @@
         "author_pub_id": "79Ml-9YAAAAJ:zYLM7Y9cAGgC"
     },
     {
+        "title": "Mapping the Gap: A Review of Residential Energy and Transportation Deficit Metrics",
+        "pub_year": "2025",
+        "citation": "Current Sustainable/Renewable Energy Reports 12 (1), 2, 2025",
+        "num_citations": 0,
+        "author_pub_id": "79Ml-9YAAAAJ:IWHjjKOFINEC"
+    },
+    {
         "title": "Net-societal and net-private benefits of some existing vehicle crash avoidance technologies",
         "pub_year": "2019",
         "citation": "Accident Analysis & Prevention 125, 207-216, 2019",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "79Ml-9YAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Online grocery delivery: Sustainable practice, or congestion generator and environmental burden?",
         "pub_year": "2023",
         "citation": "Transportation Research Part D: Transport and Environment 119, 103722, 2023",
-        "num_citations": 21,
+        "num_citations": 23,
         "author_pub_id": "79Ml-9YAAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "Ride-hailing technology mitigates effects of driver racial discrimination, but effects of residential segregation persist",
         "pub_year": "2024",
         "citation": "Proceedings of the National Academy of Sciences 121 (41), e2408936121, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "79Ml-9YAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -189,17 +202,10 @@
         "author_pub_id": "79Ml-9YAAAAJ:YsMSGLbcyi4C"
     },
     {
-        "title": "TRANSPORTATION INCLUDING VMT, MODE REPLACEMENT, PARKING, AND TRAVEL BEHAVIOR by ALEJANDRO HENAO BS, University of Colorado Boulder, 2006 MS, University of Colorado Denver, 2013 …",
-        "pub_year": "2018",
-        "citation": "Transportation Research Part C: Emerging Technologies 105 (100), 2018",
-        "num_citations": 0,
-        "author_pub_id": "79Ml-9YAAAAJ:8k81kl-MbHgC"
-    },
-    {
         "title": "Taking a multimodal approach to equitable bike share station siting",
         "pub_year": "2024",
         "citation": "Journal of Transport Geography 115, 103814, 2024",
-        "num_citations": 3,
+        "num_citations": 6,
         "author_pub_id": "79Ml-9YAAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -240,7 +246,7 @@
         "title": "What stay-at-home orders reveal about dependence on transportation network companies",
         "pub_year": "2023",
         "citation": "Transportation, 1-32, 2023",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "79Ml-9YAAAAJ:_kc_bZDykSQC"
     }
 ]

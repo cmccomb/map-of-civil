@@ -101,7 +101,7 @@
         "title": "Diversity, Equity, and Inclusion in Civil and Environmental Engineering Education: Social Justice in a Changing Climate",
         "pub_year": "2021",
         "citation": "2021 ASEE Virtual Annual Conference Content Access, 2021",
-        "num_citations": 18,
+        "num_citations": 20,
         "author_pub_id": "VH21b7cAAAAJ:4DMP91E08xMC"
     },
     {
@@ -122,7 +122,7 @@
         "title": "Excess Entropy Scaling in Active-Matter Systems",
         "pub_year": "2022",
         "citation": "The Journal of Physical Chemistry Letters 13 (22), 4949-4954, 2022",
-        "num_citations": 11,
+        "num_citations": 13,
         "author_pub_id": "VH21b7cAAAAJ:-f6ydRqryjwC"
     },
     {
@@ -171,7 +171,7 @@
         "title": "Hsp90 inhibition increases p53 expression and destabilizes MYCN and MYC in neuroblastoma",
         "pub_year": "2011",
         "citation": "International Journal of Oncology 38 (1), 105-112, 2011",
-        "num_citations": 52,
+        "num_citations": 54,
         "author_pub_id": "VH21b7cAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -199,7 +199,7 @@
         "title": "Measurement of τ polarization in W→τν decays with the ATLAS detector in pp collisions at ",
         "pub_year": "2012",
         "citation": "The European Physical Journal C 72 (7), 2062, 2012",
-        "num_citations": 90,
+        "num_citations": 89,
         "author_pub_id": "VH21b7cAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -322,6 +322,13 @@
         "author_pub_id": "VH21b7cAAAAJ:RGFaLdJalmkC"
     },
     {
+        "title": "Phonon mode resolved anharmonic heat capacity of solids",
+        "pub_year": "2025",
+        "citation": "Physical Review B 111 (6), 064305, 2025",
+        "num_citations": 0,
+        "author_pub_id": "VH21b7cAAAAJ:lSLTfruPkqcC"
+    },
+    {
         "title": "Physics of nanoscale immiscible fluid displacement",
         "pub_year": "2019",
         "citation": "Physical Review Fluids 4 (12), 124203, 2019",
@@ -413,6 +420,13 @@
         "author_pub_id": "VH21b7cAAAAJ:IWHjjKOFINEC"
     },
     {
+        "title": "Theoretical and experimental study on a novel 3D lattice-structured shock-absorption device produced by digital light processing additive manufacturing",
+        "pub_year": "2025",
+        "citation": "Journal of Vibration and Control, 10775463241310921, 2025",
+        "num_citations": 0,
+        "author_pub_id": "VH21b7cAAAAJ:vV6vV6tmYwMC"
+    },
+    {
         "title": "To Do Good, Learn Well: Engineering a Virtuous Cycle between Technical Rigor and Diverse, Equitable, and Inclusive Teaching Practice",
         "pub_year": "2022",
         "citation": "2022 ASEE Annual Conference & Exposition, 2022",
@@ -423,21 +437,28 @@
         "title": "Towards realizing nano-enabled precision delivery in plants",
         "pub_year": "2024",
         "citation": "Nature Nanotechnology, 1-15, 2024",
-        "num_citations": 23,
+        "num_citations": 27,
         "author_pub_id": "VH21b7cAAAAJ:GnPB-g6toBAC"
+    },
+    {
+        "title": "Understanding Nanoscale Slip through the Lens of Taylor-Aris Dispersion",
+        "pub_year": "2024",
+        "citation": "2024 AIChE Annual Meeting, 2024",
+        "num_citations": 0,
+        "author_pub_id": "VH21b7cAAAAJ:RYcK_YlVTxYC"
     },
     {
         "title": "Universal molecular-kinetic scaling relation for slip of a simple fluid at a solid boundary",
         "pub_year": "2019",
         "citation": "Physical Review Fluids 4 (6), 064201, 2019",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "VH21b7cAAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "Why are fluid densities so low in carbon nanotubes?",
         "pub_year": "2015",
         "citation": "Physics of Fluids 27 (5), 052006, 2015",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "VH21b7cAAAAJ:u5HHmVD_uO8C"
     }
 ]

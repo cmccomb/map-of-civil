@@ -17,7 +17,7 @@
         "title": "COVID-19 public transit precautions: Trade-offs between risk reduction and costs",
         "pub_year": "2023",
         "citation": "Transportation Research Interdisciplinary Perspectives 18, 100762, 2023",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "79Ml-9YAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -31,7 +31,7 @@
         "title": "Congestion and environmental impacts of short car trip replacement with micromobility modes",
         "pub_year": "2022",
         "citation": "Transportation Research Part D: Transport and Environment 103, 103173, 2022",
-        "num_citations": 60,
+        "num_citations": 62,
         "author_pub_id": "79Ml-9YAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -45,7 +45,7 @@
         "title": "Cost and benefit estimates of partially-automated vehicle collision avoidance technologies",
         "pub_year": "2016",
         "citation": "Accident Analysis & Prevention 95, 104-115, 2016",
-        "num_citations": 120,
+        "num_citations": 123,
         "author_pub_id": "79Ml-9YAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -80,7 +80,7 @@
         "title": "Estimating potential increases in travel with autonomous vehicles for the non-driving, elderly and people with travel-restrictive medical conditions",
         "pub_year": "2016",
         "citation": "Transportation research part C: emerging technologies 72, 1-9, 2016",
-        "num_citations": 601,
+        "num_citations": 609,
         "author_pub_id": "79Ml-9YAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -94,7 +94,7 @@
         "title": "Exploring the economic, environmental, and travel implications of changes in parking choices due to driverless vehicles: An agent-based simulation approach",
         "pub_year": "2018",
         "citation": "Journal of Urban Planning and Development 144 (4), 04018043, 2018",
-        "num_citations": 73,
+        "num_citations": 74,
         "author_pub_id": "79Ml-9YAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -103,6 +103,13 @@
         "citation": "United States. Department of Transportation. National Highway Traffic Safety …, 2021",
         "num_citations": 2,
         "author_pub_id": "79Ml-9YAAAAJ:UebtZRa9Y70C"
+    },
+    {
+        "title": "Finding gaps in the national electric vehicle charging station coverage of the United States",
+        "pub_year": "2025",
+        "citation": "Nature Communications 16 (1), 561, 2025",
+        "num_citations": 0,
+        "author_pub_id": "79Ml-9YAAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "Impacts of vehicle automation on workforce training and driver’s licensing",
@@ -122,7 +129,7 @@
         "title": "Incentives to encourage the adoption of connected and automated vehicles: Lessons learned from hybrid-electric vehicle incentive programs",
         "pub_year": "2023",
         "citation": "Future Transportation 3 (3), 986-995, 2023",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "79Ml-9YAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -143,21 +150,21 @@
         "title": "Net-societal and net-private benefits of some existing vehicle crash avoidance technologies",
         "pub_year": "2019",
         "citation": "Accident Analysis & Prevention 125, 207-216, 2019",
-        "num_citations": 23,
+        "num_citations": 26,
         "author_pub_id": "79Ml-9YAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Online grocery delivery: Sustainable practice, or congestion generator and environmental burden?",
         "pub_year": "2023",
         "citation": "Transportation Research Part D: Transport and Environment 119, 103722, 2023",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "79Ml-9YAAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "Ride-hailing technology mitigates effects of driver racial discrimination, but effects of residential segregation persist",
         "pub_year": "2024",
         "citation": "Proceedings of the National Academy of Sciences 121 (41), e2408936121, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "79Ml-9YAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -168,24 +175,17 @@
         "author_pub_id": "79Ml-9YAAAAJ:ULOm3_A8WrAC"
     },
     {
-        "title": "Safety and Cost Assessment of Connected and Automated Vehicles",
-        "pub_year": "2018",
-        "citation": "Carnegie-Mellon University. Technologies for Safe and Efficient …, 2018",
-        "num_citations": 3,
-        "author_pub_id": "79Ml-9YAAAAJ:2osOgNQ5qMEC"
-    },
-    {
         "title": "Societal Impacts of a Complete Street Project in a Mixed Urban Corridor: Case Study in Pittsburgh",
         "pub_year": "2021",
         "citation": "Journal of Infrastructure Systems 27 (2), 05021003, 2021",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "79Ml-9YAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Socioeconomic and usage characteristics of transportation network company (TNC) riders",
         "pub_year": "2020",
         "citation": "Transportation 47, 3047-3067, 2020",
-        "num_citations": 125,
+        "num_citations": 132,
         "author_pub_id": "79Ml-9YAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -199,8 +199,15 @@
         "title": "Taking a multimodal approach to equitable bike share station siting",
         "pub_year": "2024",
         "citation": "Journal of Transport Geography 115, 103814, 2024",
-        "num_citations": 1,
+        "num_citations": 3,
         "author_pub_id": "79Ml-9YAAAAJ:Wp0gIr-vW9MC"
+    },
+    {
+        "title": "Technologue",
+        "pub_year": "2019",
+        "citation": "American Scientist 107 (6), 334-337, 2019",
+        "num_citations": 0,
+        "author_pub_id": "79Ml-9YAAAAJ:L8Ckcad2t8MC"
     },
     {
         "title": "Transforming Transportation Planning and Policy for Safety",
@@ -233,7 +240,7 @@
         "title": "What stay-at-home orders reveal about dependence on transportation network companies",
         "pub_year": "2023",
         "citation": "Transportation, 1-32, 2023",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "79Ml-9YAAAAJ:_kc_bZDykSQC"
     }
 ]
